@@ -1,0 +1,7616 @@
+[
+  {
+    "id": 1,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Veri Latince hangi kavramdan gelir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Factum"
+      },
+      {
+        "harf": "B",
+        "metin": "Datum"
+      },
+      {
+        "harf": "C",
+        "metin": "Veritas"
+      },
+      {
+        "harf": "D",
+        "metin": "Informatio"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Bir veri setinde belirli niteliklerden oluşan varlıkların bir araya gelmesinden ne oluşur?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Rastgele liste"
+      },
+      {
+        "harf": "B",
+        "metin": "Grup/Küme"
+      },
+      {
+        "harf": "C",
+        "metin": "Tek varlık"
+      },
+      {
+        "harf": "D",
+        "metin": "Boş küme"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Kategorik veriler üzerinde hangi işlem yapılamaz?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sıralama"
+      },
+      {
+        "harf": "B",
+        "metin": "Aritmetiksel işlem"
+      },
+      {
+        "harf": "C",
+        "metin": "Karşılaştırma"
+      },
+      {
+        "harf": "D",
+        "metin": "Gruplama"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Sayısal veriler hangi sorulara cevap verir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Neden, niçin"
+      },
+      {
+        "harf": "B",
+        "metin": "Kaç, ne kadar, ne sıklıkla"
+      },
+      {
+        "harf": "C",
+        "metin": "Kim, nerede"
+      },
+      {
+        "harf": "D",
+        "metin": "Hangi, ne zaman"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Yapılandırılmış veriler genellikle hangi şekilde oluşturulur?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Rastgele metin"
+      },
+      {
+        "harf": "B",
+        "metin": "Satır ve sütunlar"
+      },
+      {
+        "harf": "C",
+        "metin": "Görseller"
+      },
+      {
+        "harf": "D",
+        "metin": "Ses dosyaları"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Veri bilimi çalışmasının ilk aşaması nedir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Modelleme"
+      },
+      {
+        "harf": "B",
+        "metin": "Problemin tanımı"
+      },
+      {
+        "harf": "C",
+        "metin": "Veri görselleştirme"
+      },
+      {
+        "harf": "D",
+        "metin": "Tahmin"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Açıklayıcı analiz neye yöneliktir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Gelecek tahminlerine"
+      },
+      {
+        "harf": "B",
+        "metin": "Neler olduğunu anlamaya"
+      },
+      {
+        "harf": "C",
+        "metin": "Nedenlere"
+      },
+      {
+        "harf": "D",
+        "metin": "Eylemlere"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Teşhis analizi hangi soruyu bulur?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Ne"
+      },
+      {
+        "harf": "B",
+        "metin": "Neden"
+      },
+      {
+        "harf": "C",
+        "metin": "Nasıl"
+      },
+      {
+        "harf": "D",
+        "metin": "Ne zaman"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Tahmine dayalı analiz ne yapar?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Geçmişi açıklar"
+      },
+      {
+        "harf": "B",
+        "metin": "Gelecek tahminleri"
+      },
+      {
+        "harf": "C",
+        "metin": "Kurallar tanımlar"
+      },
+      {
+        "harf": "D",
+        "metin": "Nedenleri bulur"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Veri temizlemede ne tamamlanır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Fazla veriler"
+      },
+      {
+        "harf": "B",
+        "metin": "Eksik/Tekrarlı veriler"
+      },
+      {
+        "harf": "C",
+        "metin": "Azaltılmış veriler"
+      },
+      {
+        "harf": "D",
+        "metin": "Dönüştürülmüş veriler"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Veri birleştirmede ne yapılır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Veriyi silme"
+      },
+      {
+        "harf": "B",
+        "metin": "Farklı kaynaklardan ilişkili verileri birleştirme"
+      },
+      {
+        "harf": "C",
+        "metin": "Veriyi ayırma"
+      },
+      {
+        "harf": "D",
+        "metin": "Veriyi görselleştirme"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Veri görselleştirme ne için en etkin yöntemdir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Veriyi depolama"
+      },
+      {
+        "harf": "B",
+        "metin": "Verileri anlama"
+      },
+      {
+        "harf": "C",
+        "metin": "Veriyi silme"
+      },
+      {
+        "harf": "D",
+        "metin": "Veriyi dönüştürme"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Çizgi grafikler neyi bağlar?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Kategorik verileri"
+      },
+      {
+        "harf": "B",
+        "metin": "Sürekli nicel verileri çizgilerle"
+      },
+      {
+        "harf": "C",
+        "metin": "Dağılımları"
+      },
+      {
+        "harf": "D",
+        "metin": "Bileşimleri"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Bar grafikler değerleri neyle gösterir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Çizgilerle"
+      },
+      {
+        "harf": "B",
+        "metin": "Dikdörtgen çubuklarla"
+      },
+      {
+        "harf": "C",
+        "metin": "Noktalarla"
+      },
+      {
+        "harf": "D",
+        "metin": "Pasta dilimleriyle"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Scatter plot ne gösterir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Tek değişken"
+      },
+      {
+        "harf": "B",
+        "metin": "İki eksene dayalı sayısal veri noktalarını"
+      },
+      {
+        "harf": "C",
+        "metin": "Frekans aralıklarını"
+      },
+      {
+        "harf": "D",
+        "metin": "Maks-min değerleri"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Histogram neyi görselleştirir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "İki değişken ilişkisi"
+      },
+      {
+        "harf": "B",
+        "metin": "Tek bir değişkenin değer dağılımını"
+      },
+      {
+        "harf": "C",
+        "metin": "Karşılaştırmalar"
+      },
+      {
+        "harf": "D",
+        "metin": "Oranlar"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Kutu grafikleri ne gösterir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yalnızca ortalama"
+      },
+      {
+        "harf": "B",
+        "metin": "Maksimum, minimum, medyan gibi değerler"
+      },
+      {
+        "harf": "C",
+        "metin": "Çizgi değişimleri"
+      },
+      {
+        "harf": "D",
+        "metin": "Pasta oranları"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Tanımlayıcı istatistik neye yönelik yöntemlerdir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Gelecek tahminlerine"
+      },
+      {
+        "harf": "B",
+        "metin": "Mevcut veriyi anlamaya"
+      },
+      {
+        "harf": "C",
+        "metin": "Eylemlere"
+      },
+      {
+        "harf": "D",
+        "metin": "Nedenlere"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Merkezi eğilim verilerin hangi merkezde toplandığına yönelik ne?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yayılımlar"
+      },
+      {
+        "harf": "B",
+        "metin": "Çıkarımlar"
+      },
+      {
+        "harf": "C",
+        "metin": "Tahminler"
+      },
+      {
+        "harf": "D",
+        "metin": "Dağılımlar"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Medyan neyi alır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "En sık değeri"
+      },
+      {
+        "harf": "B",
+        "metin": "Sayı setindeki orta noktayı"
+      },
+      {
+        "harf": "C",
+        "metin": "Toplamı"
+      },
+      {
+        "harf": "D",
+        "metin": "Varyansı"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Mod nedir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Orta nokta"
+      },
+      {
+        "harf": "B",
+        "metin": "En sık rastlanan sayı"
+      },
+      {
+        "harf": "C",
+        "metin": "Ortalama"
+      },
+      {
+        "harf": "D",
+        "metin": "Sapma"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Aralık değeri ne arasındaki farktır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Ortalama ve medyan"
+      },
+      {
+        "harf": "B",
+        "metin": "En düşük ve en yüksek değer"
+      },
+      {
+        "harf": "C",
+        "metin": "Mod ve varyans"
+      },
+      {
+        "harf": "D",
+        "metin": "Sapma ve ortalama"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Varyans neyin ortalamasıdır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Mutlak farkların"
+      },
+      {
+        "harf": "B",
+        "metin": "Farkların karesinin"
+      },
+      {
+        "harf": "C",
+        "metin": "Toplamların"
+      },
+      {
+        "harf": "D",
+        "metin": "Medyanların"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Yapay zeka ve makine öğrenimi ne çıkarma sürecidir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Veri"
+      },
+      {
+        "harf": "B",
+        "metin": "Bilgi"
+      },
+      {
+        "harf": "C",
+        "metin": "Grafik"
+      },
+      {
+        "harf": "D",
+        "metin": "Model"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Lineer regresyon neyi modellemek için kullanılır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Eğrisel ilişki"
+      },
+      {
+        "harf": "B",
+        "metin": "Doğrusal ilişki"
+      },
+      {
+        "harf": "C",
+        "metin": "Rastgele"
+      },
+      {
+        "harf": "D",
+        "metin": "Kümeleme"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Karar ağaçları neyi temsil eder?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Rastgele kararlar"
+      },
+      {
+        "harf": "B",
+        "metin": "Karmaşık kararları hiyerarşik yapılarla"
+      },
+      {
+        "harf": "C",
+        "metin": "Olasılıklar"
+      },
+      {
+        "harf": "D",
+        "metin": "Mesafeler"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Lojistik regresyon ne tahmin eder?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sürekli değerler"
+      },
+      {
+        "harf": "B",
+        "metin": "Kategorik sonuçlar"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme sayıları"
+      },
+      {
+        "harf": "D",
+        "metin": "Varyanslar"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "tip": "coktan-secmeli",
+    "soruMetni": "En yakın komşular algoritması neye dayanır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Olasılıklara"
+      },
+      {
+        "harf": "B",
+        "metin": "Benzerlik temelli tahminlere"
+      },
+      {
+        "harf": "C",
+        "metin": "Karar düğümlerine"
+      },
+      {
+        "harf": "D",
+        "metin": "Küme merkezlerine"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Naive Bayes neye dayanır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Mesafe hesaplamalarına"
+      },
+      {
+        "harf": "B",
+        "metin": "Olasılıksal istatistiksel yöntemlere"
+      },
+      {
+        "harf": "C",
+        "metin": "Ağaç yapılara"
+      },
+      {
+        "harf": "D",
+        "metin": "Vektörlere"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "tip": "coktan-secmeli",
+    "soruMetni": "K-Means algoritması verileri neye ayırır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Rastgele gruplara"
+      },
+      {
+        "harf": "B",
+        "metin": "Benzer gruplara"
+      },
+      {
+        "harf": "C",
+        "metin": "Sınıflara"
+      },
+      {
+        "harf": "D",
+        "metin": "Tahminlere"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Keşifsel veri analizi neye yardımcı olur?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Veri silmeye"
+      },
+      {
+        "harf": "B",
+        "metin": "Verilerin temel yönünü anlamaya"
+      },
+      {
+        "harf": "C",
+        "metin": "Modellemeye"
+      },
+      {
+        "harf": "D",
+        "metin": "Raporlamaya"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Veri dönüşümü ne için yapılır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Veriyi silmek"
+      },
+      {
+        "harf": "B",
+        "metin": "Modellerin daha iyi performans sağlaması"
+      },
+      {
+        "harf": "C",
+        "metin": "Veriyi arttırmak"
+      },
+      {
+        "harf": "D",
+        "metin": "Veriyi azaltmak"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Heatmap neyi temsil eder?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sayısal değerleri renk doygunluğu olarak"
+      },
+      {
+        "harf": "B",
+        "metin": "Çizgi değişimleri"
+      },
+      {
+        "harf": "C",
+        "metin": "Pasta dilimleri"
+      },
+      {
+        "harf": "D",
+        "metin": "Noktaları"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Pasta grafikleri ne için kullanılır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Zaman değişimini göstermek"
+      },
+      {
+        "harf": "B",
+        "metin": "Bir bütünün parçalarını kıyaslamak"
+      },
+      {
+        "harf": "C",
+        "metin": "Dağılımları göstermek"
+      },
+      {
+        "harf": "D",
+        "metin": "İlişkileri göstermek"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Normal dağılım verilerin ne etrafında yoğunlaştığı dağılımdır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Medyan"
+      },
+      {
+        "harf": "B",
+        "metin": "Ortalama"
+      },
+      {
+        "harf": "C",
+        "metin": "Mod"
+      },
+      {
+        "harf": "D",
+        "metin": "Sapma"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Simetrik dağılımda veriler ne etrafında dengelidir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sağda"
+      },
+      {
+        "harf": "B",
+        "metin": "Merkezde"
+      },
+      {
+        "harf": "C",
+        "metin": "Solda"
+      },
+      {
+        "harf": "D",
+        "metin": "Yukarıda"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Pozitif çarpıklık verilerin ne tarafına kaydığı durumdur?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sola"
+      },
+      {
+        "harf": "B",
+        "metin": "Sağ"
+      },
+      {
+        "harf": "C",
+        "metin": "Ortaya"
+      },
+      {
+        "harf": "D",
+        "metin": "Aşağı"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Makine öğrenimi tipleri arasında ne yer alır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yalnızca denetimli"
+      },
+      {
+        "harf": "B",
+        "metin": "Gözetimli, gözetimsiz ve pekiştirmeli öğrenme"
+      },
+      {
+        "harf": "C",
+        "metin": "Yalnızca denetimsiz"
+      },
+      {
+        "harf": "D",
+        "metin": "Yalnızca pekiştirmeli"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Derin öğrenme neyi kullanır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Basit katmanlar"
+      },
+      {
+        "harf": "B",
+        "metin": "Yapay sinir ağlarının karmaşık gizli katmanlarını"
+      },
+      {
+        "harf": "C",
+        "metin": "Yalnızca regresyon"
+      },
+      {
+        "harf": "D",
+        "metin": "Yalnızca kümeleme"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Accuracy metriği neyi ölçer?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yanlış tahminleri"
+      },
+      {
+        "harf": "B",
+        "metin": "Toplam doğru tahmin oranını"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme kalitesini"
+      },
+      {
+        "harf": "D",
+        "metin": "Hata karesini"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Dengesiz veri setlerinde accuracy neden yanıltıcıdır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Azınlık sınıfını dikkate alır"
+      },
+      {
+        "harf": "B",
+        "metin": "Çoğunluk sınıfını tahmin etmekle yüksek değer alır"
+      },
+      {
+        "harf": "C",
+        "metin": "Her zaman düşük çıkar"
+      },
+      {
+        "harf": "D",
+        "metin": "Kümeleme için uygundur"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Precision neyi ifade eder?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Gerçek pozitif yakalama oranı"
+      },
+      {
+        "harf": "B",
+        "metin": "Tahmin edilen pozitiflerin doğruluğu"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme içi benzerlik"
+      },
+      {
+        "harf": "D",
+        "metin": "Varyans oranı"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Recall neyi ölçer?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yanlış pozitif oranı"
+      },
+      {
+        "harf": "B",
+        "metin": "Gerçek pozitiflerin doğru tahmin oranı"
+      },
+      {
+        "harf": "C",
+        "metin": "Hata karesini"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgemesini"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "tip": "coktan-secmeli",
+    "soruMetni": "F1-score neyin harmonik ortalamasıdır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Accuracy ve specificity"
+      },
+      {
+        "harf": "B",
+        "metin": "Precision ve recall"
+      },
+      {
+        "harf": "C",
+        "metin": "MSE ve MAE"
+      },
+      {
+        "harf": "D",
+        "metin": "Silhouette ve Davies-Bouldin"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "tip": "coktan-secmeli",
+    "soruMetni": "ROC-AUC neyi gösterir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Regresyon hatasını"
+      },
+      {
+        "harf": "B",
+        "metin": "Sınıflandırıcının farklı eşik performansını"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme ayrımını"
+      },
+      {
+        "harf": "D",
+        "metin": "Veri boyutunu"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "tip": "coktan-secmeli",
+    "soruMetni": "PR-AUC dengesiz verilerde neden uygundur?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Pozitif sınıfa odaklanır"
+      },
+      {
+        "harf": "B",
+        "metin": "Negatif sınıfa odaklanır"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme için kullanılır"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme için kullanılır"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Specificity nedir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Gerçek negatif doğru tahmin oranı"
+      },
+      {
+        "harf": "B",
+        "metin": "Gerçek pozitif oranı"
+      },
+      {
+        "harf": "C",
+        "metin": "Yanlış pozitif oranı"
+      },
+      {
+        "harf": "D",
+        "metin": "Küme sayısı"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Confusion matrix'te TP neyi gösterir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Pozitif sınıfın doğru tahmini"
+      },
+      {
+        "harf": "B",
+        "metin": "Negatif sınıfın yanlış tahmini"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme merkezini"
+      },
+      {
+        "harf": "D",
+        "metin": "Hata karesini"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Regresyonda MSE neyin ortalamasıdır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Mutlak hataların"
+      },
+      {
+        "harf": "B",
+        "metin": "Hataların karelerinin"
+      },
+      {
+        "harf": "C",
+        "metin": "Yüzde hataların"
+      },
+      {
+        "harf": "D",
+        "metin": "Logaritmik hataların"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "tip": "coktan-secmeli",
+    "soruMetni": "R² neyi ifade eder?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Hata karesini"
+      },
+      {
+        "harf": "B",
+        "metin": "Modelin varyansın ne kadarını açıkladığını"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme kalitesini"
+      },
+      {
+        "harf": "D",
+        "metin": "Precision değerini"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Adjusted R² neyi cezalandırır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Az değişkeni"
+      },
+      {
+        "harf": "B",
+        "metin": "Fazla değişken eklenmesini"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme sayısını"
+      },
+      {
+        "harf": "D",
+        "metin": "Veri boyutunu"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "tip": "coktan-secmeli",
+    "soruMetni": "MAPE hataları ne olarak ifade eder?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Kare olarak"
+      },
+      {
+        "harf": "B",
+        "metin": "Yüzde olarak"
+      },
+      {
+        "harf": "C",
+        "metin": "Mutlak olarak"
+      },
+      {
+        "harf": "D",
+        "metin": "Logaritmik olarak"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Silhouette skoru neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Küme içi benzerlik ve küme dışı ayrım"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon hatasını"
+      },
+      {
+        "harf": "C",
+        "metin": "Precision'ı"
+      },
+      {
+        "harf": "D",
+        "metin": "Accuracy'ı"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Silhouette skoru aralığı nedir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "0 ile 1"
+      },
+      {
+        "harf": "B",
+        "metin": "-1 ile +1"
+      },
+      {
+        "harf": "C",
+        "metin": "-∞ ile +∞"
+      },
+      {
+        "harf": "D",
+        "metin": "0 ile 100"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Davies-Bouldin indeksi düşük değer aldığında neyi gösterir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Kötü kümeleme"
+      },
+      {
+        "harf": "B",
+        "metin": "İyi kümeleme"
+      },
+      {
+        "harf": "C",
+        "metin": "Yüksek hata"
+      },
+      {
+        "harf": "D",
+        "metin": "Düşük doğruluk"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Calinski-Harabasz indeksi yüksekse kümeleme nasıldır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Kötü"
+      },
+      {
+        "harf": "B",
+        "metin": "İyi"
+      },
+      {
+        "harf": "C",
+        "metin": "Regresyon için iyi"
+      },
+      {
+        "harf": "D",
+        "metin": "Sınıflandırma için iyi"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Elbow yöntemi ne ile ilişkilidir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Accuracy"
+      },
+      {
+        "harf": "B",
+        "metin": "WCSS (Within-Cluster Sum of Squares)"
+      },
+      {
+        "harf": "C",
+        "metin": "F1-score"
+      },
+      {
+        "harf": "D",
+        "metin": "R²"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Cross-validation neyi değerlendirir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Küme sayısını"
+      },
+      {
+        "harf": "B",
+        "metin": "Modelin genelleme yeteneğini"
+      },
+      {
+        "harf": "C",
+        "metin": "Boyut indirgemesini"
+      },
+      {
+        "harf": "D",
+        "metin": "Etiket üretimini"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Stratified k-fold ne zaman tercih edilir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Dengeli verilerde"
+      },
+      {
+        "harf": "B",
+        "metin": "Dengesiz sınıflı verilerde"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme için"
+      },
+      {
+        "harf": "D",
+        "metin": "Zaman serisi için"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Log Loss neyi cezalandırır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Doğru tahminleri"
+      },
+      {
+        "harf": "B",
+        "metin": "Yanlış tahmin güvenini"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme içini"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyutu"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Hinge Loss hangi algoritmaya özgüdür?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Linear Regression"
+      },
+      {
+        "harf": "B",
+        "metin": "SVM"
+      },
+      {
+        "harf": "C",
+        "metin": "K-Means"
+      },
+      {
+        "harf": "D",
+        "metin": "PCA"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Adjusted Rand Index ne için kullanılır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Regresyon hatası"
+      },
+      {
+        "harf": "B",
+        "metin": "Gerçek etiketli kümeleme değerlendirmesi"
+      },
+      {
+        "harf": "C",
+        "metin": "Sınıflandırma accuracy"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Homogeneity neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Her kümenin tek sınıf içermesi"
+      },
+      {
+        "harf": "B",
+        "metin": "Sınıfın birden çok kümede olması"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme içi varyansı"
+      },
+      {
+        "harf": "D",
+        "metin": "Küme arası ayrımı"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Completeness neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Aynı sınıf noktalarının aynı kümede olması"
+      },
+      {
+        "harf": "B",
+        "metin": "Her kümenin birden çok sınıf içermesi"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme sayısı"
+      },
+      {
+        "harf": "D",
+        "metin": "Hata karesi"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "tip": "coktan-secmeli",
+    "soruMetni": "V-Measure neyin harmonik ortalamasıdır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Homogeneity ve completeness"
+      },
+      {
+        "harf": "B",
+        "metin": "Precision ve recall"
+      },
+      {
+        "harf": "C",
+        "metin": "MSE ve MAE"
+      },
+      {
+        "harf": "D",
+        "metin": "R² ve Adjusted R²"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Macro-average ne anlama gelir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sınıf büyüklüğüne göre ortalama"
+      },
+      {
+        "harf": "B",
+        "metin": "Her sınıfın metriğini eşit ağırlıkla ortalama"
+      },
+      {
+        "harf": "C",
+        "metin": "Sadece pozitif sınıf"
+      },
+      {
+        "harf": "D",
+        "metin": "Kümeleme metriği"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Micro-average neyi yapar?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Tüm tahminleri global ortalama alır"
+      },
+      {
+        "harf": "B",
+        "metin": "Her sınıfı ayrı ortalama alır"
+      },
+      {
+        "harf": "C",
+        "metin": "Negatif sınıfı dikkate alır"
+      },
+      {
+        "harf": "D",
+        "metin": "Regresyon için kullanılır"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Weighted-average neye göre ağırlık verir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Eşit ağırlık"
+      },
+      {
+        "harf": "B",
+        "metin": "Sınıf örnek sayılarına"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme merkezlerine"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgemesine"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Huber Loss ne için tercih edilir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sınıflandırma"
+      },
+      {
+        "harf": "B",
+        "metin": "Aykırı değerlere dayanıklı regresyon"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Hamming Loss ne için kullanılır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Regresyon"
+      },
+      {
+        "harf": "B",
+        "metin": "Multi-label sınıflandırma"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme"
+      },
+      {
+        "harf": "D",
+        "metin": "Zaman serisi"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Jaccard Similarity neyi ölçer?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Regresyon hatası"
+      },
+      {
+        "harf": "B",
+        "metin": "Set benzerliğini"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme içi varyansı"
+      },
+      {
+        "harf": "D",
+        "metin": "Accuracy'ı"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Normalized Mutual Information ne için kullanılır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Regresyon"
+      },
+      {
+        "harf": "B",
+        "metin": "Gerçek etiketli kümeleme değerlendirmesi"
+      },
+      {
+        "harf": "C",
+        "metin": "Sınıflandırma"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Rand Index neyi ölçer?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Hata karesini"
+      },
+      {
+        "harf": "B",
+        "metin": "İki kümeleme arasındaki anlaşma derecesi"
+      },
+      {
+        "harf": "C",
+        "metin": "Precision'ı"
+      },
+      {
+        "harf": "D",
+        "metin": "Recall'ı"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Mean Average Precision (mAP) hangi alanda yaygındır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Regresyon"
+      },
+      {
+        "harf": "B",
+        "metin": "Nesne tespiti"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme"
+      },
+      {
+        "harf": "D",
+        "metin": "Zaman serisi"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "tip": "coktan-secmeli",
+    "soruMetni": "RMSLE ne zaman tercih edilir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Kümeleme için"
+      },
+      {
+        "harf": "B",
+        "metin": "Büyük ölçek farkları olan hedeflerde"
+      },
+      {
+        "harf": "C",
+        "metin": "Sınıflandırma için"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme için"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "tip": "coktan-secmeli",
+    "soruMetni": "SMAPE neyi düzeltir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Küme sayısını"
+      },
+      {
+        "harf": "B",
+        "metin": "Sıfıra yakın değerlerdeki bölme sorununu"
+      },
+      {
+        "harf": "C",
+        "metin": "Precision'ı"
+      },
+      {
+        "harf": "D",
+        "metin": "Silhouette'ı"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Birden fazla metrik kullanmak neden önerilir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yalnızca accuracy için"
+      },
+      {
+        "harf": "B",
+        "metin": "Dengeli değerlendirme için"
+      },
+      {
+        "harf": "C",
+        "metin": "Yalnızca MSE için"
+      },
+      {
+        "harf": "D",
+        "metin": "Yalnızca Silhouette için"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Overfitting neyle tespit edilir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Eğitim düşük, test yüksek"
+      },
+      {
+        "harf": "B",
+        "metin": "Eğitim yüksek, test düşük"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme yüksek"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut düşük"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Underfitting neyle belli olur?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Her sette yüksek performans"
+      },
+      {
+        "harf": "B",
+        "metin": "Her sette düşük performans"
+      },
+      {
+        "harf": "C",
+        "metin": "Yalnızca eğitimde yüksek"
+      },
+      {
+        "harf": "D",
+        "metin": "Yalnızca testte yüksek"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Zaman serisi için hangi metrik yaygındır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Silhouette"
+      },
+      {
+        "harf": "B",
+        "metin": "MAPE"
+      },
+      {
+        "harf": "C",
+        "metin": "F1-score"
+      },
+      {
+        "harf": "D",
+        "metin": "Davies-Bouldin"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Macro-average dengesiz sınıflarda neden faydalıdır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Büyük sınıfları öne çıkarır"
+      },
+      {
+        "harf": "B",
+        "metin": "Sınıfları eşit değerlendirir"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme için kullanılır"
+      },
+      {
+        "harf": "D",
+        "metin": "Regresyon için kullanılır"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "tip": "coktan-secmeli",
+    "soruMetni": "PR-AUC neden tercih edilir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Negatif sınıfa odaklanır"
+      },
+      {
+        "harf": "B",
+        "metin": "Dengesiz verilerde pozitif sınıfa odaklanır"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme odaklanır"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut odaklanır"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Dunn indeksi yüksekse kümeler nasıldır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Karışık"
+      },
+      {
+        "harf": "B",
+        "metin": "Kompakt ve ayrık"
+      },
+      {
+        "harf": "C",
+        "metin": "Hata yüksek"
+      },
+      {
+        "harf": "D",
+        "metin": "Doğruluk düşük"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Explained Variance Score neyi gösterir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Küme oranını"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyonda açıklanan varyans oranını"
+      },
+      {
+        "harf": "C",
+        "metin": "Precision oranını"
+      },
+      {
+        "harf": "D",
+        "metin": "Recall oranını"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Cross-validation ortalaması neden güvenilirdir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Tek split'e göre"
+      },
+      {
+        "harf": "B",
+        "metin": "Şans eseri sonuçları azaltır"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme sayısına göre"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyuta göre"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Veri, bilginin en küçük ________dir.",
+    "dogruCevap": "birimi"
+  },
+  {
+    "id": 87,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Bir veri seti, belirli niteliklerden oluşan bir grup varlığın bir araya gelmesinden ________.",
+    "dogruCevap": "oluşur"
+  },
+  {
+    "id": 88,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Kategorik veriler, ölçülemez ve üzerinde ________ işlem yapılamaz.",
+    "dogruCevap": "aritmetiksel"
+  },
+  {
+    "id": 89,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Sayısal veriler, \"Kaç\", \"Ne kadar\" ve \"Ne sıklıkla\" ________ cevap verirler.",
+    "dogruCevap": "sorularına"
+  },
+  {
+    "id": 90,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Oransal veriler, sıfır noktasında başlar ve hiçbir zaman sıfırın ________ düşmez.",
+    "dogruCevap": "altına"
+  },
+  {
+    "id": 91,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Yapılandırılmış veriler, genellikle satır ve ________ oluşurlar.",
+    "dogruCevap": "sütunlardan"
+  },
+  {
+    "id": 92,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Veri bilimi çalışmasının ilk aşaması, problemin ________ aşamasıdır.",
+    "dogruCevap": "tanımı"
+  },
+  {
+    "id": 93,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Açıklayıcı analiz, geçmiş verilere bakarak \"neler ________ anlamaya yöneliktir.",
+    "dogruCevap": "olduğunu\""
+  },
+  {
+    "id": 94,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Teşhis analizi, \"Neden\" sorusunu bulmak için yapılan ________ analizidir.",
+    "dogruCevap": "analizlerdir"
+  },
+  {
+    "id": 95,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Tahmine dayalı analiz, gelecek hakkında ________ yapar.",
+    "dogruCevap": "tahminler"
+  },
+  {
+    "id": 96,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Kuralcı analiz, eylem/aksiyon için ________ de tanımlar.",
+    "dogruCevap": "süreçleri"
+  },
+  {
+    "id": 97,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Keşifsel veri analizi (EDA), genellikle makine öğrenimi modellemesi ________ verilere ait içgörü oluşturur.",
+    "dogruCevap": "öncesi"
+  },
+  {
+    "id": 98,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Veri temizlemede, eksik verilerin ________ işlemi yapılır.",
+    "dogruCevap": "tamamlanması"
+  },
+  {
+    "id": 99,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Veri birleştirmede, farklı kaynaklardan gelen ilişkili verilerin ________ işlemi yapılır.",
+    "dogruCevap": "birleştirilmesi"
+  },
+  {
+    "id": 100,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Min-Max normalleştirmesi, verilerin belirli bir ________ aralığına ölçeklendirilmesini sağlar.",
+    "dogruCevap": "aralık"
+  },
+  {
+    "id": 101,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Veri görselleştirme, verilerin anlaşılması için en ________ yöntemdir.",
+    "dogruCevap": "etkin"
+  },
+  {
+    "id": 102,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Çizgi grafikler, sürekli nicel verileri ________ bağlarlar.",
+    "dogruCevap": "çizgilerle"
+  },
+  {
+    "id": 103,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Bar grafikler, değerlerin dikdörtgen ________ gösterildiği grafik tipleridir.",
+    "dogruCevap": "çubuklarla"
+  },
+  {
+    "id": 104,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Scatter plot, iki eksene dayalı sayısal veri ________ gösteren grafiklerdir.",
+    "dogruCevap": "noktalarını"
+  },
+  {
+    "id": 105,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Histogram, tek bir değişkenin veri ________ görselleştirir.",
+    "dogruCevap": "dağılımını"
+  },
+  {
+    "id": 106,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Kutu grafikleri, maksimum, minimum, medyan gibi ________ gösterir.",
+    "dogruCevap": "değerleri"
+  },
+  {
+    "id": 107,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Tanımlayıcı istatistik, mevcut veriyi anlamaya ________ yöntemlerdir.",
+    "dogruCevap": "yönelik"
+  },
+  {
+    "id": 108,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Merkezi eğilim, verilerin hangi merkezde ________ yönelik çıkarımlardır.",
+    "dogruCevap": "toplandığına"
+  },
+  {
+    "id": 109,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Aritmetiksel ortalama, bütün sayıların toplamının, veri ________ bölünmesiyle elde edilir.",
+    "dogruCevap": "sayısına"
+  },
+  {
+    "id": 110,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Medyan, sayı setindeki sayıların fiziksel olarak ________ noktasını alır.",
+    "dogruCevap": "orta"
+  },
+  {
+    "id": 111,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Mod, bir sayı setinde en sık rastlanan ________.",
+    "dogruCevap": "sayıdır"
+  },
+  {
+    "id": 112,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Yayılım eğilimi, merkezi eğilimin tam ________.",
+    "dogruCevap": "tersidir"
+  },
+  {
+    "id": 113,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Aralık değeri, en düşük değer ile en yüksek değer arasındaki ________.",
+    "dogruCevap": "farkı"
+  },
+  {
+    "id": 114,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Varyans, sayı setindeki her bir değerin ortalama ile olan farkının karesinin ________.",
+    "dogruCevap": "ortalaması"
+  },
+  {
+    "id": 115,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Yapay zeka ve makine öğrenimi, veriden ________ çıkarma sürecidir.",
+    "dogruCevap": "bilgi"
+  },
+  {
+    "id": 116,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Lineer regresyon, bağımlı ve bağımsız değişkenler arasındaki ________ ilişkiyi modellemek için kullanılır.",
+    "dogruCevap": "doğrusal"
+  },
+  {
+    "id": 117,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Karar ağaçları, karmaşık kararları ________ yapılarla temsil eder.",
+    "dogruCevap": "hiyerarşik"
+  },
+  {
+    "id": 118,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Destek vektör makineleri, sınıflandırma ve ________ için kullanılır.",
+    "dogruCevap": "regresyon"
+  },
+  {
+    "id": 119,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Lojistik regresyon, kategorik ________ tahmin etmek için kullanılır.",
+    "dogruCevap": "sonuçları"
+  },
+  {
+    "id": 120,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "En yakın komşular algoritması, benzerlik temelli ________ yapar.",
+    "dogruCevap": "tahminler"
+  },
+  {
+    "id": 121,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Naive Bayes algoritması, olasılıksal ________ yöntemlerine dayanır.",
+    "dogruCevap": "istatistiksel"
+  },
+  {
+    "id": 122,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "K-Means kümeleme algoritması, verileri ________ gruplara ayırır.",
+    "dogruCevap": "benzer"
+  },
+  {
+    "id": 123,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Büyük veri ve yapay zeka, bütün alanları ________ ve etkilemeye devam edecektir.",
+    "dogruCevap": "etkilemiş"
+  },
+  {
+    "id": 124,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Veri bilimi kılavuzu, teknik bilgiye ihtiyaç duymadan ________ sunar.",
+    "dogruCevap": "anlayış"
+  },
+  {
+    "id": 125,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Verilerin saklanması, analiz ve kullanım için ________ gereklidir.",
+    "dogruCevap": "altyapı"
+  },
+  {
+    "id": 126,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Keşifsel veri analizi, verilerin ________ yönünü anlamaya yardımcı olur.",
+    "dogruCevap": "temel"
+  },
+  {
+    "id": 127,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Veri dönüşümü, modellerin daha iyi ________ sağlayabilmesi için yapılır.",
+    "dogruCevap": "performans"
+  },
+  {
+    "id": 128,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Heatmap, sayısal değerlerin renk ________ olarak temsil edildiği grafik tipleridir.",
+    "dogruCevap": "doygunluğu"
+  },
+  {
+    "id": 129,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Pasta grafikleri, bir bütünün parçalarını ________ için kullanılır.",
+    "dogruCevap": "kıyaslamak"
+  },
+  {
+    "id": 130,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Normal dağılım, verilerin ________ etrafında yoğunlaştığı bir dağılım türüdür.",
+    "dogruCevap": "ortalama"
+  },
+  {
+    "id": 131,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Simetrik dağılımda, veriler ________ etrafında dengelidir.",
+    "dogruCevap": "merkezde"
+  },
+  {
+    "id": 132,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Pozitif çarpıklık, verilerin ________ tarafına kaydığı durumdur.",
+    "dogruCevap": "sağ"
+  },
+  {
+    "id": 133,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Makine öğrenimi tipleri arasında gözetimli, gözetimsiz ve ________ öğrenme yer alır.",
+    "dogruCevap": "pekiştirmeli"
+  },
+  {
+    "id": 134,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Derin öğrenme, yapay sinir ağlarının daha karmaşık ________ katmanlarını kullanır.",
+    "dogruCevap": "gizli"
+  },
+  {
+    "id": 135,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Performans kriterleri, bir makine öğrenme modelinin ________'ini ölçer.",
+    "dogruCevap": "başarısını"
+  },
+  {
+    "id": 136,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Sınıflandırma'da accuracy, toplam doğru tahminlerin tüm ________'e oranıdır.",
+    "dogruCevap": "tahminlere"
+  },
+  {
+    "id": 137,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Dengesiz veri setlerinde accuracy, çoğunluk sınıfını tahmin etmekle yüksek ________ alır.",
+    "dogruCevap": "değer"
+  },
+  {
+    "id": 138,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Precision, tahmin edilen pozitiflerin kaçının gerçek ________ olduğunu ölçer.",
+    "dogruCevap": "pozitif"
+  },
+  {
+    "id": 139,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Recall, gerçek pozitiflerin kaçını doğru ________ ettiğini gösterir.",
+    "dogruCevap": "tahmin"
+  },
+  {
+    "id": 140,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "F1-score, precision ve recall'ün ________ ortalamasıdır.",
+    "dogruCevap": "harmonik"
+  },
+  {
+    "id": 141,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "ROC eğrisi, True Positive Rate ve False Positive Rate'i ________.",
+    "dogruCevap": "karşılaştırır"
+  },
+  {
+    "id": 142,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "AUC değeri 0.5'ten yüksekse model rastgeleden daha ________.",
+    "dogruCevap": "iyi"
+  },
+  {
+    "id": 143,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Confusion matrix, model hatalarını TP, TN, FP, FN ________ ile gösterir.",
+    "dogruCevap": "hücreleriyle"
+  },
+  {
+    "id": 144,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Specificity, gerçek negatiflerin doğru tahmin ________'ıdır.",
+    "dogruCevap": "oranı"
+  },
+  {
+    "id": 145,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Regresyon'da MSE, hataların kare ________'ıdır.",
+    "dogruCevap": "ortalaması"
+  },
+  {
+    "id": 146,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "RMSE, MSE'nin ________'üdür.",
+    "dogruCevap": "karekökü"
+  },
+  {
+    "id": 147,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "MAE, aykırı değerlere MSE'den daha ________'dır.",
+    "dogruCevap": "dayanıklı"
+  },
+  {
+    "id": 148,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "R², modelin varyansın ne kadarını ________'ığını gösterir.",
+    "dogruCevap": "açıkladığını"
+  },
+  {
+    "id": 149,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Adjusted R², fazla değişken eklendiğinde ________.",
+    "dogruCevap": "cezalandırır"
+  },
+  {
+    "id": 150,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Kümeleme'de Silhouette skoru, küme içi ve küme dışı ________ karşılaştırır.",
+    "dogruCevap": "benzerliği"
+  },
+  {
+    "id": 151,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Silhouette skoru pozitifse kümeler iyi ________.",
+    "dogruCevap": "ayrılmış"
+  },
+  {
+    "id": 152,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Davies-Bouldin indeksi düşükse kümeleme ________.",
+    "dogruCevap": "iyi"
+  },
+  {
+    "id": 153,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Calinski-Harabasz indeksi yüksekse kümeleme ________.",
+    "dogruCevap": "iyi"
+  },
+  {
+    "id": 154,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Elbow yöntemi, WCSS grafiğinde ________ noktasıyla optimal küme sayısını belirler.",
+    "dogruCevap": "dirsek"
+  },
+  {
+    "id": 155,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Cross-validation, modelin genelleme ________'ini test eder.",
+    "dogruCevap": "yeteneğini"
+  },
+  {
+    "id": 156,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "K-fold cross-validation'da veri K ________'ya bölünür.",
+    "dogruCevap": "parçaya"
+  },
+  {
+    "id": 157,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Log Loss, olasılıksal çıktılarda yanlış tahminleri ________.",
+    "dogruCevap": "cezalandırır"
+  },
+  {
+    "id": 158,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Hinge Loss, SVM'de margin'ı ________ eder.",
+    "dogruCevap": "maksimize"
+  },
+  {
+    "id": 159,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "MAPE, hataları yüzde ________ ifade eder.",
+    "dogruCevap": "olarak"
+  },
+  {
+    "id": 160,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Adjusted Rand Index (ARI), gerçek etiketler bilindiğinde kümeleme ________.",
+    "dogruCevap": "değerlendirmesi"
+  },
+  {
+    "id": 161,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Homogeneity, her kümenin yalnızca bir ________ içermesi.",
+    "dogruCevap": "sınıf"
+  },
+  {
+    "id": 162,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Completeness, aynı sınıftaki noktaların aynı ________ ait olması.",
+    "dogruCevap": "kümeye"
+  },
+  {
+    "id": 163,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "V-Measure, homogeneity ve completeness'in harmonik ________'ıdır.",
+    "dogruCevap": "ortalaması"
+  },
+  {
+    "id": 164,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Macro-average, her sınıfın metriğini eşit ________ ortalama alır.",
+    "dogruCevap": "ağırlıkla"
+  },
+  {
+    "id": 165,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Micro-average, tüm tahminleri birleştirip global ________ alır.",
+    "dogruCevap": "ortalama"
+  },
+  {
+    "id": 166,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Weighted-average, sınıf örnek sayılarına göre ________ verir.",
+    "dogruCevap": "ağırlık"
+  },
+  {
+    "id": 167,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Huber Loss, aykırı değerlere karşı dayanıklı ________.",
+    "dogruCevap": "regresyon"
+  },
+  {
+    "id": 168,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Hamming Loss, çok etiketli sınıflandırmada yanlış etiket ________'ını ölçer.",
+    "dogruCevap": "oranını"
+  },
+  {
+    "id": 169,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Jaccard Similarity, çok etiketli sınıflandırmada set ________'liğini ölçer.",
+    "dogruCevap": "benzerliği"
+  },
+  {
+    "id": 170,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Normalized Mutual Information (NMI), kümeleme ile gerçek etiket ________'lığını ölçer.",
+    "dogruCevap": "bağımlılığını"
+  },
+  {
+    "id": 171,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Rand Index, iki kümeleme arasındaki anlaşma ________'sini ölçer.",
+    "dogruCevap": "derecesini"
+  },
+  {
+    "id": 172,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Cophenetic Correlation Coefficient, hiyerarşik kümeleme ________'sini ölçer.",
+    "dogruCevap": "kalitesini"
+  },
+  {
+    "id": 173,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Mean Average Precision (mAP), bilgi geri kazanımı ve nesne ________'inde yaygındır.",
+    "dogruCevap": "tespiti"
+  },
+  {
+    "id": 174,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Root Mean Squared Logarithmic Error (RMSLE), büyük ölçek farkları olan hedef ________'lerde tercih edilir.",
+    "dogruCevap": "değişkenlerde"
+  },
+  {
+    "id": 175,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "SMAPE, sıfıra yakın değerlerdeki bölme ________'unu düzeltir.",
+    "dogruCevap": "sorununu"
+  },
+  {
+    "id": 176,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Kullanılan metriklerin dengeli olması için birden fazla ________ kullanmak önerilir.",
+    "dogruCevap": "metrik"
+  },
+  {
+    "id": 177,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Model karşılaştırmasında cross-validation ________ en güvenilirdir.",
+    "dogruCevap": "ortalaması"
+  },
+  {
+    "id": 178,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Overfitting, eğitim setinde yüksek, test setinde düşük ________ gösterir.",
+    "dogruCevap": "performans"
+  },
+  {
+    "id": 179,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Underfitting, her iki sette de düşük ________ gösterir.",
+    "dogruCevap": "performans"
+  },
+  {
+    "id": 180,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Zaman serisi problemlerinde MAPE yaygın ________ kullanılır.",
+    "dogruCevap": "metrik"
+  },
+  {
+    "id": 181,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Multiclass sınıflandırmada macro-average, her sınıfı eşit ________ alır.",
+    "dogruCevap": "ağırlıkla"
+  },
+  {
+    "id": 182,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Micro-average, tüm tahminleri ________ global ortalama alır.",
+    "dogruCevap": "birleştirip"
+  },
+  {
+    "id": 183,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Weighted-average, sınıf ________ sayılarına göre ağırlık alır.",
+    "dogruCevap": "örnek"
+  },
+  {
+    "id": 184,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Huber Loss, küçük hatalarda MSE gibi, büyük hatalarda MAE gibi ________.",
+    "dogruCevap": "davranır"
+  },
+  {
+    "id": 185,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Sınıflandırma problemlerinde en temel performans metriği hangisidir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Accuracy"
+      },
+      {
+        "harf": "B",
+        "metin": "MSE"
+      },
+      {
+        "harf": "C",
+        "metin": "Silhouette Score"
+      },
+      {
+        "harf": "D",
+        "metin": "R²"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Dengesiz veri setlerinde accuracy neden yanıltıcı olabilir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Çoğunluk sınıfını tahmin etmekle yüksek değer alır"
+      },
+      {
+        "harf": "B",
+        "metin": "Her zaman düşük çıkar"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme için uygundur"
+      },
+      {
+        "harf": "D",
+        "metin": "Regresyon için kullanılır"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Precision hangi durumda önemlidir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yanlış pozitiflerin maliyetli olduğu durumlarda"
+      },
+      {
+        "harf": "B",
+        "metin": "Yanlış negatiflerin maliyetli olduğu durumlarda"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme kalitesini ölçerken"
+      },
+      {
+        "harf": "D",
+        "metin": "Regresyon hatasını hesaplarken"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Recall (duyarlılık) hangi durumda önceliklidir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yanlış negatiflerin (kaçırılan pozitiflerin) pahalı olduğu durumlarda"
+      },
+      {
+        "harf": "B",
+        "metin": "Yanlış pozitiflerin pahalı olduğu durumlarda"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme için"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme için"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "tip": "coktan-secmeli",
+    "soruMetni": "F1-score neyin harmonik ortalamasıdır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Precision ve Recall"
+      },
+      {
+        "harf": "B",
+        "metin": "Accuracy ve Specificity"
+      },
+      {
+        "harf": "C",
+        "metin": "MSE ve MAE"
+      },
+      {
+        "harf": "D",
+        "metin": "Silhouette ve Davies-Bouldin"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "tip": "coktan-secmeli",
+    "soruMetni": "ROC-AUC neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sınıflandırıcının farklı eşik değerlerindeki performansını"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon doğruluğunu"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme ayrımını"
+      },
+      {
+        "harf": "D",
+        "metin": "Model karmaşıklığını"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "tip": "coktan-secmeli",
+    "soruMetni": "PR-AUC (Precision-Recall AUC) hangi veri setlerinde daha uygundur?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Dengesiz (imbalanced) veri setlerinde"
+      },
+      {
+        "harf": "B",
+        "metin": "Dengeli veri setlerinde"
+      },
+      {
+        "harf": "C",
+        "metin": "Regresyon problemlerinde"
+      },
+      {
+        "harf": "D",
+        "metin": "Kümeleme problemlerinde"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Specificity (özgüllük) nedir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Gerçek negatiflerin doğru tahmin oranı"
+      },
+      {
+        "harf": "B",
+        "metin": "Gerçek pozitiflerin doğru tahmin oranı"
+      },
+      {
+        "harf": "C",
+        "metin": "Yanlış pozitif oranı"
+      },
+      {
+        "harf": "D",
+        "metin": "Yanlış negatif oranı"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Confusion matrix'te True Positive (TP) neyi gösterir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Pozitif sınıfın doğru tahmin edilmesi"
+      },
+      {
+        "harf": "B",
+        "metin": "Negatif sınıfın yanlış tahmin edilmesi"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme merkezini"
+      },
+      {
+        "harf": "D",
+        "metin": "Hata karesini"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Regresyon problemlerinde en yaygın hata metriği hangisidir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Mean Squared Error (MSE)"
+      },
+      {
+        "harf": "B",
+        "metin": "Accuracy"
+      },
+      {
+        "harf": "C",
+        "metin": "F1-score"
+      },
+      {
+        "harf": "D",
+        "metin": "Silhouette score"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "tip": "coktan-secmeli",
+    "soruMetni": "RMSE'nin MSE'ye göre avantajı nedir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Hata birimleriyle aynı ölçekte olur"
+      },
+      {
+        "harf": "B",
+        "metin": "Daha küçük değer verir"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme için uygundur"
+      },
+      {
+        "harf": "D",
+        "metin": "Dengesiz verilerde daha iyi"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "tip": "coktan-secmeli",
+    "soruMetni": "MAE (Mean Absolute Error) hangi durumda MSE'den daha uygundur?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Aykırı değerlere (outlier) karşı daha dayanıklıdır"
+      },
+      {
+        "harf": "B",
+        "metin": "Her zaman daha yüksek değer verir"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme için kullanılır"
+      },
+      {
+        "harf": "D",
+        "metin": "Sınıflandırma için uygundur"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "tip": "coktan-secmeli",
+    "soruMetni": "R² (korelasyon katsayısı) neyi ifade eder?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Modelin varyansın ne kadarını açıkladığını"
+      },
+      {
+        "harf": "B",
+        "metin": "Hata karesini"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme kalitesini"
+      },
+      {
+        "harf": "D",
+        "metin": "Precision değerini"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Adjusted R²'nin R²'ye göre avantajı nedir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Daha fazla değişken eklendiğinde cezalandırır"
+      },
+      {
+        "harf": "B",
+        "metin": "Her zaman daha yüksektir"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme için kullanılır"
+      },
+      {
+        "harf": "D",
+        "metin": "Dengesiz verilerde daha iyidir"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "tip": "coktan-secmeli",
+    "soruMetni": "MAPE (Mean Absolute Percentage Error) hangi durumda tercih edilir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Hataları yüzde olarak ifade etmek istendiğinde"
+      },
+      {
+        "harf": "B",
+        "metin": "Kümeleme için"
+      },
+      {
+        "harf": "C",
+        "metin": "Sınıflandırma için"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme için"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Kümeleme performansını değerlendirmek için kullanılan içsel (internal) metrik hangisidir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Silhouette Score"
+      },
+      {
+        "harf": "B",
+        "metin": "Accuracy"
+      },
+      {
+        "harf": "C",
+        "metin": "MSE"
+      },
+      {
+        "harf": "D",
+        "metin": "F1-score"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Silhouette skoru neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Küme içi benzerlik ve küme dışı ayrım"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon hatasını"
+      },
+      {
+        "harf": "C",
+        "metin": "Precision değerini"
+      },
+      {
+        "harf": "D",
+        "metin": "Accuracy oranını"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Silhouette skoru aralığı nedir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "-1 ile +1 arası"
+      },
+      {
+        "harf": "B",
+        "metin": "0 ile 1 arası"
+      },
+      {
+        "harf": "C",
+        "metin": "-∞ ile +∞"
+      },
+      {
+        "harf": "D",
+        "metin": "0 ile 100"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Davies-Bouldin indeksi neyi ifade eder?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Küme ayrımının ne kadar iyi olduğunu (düşük değer daha iyi)"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon doğruluğunu"
+      },
+      {
+        "harf": "C",
+        "metin": "Sınıflandırma hatasını"
+      },
+      {
+        "harf": "D",
+        "metin": "Veri boyutunu"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Calinski-Harabasz indeksi (Variance Ratio Criterion) neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Küme arası dağılımın küme içi dağılıma oranını (yüksek değer daha iyi)"
+      },
+      {
+        "harf": "B",
+        "metin": "Hata karesini"
+      },
+      {
+        "harf": "C",
+        "metin": "Precision değerini"
+      },
+      {
+        "harf": "D",
+        "metin": "Recall değerini"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Elbow yöntemi hangi metrikle ilişkilidir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Within-Cluster Sum of Squares (WCSS)"
+      },
+      {
+        "harf": "B",
+        "metin": "Accuracy"
+      },
+      {
+        "harf": "C",
+        "metin": "F1-score"
+      },
+      {
+        "harf": "D",
+        "metin": "R²"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Dunn indeksi neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Küme içi kompaktlık ve küme arası ayrımı (yüksek değer daha iyi)"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon hatasını"
+      },
+      {
+        "harf": "C",
+        "metin": "Sınıflandırma doğruluğunu"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme oranını"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Cross-validation hangi amaçla kullanılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Modelin genelleme yeteneğini değerlendirmek"
+      },
+      {
+        "harf": "B",
+        "metin": "Küme sayısını belirlemek"
+      },
+      {
+        "harf": "C",
+        "metin": "Boyut indirgemek"
+      },
+      {
+        "harf": "D",
+        "metin": "Etiket üretmek"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Stratified k-fold cross-validation ne zaman tercih edilir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Dengesiz sınıflı veri setlerinde"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon problemlerinde"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme problemlerinde"
+      },
+      {
+        "harf": "D",
+        "metin": "Zaman serisi verilerinde"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Leave-One-Out Cross-Validation (LOOCV) hangi durumda uygundur?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Veri seti çok küçükse"
+      },
+      {
+        "harf": "B",
+        "metin": "Veri seti çok büyükse"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme için"
+      },
+      {
+        "harf": "D",
+        "metin": "Derin öğrenme için"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Log Loss (Cross-Entropy Loss) hangi problemlerde kullanılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sınıflandırma (özellikle olasılıksal çıktılar)"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Hinge Loss hangi algoritmaya özgüdür?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "SVM"
+      },
+      {
+        "harf": "B",
+        "metin": "Linear Regression"
+      },
+      {
+        "harf": "C",
+        "metin": "K-Means"
+      },
+      {
+        "harf": "D",
+        "metin": "Hierarchical Clustering"
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Mean Absolute Error (MAE) hangi durumda daha iyidir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Aykırı değerlerin etkisi az olsun istenirse"
+      },
+      {
+        "harf": "B",
+        "metin": "Kare hatalar önemliyse"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme için"
+      },
+      {
+        "harf": "D",
+        "metin": "Sınıflandırma için"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Explained Variance Score neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Modelin açıkladığı varyans oranını (regresyon)"
+      },
+      {
+        "harf": "B",
+        "metin": "Küme kalitesini"
+      },
+      {
+        "harf": "C",
+        "metin": "Precision değerini"
+      },
+      {
+        "harf": "D",
+        "metin": "Recall değerini"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Adjusted Rand Index (ARI) ne için kullanılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Gerçek etiketler bilindiğinde kümeleme değerlendirmesi"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon hatası"
+      },
+      {
+        "harf": "C",
+        "metin": "Sınıflandırma accuracy"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme"
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Mutual Information Score (MI) neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Kümeleme sonuçları ile gerçek etiketler arasındaki bağımlılık"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon hatasını"
+      },
+      {
+        "harf": "C",
+        "metin": "Precision değerini"
+      },
+      {
+        "harf": "D",
+        "metin": "Silhouette skorunu"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Homogeneity, kümelemede neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Her kümenin yalnızca bir sınıf içermesi"
+      },
+      {
+        "harf": "B",
+        "metin": "Her sınıfın yalnızca bir küme içinde olması"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme içi varyansı"
+      },
+      {
+        "harf": "D",
+        "metin": "Küme arası ayrımı"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Completeness, kümelemede neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Aynı sınıftaki noktaların aynı kümeye ait olması"
+      },
+      {
+        "harf": "B",
+        "metin": "Her kümenin tek sınıf içermesi"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme sayısı"
+      },
+      {
+        "harf": "D",
+        "metin": "Hata karesi"
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "tip": "coktan-secmeli",
+    "soruMetni": "V-Measure, neyin harmonik ortalamasıdır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Homogeneity ve Completeness"
+      },
+      {
+        "harf": "B",
+        "metin": "Precision ve Recall"
+      },
+      {
+        "harf": "C",
+        "metin": "MSE ve MAE"
+      },
+      {
+        "harf": "D",
+        "metin": "R² ve Adjusted R²"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Zaman serisi problemlerinde hangi metrik yaygın kullanılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "MAPE"
+      },
+      {
+        "harf": "B",
+        "metin": "Silhouette score"
+      },
+      {
+        "harf": "C",
+        "metin": "F1-score"
+      },
+      {
+        "harf": "D",
+        "metin": "Davies-Bouldin"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Multiclass sınıflandırmada macro-average ne anlama gelir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Her sınıfın metriğini eşit ağırlıkla ortalama"
+      },
+      {
+        "harf": "B",
+        "metin": "Sınıf büyüklüğüne göre ağırlıklı ortalama"
+      },
+      {
+        "harf": "C",
+        "metin": "Sadece pozitif sınıfı dikkate alma"
+      },
+      {
+        "harf": "D",
+        "metin": "Kümeleme metriği"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Micro-average ne anlama gelir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Tüm tahminleri birleştirip global ortalama alma"
+      },
+      {
+        "harf": "B",
+        "metin": "Her sınıfı eşit ağırlıkla ortalama"
+      },
+      {
+        "harf": "C",
+        "metin": "Sadece negatif sınıfı dikkate alma"
+      },
+      {
+        "harf": "D",
+        "metin": "Regresyon metriği"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Weighted-average, multiclass'ta neyi dikkate alır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sınıf örnek sayılarına göre ağırlık"
+      },
+      {
+        "harf": "B",
+        "metin": "Her sınıfı eşit ağırlıkla"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme merkezlerini"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme oranını"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Huber Loss hangi durumda tercih edilir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Aykırı değerlere karşı dayanıklı regresyon"
+      },
+      {
+        "harf": "B",
+        "metin": "Sınıflandırma"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Quantile Loss hangi problem için kullanılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Quantile regresyon (yüzdelik tahmin)"
+      },
+      {
+        "harf": "B",
+        "metin": "Sınıflandırma"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme"
+      },
+      {
+        "harf": "D",
+        "metin": "PCA"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Hamming Loss ne için kullanılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Çok etiketli (multi-label) sınıflandırma"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme"
+      },
+      {
+        "harf": "D",
+        "metin": "Zaman serisi"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Jaccard Similarity neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Çok etiketli sınıflandırmada set benzerliği"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon hatası"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme içi varyans"
+      },
+      {
+        "harf": "D",
+        "metin": "Accuracy"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Normalized Mutual Information (NMI) ne için kullanılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Kümeleme değerlendirmesi (gerçek etiket varsa)"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon"
+      },
+      {
+        "harf": "C",
+        "metin": "Sınıflandırma"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Rand Index neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "İki kümeleme arasındaki anlaşma derecesi"
+      },
+      {
+        "harf": "B",
+        "metin": "Hata karesini"
+      },
+      {
+        "harf": "C",
+        "metin": "Precision değerini"
+      },
+      {
+        "harf": "D",
+        "metin": "Recall değerini"
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Cophenetic Correlation Coefficient hangi kümeleme türünde kullanılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Hiyerarşik kümeleme (dendrogram kalitesi)"
+      },
+      {
+        "harf": "B",
+        "metin": "K-Means"
+      },
+      {
+        "harf": "C",
+        "metin": "DBSCAN"
+      },
+      {
+        "harf": "D",
+        "metin": "Regresyon"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Mean Average Precision (mAP) hangi alanda yaygındır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Bilgi geri kazanımı ve nesne tespiti"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme"
+      },
+      {
+        "harf": "D",
+        "metin": "Zaman serisi"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Root Mean Squared Logarithmic Error (RMSLE) ne zaman tercih edilir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Büyük ölçek farkları olan hedef değişkenlerde"
+      },
+      {
+        "harf": "B",
+        "metin": "Kümeleme için"
+      },
+      {
+        "harf": "C",
+        "metin": "Sınıflandırma için"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme için"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "tip": "coktan-secmeli",
+    "soruMetni": "SMAPE (Symmetric MAPE) neyi düzeltir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sıfıra yakın değerlerdeki bölme sorununu"
+      },
+      {
+        "harf": "B",
+        "metin": "Küme sayısını"
+      },
+      {
+        "harf": "C",
+        "metin": "Precision değerini"
+      },
+      {
+        "harf": "D",
+        "metin": "Silhouette skorunu"
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Kullanılan metriklerin dengeli olması için hangisi önerilir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Birden fazla metrik kullanmak (örneğin Accuracy + F1 + AUC)"
+      },
+      {
+        "harf": "B",
+        "metin": "Yalnızca Accuracy"
+      },
+      {
+        "harf": "C",
+        "metin": "Yalnızca MSE"
+      },
+      {
+        "harf": "D",
+        "metin": "Yalnızca Silhouette"
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Model karşılaştırmasında hangi metrik genellikle en güvenilirdir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Cross-validation ortalaması (örneğin 5-fold CV F1-score)"
+      },
+      {
+        "harf": "B",
+        "metin": "Tek seferlik train-test split"
+      },
+      {
+        "harf": "C",
+        "metin": "Yalnızca eğitim seti performansı"
+      },
+      {
+        "harf": "D",
+        "metin": "Küme sayısı"
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "tip": "klasik",
+    "soruMetni": "Accuracy metriğinin avantajları ve dezavantajları nelerdir?",
+    "dogruCevap": "Avantajı: Basit ve anlaşılır bir metriktir. Dezavantajı: Dengesiz veri setlerinde yanıltıcı olabilir (çoğunluk sınıfını tahmin etmekle yüksek accuracy alınabilir)."
+  },
+  {
+    "id": 236,
+    "tip": "klasik",
+    "soruMetni": "Dengesiz veri setlerinde neden F1-score, precision veya recall daha tercih edilir?",
+    "dogruCevap": "Accuracy çoğunluk sınıfını ezici şekilde tahmin ettiğinde yüksek çıkar, ancak azınlık sınıfındaki performansı yansıtmaz. F1-score, precision ve recall dengeli bir görünüm sağlar."
+  },
+  {
+    "id": 237,
+    "tip": "klasik",
+    "soruMetni": "Precision ve Recall arasındaki farkı örnek bir senaryo ile açıklayın.",
+    "dogruCevap": "Precision: \"Tahmin ettiğim pozitiflerin kaçı gerçekten pozitif?\" Örnek: Kanser teşhisinde yanlış pozitif (sağlıklı kişiye hasta demek) pahalıysa precision yüksek olmalı. Recall: \"Gerçek pozitiflerin kaçını yakaladım?\" Örnek: Hastaları kaçırmamak için recall yüksek olmalı."
+  },
+  {
+    "id": 238,
+    "tip": "klasik",
+    "soruMetni": "F1-score neden harmonik ortalama kullanır? Aritmetik ortalamadan farkı nedir?",
+    "dogruCevap": "Harmonik ortalama, düşük değerlere daha fazla ağırlık verir. Precision ve recall'dan biri düşükse F1-score düşük olur, bu yüzden dengesiz durumlarda daha güvenilirdir."
+  },
+  {
+    "id": 239,
+    "tip": "klasik",
+    "soruMetni": "ROC eğrisi ve AUC değerinin yorumlanması nasıl yapılır?",
+    "dogruCevap": "ROC eğrisi TPR vs FPR grafiğidir. AUC 1'e yakınsa mükemmel sınıflandırıcı, 0.5 ise rastgele tahmin eder. 0.7-0.8 iyi, 0.9+ mükemmele yakın."
+  },
+  {
+    "id": 240,
+    "tip": "klasik",
+    "soruMetni": "PR eğrisi (Precision-Recall curve) ne zaman ROC eğrisinden daha bilgilendiricidir?",
+    "dogruCevap": "Dengesiz veri setlerinde (pozitif örnekler azsa) PR eğrisi daha anlamlıdır, çünkü ROC eğrisi çoğunluk negatif sınıfı nedeniyle yanıltıcı olabilir."
+  },
+  {
+    "id": 241,
+    "tip": "klasik",
+    "soruMetni": "Confusion matrix'teki dört hücreyi (TP, TN, FP, FN) tanımlayın ve bir örnek verin.",
+    "dogruCevap": "TP: Gerçek pozitif, doğru tahmin. TN: Gerçek negatif, doğru tahmin. FP: Yanlış pozitif. FN: Yanlış negatif. Örnek: Spam mail: TP = spam ve spam olarak tahmin, FP = normal mail ama spam olarak tahmin."
+  },
+  {
+    "id": 242,
+    "tip": "klasik",
+    "soruMetni": "Specificity ve Sensitivity (Recall) arasındaki ilişki nedir?",
+    "dogruCevap": "Specificity = TN / (TN + FP), Sensitivity = TP / (TP + FN). Genellikle biri artarsa diğeri azalır (trade-off)."
+  },
+  {
+    "id": 243,
+    "tip": "klasik",
+    "soruMetni": "Regresyon problemlerinde MSE, RMSE ve MAE farklarını açıklayın.",
+    "dogruCevap": "MSE: Hataların kare ortalaması (outlier'a duyarlı). RMSE: MSE'nin karekökü (birim hatayla aynı ölçek). MAE: Mutlak hataların ortalaması (outlier'a daha az duyarlı)."
+  },
+  {
+    "id": 244,
+    "tip": "klasik",
+    "soruMetni": "MSE'nin aykırı değerlere neden duyarlı olduğunu matematiksel olarak açıklayın.",
+    "dogruCevap": "MSE = (1/n) Σ (y_i - ŷ_i)^2. Hata büyükse karesi çok büyür, bu yüzden outlier'lar MSE'yi aşırı yükseltir."
+  },
+  {
+    "id": 245,
+    "tip": "klasik",
+    "soruMetni": "R² ve Adjusted R² arasındaki fark nedir? Ne zaman Adjusted R² tercih edilir?",
+    "dogruCevap": "R² her yeni değişkenle artar veya aynı kalır. Adjusted R² gereksiz değişken eklenirse düşer. Çoklu regresyonda Adjusted R² tercih edilir."
+  },
+  {
+    "id": 246,
+    "tip": "klasik",
+    "soruMetni": "MAPE'nin avantajı ve dezavantajı nedir?",
+    "dogruCevap": "Avantaj: Yüzde hatası verir, ölçek bağımsızdır. Dezavantaj: Sıfıra yakın değerlerde bölme hatası verir (division by zero)."
+  },
+  {
+    "id": 247,
+    "tip": "klasik",
+    "soruMetni": "Regresyon modelinde negatif R² değeri ne anlama gelir?",
+    "dogruCevap": "Model, basit ortalama modelinden daha kötüdür (ortalamadan daha fazla hata yapar)."
+  },
+  {
+    "id": 248,
+    "tip": "klasik",
+    "soruMetni": "Kümeleme problemlerinde içsel (internal) ve dışsal (external) değerlendirme metrikleri arasındaki fark nedir?",
+    "dogruCevap": "İçsel: Sadece kümelenmiş veriye bakar (Silhouette, Davies-Bouldin). Dışsal: Gerçek etiketler varsa kullanılır (ARI, NMI, V-Measure)."
+  },
+  {
+    "id": 249,
+    "tip": "klasik",
+    "soruMetni": "Silhouette skoru nasıl hesaplanır ve nasıl yorumlanır?",
+    "dogruCevap": "s = (b - a) / max(a, b) (a: küme içi ortalama mesafe, b: en yakın küme ortalaması). +1: iyi ayrılmış, 0: sınırda, -1: yanlış kümede."
+  },
+  {
+    "id": 250,
+    "tip": "klasik",
+    "soruMetni": "Silhouette skoru negatif olduğunda ne anlaşılır?",
+    "dogruCevap": "Noktalar yanlış kümeye atanmış veya kümeler birbirine çok yakın."
+  },
+  {
+    "id": 251,
+    "tip": "klasik",
+    "soruMetni": "Elbow yöntemi nedir ve nasıl kullanılır?",
+    "dogruCevap": "WCSS (Within-Cluster Sum of Squares) vs küme sayısı grafiği çizilir. Dirsek (elbow) noktası optimal K değerini gösterir."
+  },
+  {
+    "id": 252,
+    "tip": "klasik",
+    "soruMetni": "Davies-Bouldin indeksi düşük değer aldığında neyi gösterir?",
+    "dogruCevap": "Düşük değer daha iyi kümelenmeyi gösterir (küme içi kompakt, kümeler arası ayrık)."
+  },
+  {
+    "id": 253,
+    "tip": "klasik",
+    "soruMetni": "Calinski-Harabasz indeksi (Variance Ratio) yüksek değer aldığında kümeleme kalitesi nasıldır?",
+    "dogruCevap": "Yüksek değer, küme arası varyansın küme içi varyansa oranının yüksek olduğunu gösterir (iyi ayrılmış kümeler)."
+  },
+  {
+    "id": 254,
+    "tip": "klasik",
+    "soruMetni": "Dunn indeksi nedir ve avantajı nedir?",
+    "dogruCevap": "En küçük küme arası mesafe / en büyük küme içi mesafe. Avantajı: Hem kompaktlık hem ayrımı dikkate alır, ancak hesaplama maliyeti yüksektir."
+  },
+  {
+    "id": 255,
+    "tip": "klasik",
+    "soruMetni": "Cross-validation neden gereklidir? K-fold cross-validation nasıl çalışır?",
+    "dogruCevap": "Tek train-test split şans eseri olabilir. K-fold: Veriyi K parçaya böler, sırayla K-1 parça ile eğitir, kalanla test eder."
+  },
+  {
+    "id": 256,
+    "tip": "klasik",
+    "soruMetni": "Stratified k-fold cross-validation ne zaman zorunludur?",
+    "dogruCevap": "Sınıf oranlarının dengesiz olduğu durumlarda (her fold'da sınıf oranları korunur)."
+  },
+  {
+    "id": 257,
+    "tip": "klasik",
+    "soruMetni": "Log Loss'un (Cross-Entropy Loss) sınıflandırma problemlerindeki önemi nedir?",
+    "dogruCevap": "Olasılıksal tahminleri cezalandırır; yüksek güvenle yanlış tahmin büyük ceza alır."
+  },
+  {
+    "id": 258,
+    "tip": "klasik",
+    "soruMetni": "Hinge Loss'un SVM'deki rolü nedir?",
+    "dogruCevap": "Margin'ı maksimize eder ve yanlış sınıflandırılan örnekleri cezalandırır (max(0, 1 - y*f(x)))."
+  },
+  {
+    "id": 259,
+    "tip": "klasik",
+    "soruMetni": "Huber Loss'un MSE ve MAE'ye göre avantajı nedir?",
+    "dogruCevap": "Küçük hatalarda MSE gibi kare alır (hassas), büyük hatalarda MAE gibi doğrusal alır (outlier'a dayanıklı)."
+  },
+  {
+    "id": 260,
+    "tip": "klasik",
+    "soruMetni": "Adjusted Rand Index (ARI) nasıl yorumlanır?",
+    "dogruCevap": "-1 ile 1 arası. 1: mükemmel eşleşme, 0: rastgele, negatif: beklenenden kötü."
+  },
+  {
+    "id": 261,
+    "tip": "klasik",
+    "soruMetni": "Homogeneity, Completeness ve V-Measure metriklerini açıklayın.",
+    "dogruCevap": "Homogeneity: Her küme tek sınıf içermeli. Completeness: Her sınıf tek kümede olmalı. V-Measure: İkisinin harmonik ortalaması."
+  },
+  {
+    "id": 262,
+    "tip": "klasik",
+    "soruMetni": "Mutual Information tabanlı kümeleme değerlendirme metrikleri nelerdir?",
+    "dogruCevap": "Mutual Information, Normalized MI (NMI), Adjusted MI (AMI). Gerçek etiketlerle kümelenme arasındaki bağımlılığı ölçer."
+  },
+  {
+    "id": 263,
+    "tip": "klasik",
+    "soruMetni": "Çok etiketli (multi-label) sınıflandırmada Hamming Loss nasıl hesaplanır?",
+    "dogruCevap": "(Yanlış etiket sayısı) / (toplam etiket sayısı). Düşük değer daha iyidir."
+  },
+  {
+    "id": 264,
+    "tip": "klasik",
+    "soruMetni": "Macro-average, micro-average ve weighted-average arasındaki farkları açıklayın.",
+    "dogruCevap": "Macro: Her sınıf eşit ağırlıkla ortalama. Micro: Tüm tahminleri birleştirip global ortalama. Weighted: Sınıf büyüklüğüne göre ağırlıklı."
+  },
+  {
+    "id": 265,
+    "tip": "klasik",
+    "soruMetni": "Nesne tespiti problemlerinde mAP (mean Average Precision) neden kullanılır?",
+    "dogruCevap": "Precision-recall eğrisinin altındaki alanı her sınıf için hesaplar ve ortalamasını alır; IoU eşiğine duyarlıdır."
+  },
+  {
+    "id": 266,
+    "tip": "klasik",
+    "soruMetni": "Zaman serisi tahmininde MAPE ve SMAPE arasındaki fark nedir?",
+    "dogruCevap": "MAPE: |actual - pred| / |actual|. SMAPE: 2 |actual - pred| / (|actual| + |pred|). SMAPE sıfıra yakın değerlerde daha stabildir."
+  },
+  {
+    "id": 267,
+    "tip": "klasik",
+    "soruMetni": "RMSLE'nin (Root Mean Squared Logarithmic Error) ne zaman tercih edildiğini örnekle açıklayın.",
+    "dogruCevap": "Hedef değerler büyük ölçek farkı gösteriyorsa (örneğin ev fiyatları 100 bin - 10 milyon). Logaritmik hata büyük değerleri daha az cezalandırır."
+  },
+  {
+    "id": 268,
+    "tip": "klasik",
+    "soruMetni": "Bir sınıflandırma modelinin performansını değerlendirirken hangi metrikleri birlikte kullanmayı önerirsiniz?",
+    "dogruCevap": "Accuracy, Precision, Recall, F1-score, ROC-AUC, Confusion Matrix."
+  },
+  {
+    "id": 269,
+    "tip": "klasik",
+    "soruMetni": "Kümeleme sonuçlarını değerlendirmek için gerçek etiketler (ground truth) yoksa hangi metrikler kullanılır?",
+    "dogruCevap": "Silhouette Score, Davies-Bouldin, Calinski-Harabasz, Elbow yöntemi."
+  },
+  {
+    "id": 270,
+    "tip": "klasik",
+    "soruMetni": "Gerçek etiketler varsa kümeleme performansını değerlendirmek için hangi metrikler tercih edilir?",
+    "dogruCevap": "Adjusted Rand Index (ARI), Normalized Mutual Information (NMI), V-Measure."
+  },
+  {
+    "id": 271,
+    "tip": "klasik",
+    "soruMetni": "Overfitting ve underfitting durumlarını performans metrikleriyle nasıl tespit ederiz?",
+    "dogruCevap": "Overfitting: Eğitim setinde yüksek, test setinde düşük performans. Underfitting: Her iki sette de düşük performans."
+  },
+  {
+    "id": 272,
+    "tip": "klasik",
+    "soruMetni": "Model seçimi sırasında hangi metrikler train ve validation setlerinde karşılaştırılmalıdır?",
+    "dogruCevap": "Validation setinde F1-score, AUC, RMSE, MAE gibi metrikler. Train-validation farkı overfitting'i gösterir."
+  },
+  {
+    "id": 273,
+    "tip": "klasik",
+    "soruMetni": "Bir regresyon modelinde MAE 5, RMSE 8 çıktığında bu ne anlama gelir?",
+    "dogruCevap": "Ortalama mutlak hata 5 birim. RMSE > MAE olduğu için bazı aykırı hatalar var."
+  },
+  {
+    "id": 274,
+    "tip": "klasik",
+    "soruMetni": "Silhouette skoru 0.7 çıkan bir kümelemenin kalitesi nasıldır?",
+    "dogruCevap": "Çok iyi (0.7-1.0 arası: iyi ayrılmış ve kompakt kümeler)."
+  },
+  {
+    "id": 275,
+    "tip": "klasik",
+    "soruMetni": "Davies-Bouldin indeksi 0.8 çıkan bir kümelemenin kalitesi nasıldır?",
+    "dogruCevap": "İyi (düşük değer daha iyi; 0.5-1 arası genellikle kabul edilebilir)."
+  },
+  {
+    "id": 276,
+    "tip": "klasik",
+    "soruMetni": "Calinski-Harabasz skoru ne kadar yüksek olmalı ki iyi kümeleme kabul edilsin?",
+    "dogruCevap": "Kesin eşik yok, ancak diğer K değerlerine göre en yüksek olanı seçilir."
+  },
+  {
+    "id": 277,
+    "tip": "klasik",
+    "soruMetni": "Bir sınıflandırma modelinde AUC = 0.5 ne anlama gelir?",
+    "dogruCevap": "Model rastgele tahmin ediyor (coin toss gibi)."
+  },
+  {
+    "id": 278,
+    "tip": "klasik",
+    "soruMetni": "AUC = 1.0 ve AUC = 0.0 değerleri neyi ifade eder?",
+    "dogruCevap": "1.0: Mükemmel sınıflandırıcı. 0.0: Her şeyi ters tahmin eder (ters çevirince mükemmel olur)."
+  },
+  {
+    "id": 279,
+    "tip": "klasik",
+    "soruMetni": "Çok sınıflı problemlerde One-vs-Rest yaklaşımı ile AUC nasıl hesaplanır?",
+    "dogruCevap": "Her sınıf için ayrı AUC hesaplanır, sonra macro (ortalama) veya weighted ortalama alınır."
+  },
+  {
+    "id": 280,
+    "tip": "klasik",
+    "soruMetni": "Zaman serisi problemlerinde neden train-test split yerine zaman temelli bölme yapılır?",
+    "dogruCevap": "Gelecek veriyi geçmişten tahmin etmek gerektiği için kronolojik sıraya göre bölünmelidir (data leakage önlenir)."
+  },
+  {
+    "id": 281,
+    "tip": "klasik",
+    "soruMetni": "Bir modelin genelleme yeteneğini ölçmek için en güvenilir yöntem nedir?",
+    "dogruCevap": "K-fold cross-validation ile validation ortalaması."
+  },
+  {
+    "id": 282,
+    "tip": "klasik",
+    "soruMetni": "Kümeleme algoritması seçerken hangi performans metriklerini kullanmak en iyisidir?",
+    "dogruCevap": "Silhouette Score, Davies-Bouldin, Calinski-Harabasz, Elbow yöntemi (birlikte)."
+  },
+  {
+    "id": 283,
+    "tip": "klasik",
+    "soruMetni": "Sınıflandırma problemlerinde maliyet duyarlı öğrenme (cost-sensitive learning) için hangi metrikler önemlidir?",
+    "dogruCevap": "Precision, Recall, F1-score, Cost-adjusted metrics (yanlış pozitif/negatif maliyetine göre)."
+  },
+  {
+    "id": 284,
+    "tip": "klasik",
+    "soruMetni": "Bir proje kapsamında hem sınıflandırma hem regresyon hem de kümeleme modelleri kullanıldığında, her biri için hangi performans kriterlerini rapor etmeyi önerirsiniz?",
+    "dogruCevap": "Sınıflandırma: Accuracy, Precision, Recall, F1, AUC. Regresyon: MSE/RMSE, MAE, R². Kümeleme: Silhouette, Davies-Bouldin, ARI (eğer etiket varsa)."
+  },
+  {
+    "id": 285,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimli öğrenme nedir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Etiketli verilerle model eğitimi"
+      },
+      {
+        "harf": "B",
+        "metin": "Etiketsiz verilerle model eğitimi"
+      },
+      {
+        "harf": "C",
+        "metin": "Yalnızca rastgele verilerle eğitim"
+      },
+      {
+        "harf": "D",
+        "metin": "Hiçbir veri kullanmadan öğrenme"
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimsiz öğrenmede temel amaç nedir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Gelecek tahminleri yapmak"
+      },
+      {
+        "harf": "B",
+        "metin": "Verilerdeki gizli desenleri bulmak"
+      },
+      {
+        "harf": "C",
+        "metin": "Etiketli verileri sınıflandırmak"
+      },
+      {
+        "harf": "D",
+        "metin": "Hata oranını minimize etmek"
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Sınıflandırma problemi hangi öğrenme türüne girer?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Denetimsiz"
+      },
+      {
+        "harf": "B",
+        "metin": "Denetimli"
+      },
+      {
+        "harf": "C",
+        "metin": "Yarı denetimli"
+      },
+      {
+        "harf": "D",
+        "metin": "Takviyeli"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Regresyon analizinde çıktı değişkeni genellikle ne türdür?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Kategorik"
+      },
+      {
+        "harf": "B",
+        "metin": "Sürekli"
+      },
+      {
+        "harf": "C",
+        "metin": "Rastgele"
+      },
+      {
+        "harf": "D",
+        "metin": "Binary"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Kümeleme algoritmalarından hangisi hiyerarşik bir yapı kullanır?",
+    "dogruCevap": "C",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "K-Means"
+      },
+      {
+        "harf": "B",
+        "metin": "DBSCAN"
+      },
+      {
+        "harf": "C",
+        "metin": "Hierarchical Clustering"
+      },
+      {
+        "harf": "D",
+        "metin": "SVM"
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimli öğrenmede overfitting'i önlemek için kullanılan teknik hangisidir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Cross-validation"
+      },
+      {
+        "harf": "B",
+        "metin": "Rastgele orman"
+      },
+      {
+        "harf": "C",
+        "metin": "PCA"
+      },
+      {
+        "harf": "D",
+        "metin": "K-Means"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimsiz öğrenmede boyut indirgeme için kullanılan yöntem nedir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Linear Regression"
+      },
+      {
+        "harf": "B",
+        "metin": "Principal Component Analysis (PCA)"
+      },
+      {
+        "harf": "C",
+        "metin": "Decision Tree"
+      },
+      {
+        "harf": "D",
+        "metin": "Naive Bayes"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "tip": "coktan-secmeli",
+    "soruMetni": "İkili sınıflandırma için en uygun algoritma hangisidir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Linear Regression"
+      },
+      {
+        "harf": "B",
+        "metin": "Logistic Regression"
+      },
+      {
+        "harf": "C",
+        "metin": "K-Means"
+      },
+      {
+        "harf": "D",
+        "metin": "Apriori"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Çoklu regresyonda kaç bağımsız değişken olabilir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yalnızca bir"
+      },
+      {
+        "harf": "B",
+        "metin": "İkiden fazla"
+      },
+      {
+        "harf": "C",
+        "metin": "Yalnızca sıfır"
+      },
+      {
+        "harf": "D",
+        "metin": "Tam olarak üç"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Kümeleme'de K-Means algoritmasının temel adımı nedir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Merkez noktalarını rastgele seçmek ve güncellemek"
+      },
+      {
+        "harf": "B",
+        "metin": "Ağaç yapısı oluşturmak"
+      },
+      {
+        "harf": "C",
+        "metin": "Destek vektörleri hesaplamak"
+      },
+      {
+        "harf": "D",
+        "metin": "Olasılık dağılımları hesaplamak"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimli öğrenmede eğitim verisi ne içerir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yalnızca girdiler"
+      },
+      {
+        "harf": "B",
+        "metin": "Girdiler ve etiketler"
+      },
+      {
+        "harf": "C",
+        "metin": "Yalnızca etiketler"
+      },
+      {
+        "harf": "D",
+        "metin": "Hiçbiri"
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimsiz öğrenme örneklerinden hangisi değildir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Kümeleme"
+      },
+      {
+        "harf": "B",
+        "metin": "Sınıflandırma"
+      },
+      {
+        "harf": "C",
+        "metin": "Boyut indirgeme"
+      },
+      {
+        "harf": "D",
+        "metin": "İlişki kuralı madenciliği"
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Sınıflandırma'da accuracy metriği neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Doğru tahmin oranını"
+      },
+      {
+        "harf": "B",
+        "metin": "Hata karesini"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme sayısını"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut sayısını"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Regresyon'da MSE ne anlama gelir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Mean Squared Error"
+      },
+      {
+        "harf": "B",
+        "metin": "Maximum Similarity Error"
+      },
+      {
+        "harf": "C",
+        "metin": "Minimum Standard Error"
+      },
+      {
+        "harf": "D",
+        "metin": "Mean Silhouette Error"
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Kümeleme'de DBSCAN algoritması neye dayanır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yoğunluk tabanlı"
+      },
+      {
+        "harf": "B",
+        "metin": "Merkez tabanlı"
+      },
+      {
+        "harf": "C",
+        "metin": "Hiyerarşik"
+      },
+      {
+        "harf": "D",
+        "metin": "Olasılıksal"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimli öğrenmede kullanılan bir sınıflandırma algoritması hangisidir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "SVM"
+      },
+      {
+        "harf": "B",
+        "metin": "PCA"
+      },
+      {
+        "harf": "C",
+        "metin": "Autoencoder"
+      },
+      {
+        "harf": "D",
+        "metin": "GAN"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimsiz öğrenmede anomali tespiti için kullanılabilir mi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır"
+      },
+      {
+        "harf": "C",
+        "metin": "Yalnızca denetimli ile"
+      },
+      {
+        "harf": "D",
+        "metin": "Yalnızca takviyeli ile"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Çok sınıflı sınıflandırma için hangisi kullanılır?",
+    "dogruCevap": "D",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "One-vs-All"
+      },
+      {
+        "harf": "B",
+        "metin": "Linear Regression"
+      },
+      {
+        "harf": "C",
+        "metin": "K-Means"
+      },
+      {
+        "harf": "D",
+        "metin": "Ridge Regression"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Doğrusal regresyon varsayımlarından hangisi doğrudur?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Bağımsız değişkenler arasında çoklu doğrusal ilişki olmamalı"
+      },
+      {
+        "harf": "B",
+        "metin": "Hatalar normal dağılmalı"
+      },
+      {
+        "harf": "C",
+        "metin": "Çıktı kategorik olmalı"
+      },
+      {
+        "harf": "D",
+        "metin": "Veriler etiketsiz olmalı"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Kümeleme'de silhouette skoru neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Küme içi ve küme arası benzerliği"
+      },
+      {
+        "harf": "B",
+        "metin": "Doğruluk oranını"
+      },
+      {
+        "harf": "C",
+        "metin": "Hata karesini"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgemesini"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimli öğrenme örnekleri arasında hangisi yoktur?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Spam filtreleme"
+      },
+      {
+        "harf": "B",
+        "metin": "Resim kümeleme"
+      },
+      {
+        "harf": "C",
+        "metin": "Ev fiyat tahmini"
+      },
+      {
+        "harf": "D",
+        "metin": "Hastalık teşhisi"
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimsiz öğrenme için veri hazırlığı nasıl olmalıdır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Etiketli olmalı"
+      },
+      {
+        "harf": "B",
+        "metin": "Etiketsiz olmalı"
+      },
+      {
+        "harf": "C",
+        "metin": "Yalnızca sayısal olmalı"
+      },
+      {
+        "harf": "D",
+        "metin": "Yalnızca kategorik olmalı"
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Sınıflandırma'da precision neyi ifade eder?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Pozitif tahminlerin doğruluğu"
+      },
+      {
+        "harf": "B",
+        "metin": "Tüm doğru tahminler"
+      },
+      {
+        "harf": "C",
+        "metin": "Yanlış negatifler"
+      },
+      {
+        "harf": "D",
+        "metin": "Küme sayısı"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Polinom regresyon ne tür bir modeldir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Doğrusal olmayan"
+      },
+      {
+        "harf": "B",
+        "metin": "Doğrusal"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme"
+      },
+      {
+        "harf": "D",
+        "metin": "Denetimsiz"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Kümeleme algoritmalarında optimal küme sayısı nasıl belirlenir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Elbow yöntemiyle"
+      },
+      {
+        "harf": "B",
+        "metin": "Accuracy ile"
+      },
+      {
+        "harf": "C",
+        "metin": "MSE ile"
+      },
+      {
+        "harf": "D",
+        "metin": "Precision ile"
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimli öğrenmede model değerlendirme için ne kullanılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Test seti"
+      },
+      {
+        "harf": "B",
+        "metin": "Eğitim seti sadece"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme seti"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut seti"
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimsiz öğrenmede veri normalizasyonu neden önemlidir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Farklı ölçekleri eşitlemek için"
+      },
+      {
+        "harf": "B",
+        "metin": "Etiket eklemek için"
+      },
+      {
+        "harf": "C",
+        "metin": "Sınıf sayısını artırmak için"
+      },
+      {
+        "harf": "D",
+        "metin": "Hata hesaplamak için"
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "tip": "coktan-secmeli",
+    "soruMetni": "KNN algoritması hangi öğrenme türüne girer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Denetimli (sınıflandırma)"
+      },
+      {
+        "harf": "B",
+        "metin": "Denetimsiz"
+      },
+      {
+        "harf": "C",
+        "metin": "Takviyeli"
+      },
+      {
+        "harf": "D",
+        "metin": "Yarı denetimli"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Ridge regresyon neyi önler?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Overfitting"
+      },
+      {
+        "harf": "B",
+        "metin": "Underfitting"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme"
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Hiyerarşik kümeleme türlerinden hangisi yukarıdan aşağıdır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Divisive"
+      },
+      {
+        "harf": "B",
+        "metin": "Agglomerative"
+      },
+      {
+        "harf": "C",
+        "metin": "Density-based"
+      },
+      {
+        "harf": "D",
+        "metin": "Centroid-based"
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimli öğrenmede bias-variance tradeoff nedir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Model karmaşıklığı dengesi"
+      },
+      {
+        "harf": "B",
+        "metin": "Veri boyutu dengesi"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme dengesi"
+      },
+      {
+        "harf": "D",
+        "metin": "Etiket dengesi"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimsiz öğrenme uygulamalarından hangisi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Müşteri segmentasyonu"
+      },
+      {
+        "harf": "B",
+        "metin": "Satış tahmini"
+      },
+      {
+        "harf": "C",
+        "metin": "Görüntü tanıma"
+      },
+      {
+        "harf": "D",
+        "metin": "Metin sınıflandırma"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Sınıflandırma'da ROC eğrisi neyi gösterir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "True positive vs false positive"
+      },
+      {
+        "harf": "B",
+        "metin": "Hata vs doğruluk"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme vs boyut"
+      },
+      {
+        "harf": "D",
+        "metin": "Regresyon vs sınıflandırma"
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Zaman serisi regresyonu için uygun model hangisi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "ARIMA"
+      },
+      {
+        "harf": "B",
+        "metin": "Decision Tree"
+      },
+      {
+        "harf": "C",
+        "metin": "K-Means"
+      },
+      {
+        "harf": "D",
+        "metin": "PCA"
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Kümeleme'de outlier'lar nasıl ele alınır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "DBSCAN ile"
+      },
+      {
+        "harf": "B",
+        "metin": "Linear Regression ile"
+      },
+      {
+        "harf": "C",
+        "metin": "Naive Bayes ile"
+      },
+      {
+        "harf": "D",
+        "metin": "Lasso ile"
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimli öğrenmede feature selection neden yapılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Model performansını artırmak"
+      },
+      {
+        "harf": "B",
+        "metin": "Küme sayısını artırmak"
+      },
+      {
+        "harf": "C",
+        "metin": "Etiketleri kaldırmak"
+      },
+      {
+        "harf": "D",
+        "metin": "Veri boyutunu büyütmek"
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimsiz öğrenmede autoencoder ne için kullanılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Boyut indirgeme ve özellik öğrenme"
+      },
+      {
+        "harf": "B",
+        "metin": "Sınıflandırma"
+      },
+      {
+        "harf": "C",
+        "metin": "Regresyon"
+      },
+      {
+        "harf": "D",
+        "metin": "Takviye"
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Naive Bayes sınıflandırıcısı neye dayanır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Bayes teoremi"
+      },
+      {
+        "harf": "B",
+        "metin": "Euclidean mesafe"
+      },
+      {
+        "harf": "C",
+        "metin": "Dendrogram"
+      },
+      {
+        "harf": "D",
+        "metin": "Gradient descent"
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Lojistik regresyonun çıktı aralığı nedir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "0 ile 1 arası"
+      },
+      {
+        "harf": "B",
+        "metin": "Negatif sonsuz ile pozitif sonsuz"
+      },
+      {
+        "harf": "C",
+        "metin": "Tam sayılar"
+      },
+      {
+        "harf": "D",
+        "metin": "Kategorik etiketler"
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Kümeleme'de Gaussian Mixture Model ne türdür?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Olasılıksal"
+      },
+      {
+        "harf": "B",
+        "metin": "Yoğunluk tabanlı"
+      },
+      {
+        "harf": "C",
+        "metin": "Hiyerarşik"
+      },
+      {
+        "harf": "D",
+        "metin": "Merkez tabanlı"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimli öğrenmede ensemble yöntemlerinden hangisi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Random Forest"
+      },
+      {
+        "harf": "B",
+        "metin": "K-Means"
+      },
+      {
+        "harf": "C",
+        "metin": "PCA"
+      },
+      {
+        "harf": "D",
+        "metin": "DBSCAN"
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimsiz öğrenme zorluklarından hangisi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Etiket eksikliği nedeniyle değerlendirme zorluğu"
+      },
+      {
+        "harf": "B",
+        "metin": "Fazla etiket nedeniyle overfitting"
+      },
+      {
+        "harf": "C",
+        "metin": "Yalnızca regresyon kullanımı"
+      },
+      {
+        "harf": "D",
+        "metin": "Sınıflandırma zorunluluğu"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Sınıflandırma'da F1-score neyi dengeler?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Precision ve recall"
+      },
+      {
+        "harf": "B",
+        "metin": "Accuracy ve error"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme ve boyut"
+      },
+      {
+        "harf": "D",
+        "metin": "Bias ve variance"
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Nonlinear regresyon için örnek algoritma hangisi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Support Vector Regression"
+      },
+      {
+        "harf": "B",
+        "metin": "Linear Regression"
+      },
+      {
+        "harf": "C",
+        "metin": "K-Means"
+      },
+      {
+        "harf": "D",
+        "metin": "Hierarchical Clustering"
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Kümeleme'de Ward's method ne için kullanılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Hiyerarşik kümeleme bağlantısı"
+      },
+      {
+        "harf": "B",
+        "metin": "Yoğunluk hesabı"
+      },
+      {
+        "harf": "C",
+        "metin": "Merkez güncellemesi"
+      },
+      {
+        "harf": "D",
+        "metin": "Olasılık dağılımı"
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimli öğrenmede gradient descent ne yapar?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Maliyet fonksiyonunu minimize eder"
+      },
+      {
+        "harf": "B",
+        "metin": "Küme oluşturur"
+      },
+      {
+        "harf": "C",
+        "metin": "Boyut indirger"
+      },
+      {
+        "harf": "D",
+        "metin": "Etiket üretir"
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Denetimsiz öğrenmede SOM ne anlama gelir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Self-Organizing Map"
+      },
+      {
+        "harf": "B",
+        "metin": "Supervised Output Model"
+      },
+      {
+        "harf": "C",
+        "metin": "Simple Optimization Method"
+      },
+      {
+        "harf": "D",
+        "metin": "Structured Output Map"
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Decision Tree sınıflandırıcısında splitting kriteri hangisi olabilir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Gini impurity"
+      },
+      {
+        "harf": "B",
+        "metin": "Mean squared error"
+      },
+      {
+        "harf": "C",
+        "metin": "Silhouette score"
+      },
+      {
+        "harf": "D",
+        "metin": "Davies-Bouldin index"
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Lasso regresyon ne yapar?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Bazı katsayıları sıfıra indirir"
+      },
+      {
+        "harf": "B",
+        "metin": "Tüm katsayıları büyütür"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme sayısını belirler"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut artırır"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Kümeleme'de agglomerative clustering nasıl başlar?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Her veri noktası ayrı küme olarak"
+      },
+      {
+        "harf": "B",
+        "metin": "Rastgele merkezlerle"
+      },
+      {
+        "harf": "C",
+        "metin": "Yoğunluk hesaplayarak"
+      },
+      {
+        "harf": "D",
+        "metin": "Olasılıkla"
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Denetimli öğrenmede model, ________ verilerle eğitilir.",
+    "dogruCevap": "etiketi olan"
+  },
+  {
+    "id": 336,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Denetimsiz öğrenmenin bir örneği ________'dir.",
+    "dogruCevap": "kümeleme"
+  },
+  {
+    "id": 337,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Sınıflandırma problemlerinde çıktı genellikle ________ türündedir.",
+    "dogruCevap": "kategorik"
+  },
+  {
+    "id": 338,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Regresyon analizinde amaç, bağımlı değişkeni ________ tahmin etmektir.",
+    "dogruCevap": "sürekli"
+  },
+  {
+    "id": 339,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Kümeleme algoritmalarından K-Means, küme sayısını ________ olarak alır.",
+    "dogruCevap": "K"
+  },
+  {
+    "id": 340,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Denetimli öğrenmede ________, modelin genel performansını test etmek için kullanılır.",
+    "dogruCevap": "çapraz doğrulama"
+  },
+  {
+    "id": 341,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Denetimsiz öğrenmede PCA, verinin ________'ini indirger.",
+    "dogruCevap": "boyut"
+  },
+  {
+    "id": 342,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Lojistik regresyon, ikili sınıflandırma için ________ fonksiyonu kullanır.",
+    "dogruCevap": "sigmoid"
+  },
+  {
+    "id": 343,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Çoklu lineer regresyonda, birden fazla ________ değişken vardır.",
+    "dogruCevap": "bağımsız"
+  },
+  {
+    "id": 344,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Kümeleme'de ________ skoru, küme kalitesini ölçer.",
+    "dogruCevap": "silhouette"
+  },
+  {
+    "id": 345,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Denetimli öğrenme, ________ ve test setlerine ayrılır.",
+    "dogruCevap": "eğitim"
+  },
+  {
+    "id": 346,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Denetimsiz öğrenmede veri, ________ olmadan işlenir.",
+    "dogruCevap": "etiket"
+  },
+  {
+    "id": 347,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Sınıflandırma'da ________, yanlış pozitifleri minimize eder.",
+    "dogruCevap": "precision"
+  },
+  {
+    "id": 348,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Regresyon'da R-kare değeri, modelin ________'ini gösterir.",
+    "dogruCevap": "uyum"
+  },
+  {
+    "id": 349,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "DBSCAN kümeleme, ________ tabanlıdır.",
+    "dogruCevap": "yoğunluk"
+  },
+  {
+    "id": 350,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "SVM, sınıflandırma için ________ vektörleri kullanır.",
+    "dogruCevap": "destek"
+  },
+  {
+    "id": 351,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Denetimsiz öğrenme, veri ________'lerini keşfeder.",
+    "dogruCevap": "desen"
+  },
+  {
+    "id": 352,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "KNN sınıflandırıcısında K, ________ sayısını temsil eder.",
+    "dogruCevap": "komşu"
+  },
+  {
+    "id": 353,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Ridge regresyon, ________ cezası ekler.",
+    "dogruCevap": "L2"
+  },
+  {
+    "id": 354,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Hiyerarşik kümeleme, ________ oluşturur.",
+    "dogruCevap": "dendrogram"
+  },
+  {
+    "id": 355,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Denetimli öğrenmede overfitting, ________ verisinde düşük performans gösterir.",
+    "dogruCevap": "test"
+  },
+  {
+    "id": 356,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Denetimsiz öğrenme uygulaması ________ tespiti olabilir.",
+    "dogruCevap": "anomali"
+  },
+  {
+    "id": 357,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Sınıflandırma metriğinden recall, ________'i ölçer.",
+    "dogruCevap": "duyarlılık"
+  },
+  {
+    "id": 358,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Polinom regresyon, ________ dereceli terimler içerir.",
+    "dogruCevap": "yüksek"
+  },
+  {
+    "id": 359,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Kümeleme'de elbow yöntemi, optimal ________ belirler.",
+    "dogruCevap": "K"
+  },
+  {
+    "id": 360,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Denetimli öğrenmede feature engineering, ________ iyileştirir.",
+    "dogruCevap": "model"
+  },
+  {
+    "id": 361,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Denetimsiz öğrenmede normalizasyon, ________ önler.",
+    "dogruCevap": "ölçek farkı"
+  },
+  {
+    "id": 362,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Naive Bayes, özelliklerin ________ olduğunu varsayar.",
+    "dogruCevap": "bağımsız"
+  },
+  {
+    "id": 363,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Lojistik regresyon, olasılık ________ üretir.",
+    "dogruCevap": "tahmin"
+  },
+  {
+    "id": 364,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Gaussian Mixture Model, ________ dağılımları kullanır.",
+    "dogruCevap": "normal"
+  },
+  {
+    "id": 365,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Random Forest, birden fazla ________ tree'den oluşur.",
+    "dogruCevap": "decision"
+  },
+  {
+    "id": 366,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Denetimsiz öğrenme değerlendirmesi ________ ile zorlanır.",
+    "dogruCevap": "etiketsizlik"
+  },
+  {
+    "id": 367,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "F1-score, precision ve recall'ün ________ ortalamasıdır.",
+    "dogruCevap": "harmonik"
+  },
+  {
+    "id": 368,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "SVR, regresyon için ________ kullanır.",
+    "dogruCevap": "support vector"
+  },
+  {
+    "id": 369,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Ward's method, kümeleme'de varyans ________'ini minimize eder.",
+    "dogruCevap": "iç"
+  },
+  {
+    "id": 370,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Gradient descent, ________ fonksiyonunu optimize eder.",
+    "dogruCevap": "maliyet"
+  },
+  {
+    "id": 371,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "SOM, denetimsiz öğrenmede ________ haritasıdır.",
+    "dogruCevap": "kendini organize eden"
+  },
+  {
+    "id": 372,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Decision Tree'de Gini, ________ ölçer.",
+    "dogruCevap": "safiyet"
+  },
+  {
+    "id": 373,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Lasso, ________ cezası ile feature selection yapar.",
+    "dogruCevap": "L1"
+  },
+  {
+    "id": 374,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Agglomerative clustering, ________'dan başlar.",
+    "dogruCevap": "alt"
+  },
+  {
+    "id": 375,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Bias yüksekse model ________ olur.",
+    "dogruCevap": "underfit"
+  },
+  {
+    "id": 376,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Müşteri segmentasyonu, ________ öğrenme örneğidir.",
+    "dogruCevap": "denetimsiz"
+  },
+  {
+    "id": 377,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "ROC, ________ oranı vs yanlış pozitif oranıdır.",
+    "dogruCevap": "doğru pozitif"
+  },
+  {
+    "id": 378,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "ARIMA, ________ serisi için kullanılır.",
+    "dogruCevap": "zaman"
+  },
+  {
+    "id": 379,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Outlier'lar, kümeleme'de ________ ile tespit edilir.",
+    "dogruCevap": "DBSCAN"
+  },
+  {
+    "id": 380,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Feature selection, ________ sayısını azaltır.",
+    "dogruCevap": "özellik"
+  },
+  {
+    "id": 381,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Autoencoder, ________ öğrenme için kullanılır.",
+    "dogruCevap": "derin"
+  },
+  {
+    "id": 382,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Splitting'de entropy, bilgi ________'ini ölçer.",
+    "dogruCevap": "kazancı"
+  },
+  {
+    "id": 383,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Elastic Net, Ridge ve Lasso'nun ________'idir.",
+    "dogruCevap": "kombinasyonu"
+  },
+  {
+    "id": 384,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Divisive clustering, ________'dan başlar.",
+    "dogruCevap": "üst"
+  },
+  {
+    "id": 385,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Performans kriterleri, bir makine öğrenme modelinin neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Ne kadar iyi çalıştığını"
+      },
+      {
+        "harf": "B",
+        "metin": "Veri boyutunu"
+      },
+      {
+        "harf": "C",
+        "metin": "Algoritma hızını"
+      },
+      {
+        "harf": "D",
+        "metin": "Bellek kullanımını"
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Sınıflandırma'da accuracy, toplam doğru tahminlerin neye oranıdır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Tüm tahminlere"
+      },
+      {
+        "harf": "B",
+        "metin": "Yalnızca pozitiflere"
+      },
+      {
+        "harf": "C",
+        "metin": "Yalnızca negatiflere"
+      },
+      {
+        "harf": "D",
+        "metin": "Hatalara"
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Dengesiz veri setlerinde accuracy neden yetersiz kalır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Çoğunluk sınıfını tahmin etmekle yüksek değer alır"
+      },
+      {
+        "harf": "B",
+        "metin": "Her zaman düşük değer verir"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme için uygundur"
+      },
+      {
+        "harf": "D",
+        "metin": "Regresyon için kullanılır"
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Precision, tahmin edilen pozitiflerin kaçının gerçek pozitif olduğunu ölçer mi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır, gerçek pozitiflerin kaçını yakaladığını ölçer"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme kalitesini ölçer"
+      },
+      {
+        "harf": "D",
+        "metin": "Hata karesini ölçer"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Recall, gerçek pozitiflerin kaçını doğru tahmin ettiğini gösterir mi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır, tahmin edilen pozitiflerin doğruluğunu gösterir"
+      },
+      {
+        "harf": "C",
+        "metin": "Regresyon hatasını gösterir"
+      },
+      {
+        "harf": "D",
+        "metin": "Küme ayrımını gösterir"
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "tip": "coktan-secmeli",
+    "soruMetni": "F1-score, precision ve recall'ün ne tür bir ortalamasıdır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Harmonik"
+      },
+      {
+        "harf": "B",
+        "metin": "Aritmetik"
+      },
+      {
+        "harf": "C",
+        "metin": "Geometrik"
+      },
+      {
+        "harf": "D",
+        "metin": "Medyan"
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "tip": "coktan-secmeli",
+    "soruMetni": "ROC eğrisi, hangi iki oranı karşılaştırır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "True Positive Rate ve False Positive Rate"
+      },
+      {
+        "harf": "B",
+        "metin": "Precision ve Recall"
+      },
+      {
+        "harf": "C",
+        "metin": "MSE ve MAE"
+      },
+      {
+        "harf": "D",
+        "metin": "Silhouette ve Dunn"
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "tip": "coktan-secmeli",
+    "soruMetni": "AUC değeri 0.5'ten yüksekse ne anlama gelir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Model rastgeleden daha iyi"
+      },
+      {
+        "harf": "B",
+        "metin": "Model rastgele kadar"
+      },
+      {
+        "harf": "C",
+        "metin": "Model daha kötü"
+      },
+      {
+        "harf": "D",
+        "metin": "Kümeleme için iyi"
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Confusion matrix, model hatalarını nasıl gösterir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "TP, TN, FP, FN hücreleriyle"
+      },
+      {
+        "harf": "B",
+        "metin": "Yalnızca hatalarla"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme sayısıyla"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgemeyle"
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Specificity, negatiflerin kaçını doğru tahmin ettiğini ölçer mi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır, pozitifleri ölçer"
+      },
+      {
+        "harf": "C",
+        "metin": "Regresyon için kullanılır"
+      },
+      {
+        "harf": "D",
+        "metin": "Kümeleme için kullanılır"
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Regresyon'da MSE, hataların ne tür bir ortalamasıdır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Kare ortalaması"
+      },
+      {
+        "harf": "B",
+        "metin": "Mutlak ortalaması"
+      },
+      {
+        "harf": "C",
+        "metin": "Yüzde ortalaması"
+      },
+      {
+        "harf": "D",
+        "metin": "Logaritmik ortalaması"
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "tip": "coktan-secmeli",
+    "soruMetni": "RMSE, MSE'nin hangi dönüşümüdür?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Karekökü"
+      },
+      {
+        "harf": "B",
+        "metin": "Karesi"
+      },
+      {
+        "harf": "C",
+        "metin": "Mutlak değeri"
+      },
+      {
+        "harf": "D",
+        "metin": "Logaritması"
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "tip": "coktan-secmeli",
+    "soruMetni": "MAE, aykırı değerlere MSE'den daha mı dayanıklıdır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme için uygundur"
+      },
+      {
+        "harf": "D",
+        "metin": "Sınıflandırma için uygundur"
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "tip": "coktan-secmeli",
+    "soruMetni": "R², modelin varyansın kaçını açıkladığını gösterir mi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır, hataları gösterir"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme kalitesini gösterir"
+      },
+      {
+        "harf": "D",
+        "metin": "Precision'ı gösterir"
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Adjusted R², neden ekstra değişkenleri cezalandırır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Overfitting'i önlemek için"
+      },
+      {
+        "harf": "B",
+        "metin": "Underfitting'i artırmak için"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme sayısını belirlemek için"
+      },
+      {
+        "harf": "D",
+        "metin": "Etiket üretmek için"
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Kümeleme'de Silhouette skoru, neyi karşılaştırır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Küme içi ve küme dışı benzerliği"
+      },
+      {
+        "harf": "B",
+        "metin": "Hata karesini"
+      },
+      {
+        "harf": "C",
+        "metin": "Precision'ı"
+      },
+      {
+        "harf": "D",
+        "metin": "Recall'ı"
+      }
+    ]
+  },
+  {
+    "id": 401,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Silhouette skoru pozitifse kümeler nasıl yorumlanır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "İyi ayrılmış"
+      },
+      {
+        "harf": "B",
+        "metin": "Karışık"
+      },
+      {
+        "harf": "C",
+        "metin": "Regresyon hatası yüksek"
+      },
+      {
+        "harf": "D",
+        "metin": "Sınıflandırma düşük"
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Davies-Bouldin indeksi düşükse ne anlama gelir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "İyi kümeleme"
+      },
+      {
+        "harf": "B",
+        "metin": "Kötü kümeleme"
+      },
+      {
+        "harf": "C",
+        "metin": "Yüksek hata"
+      },
+      {
+        "harf": "D",
+        "metin": "Düşük doğruluk"
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Calinski-Harabasz indeksi yüksekse kümeleme nasıldır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "İyi"
+      },
+      {
+        "harf": "B",
+        "metin": "Kötü"
+      },
+      {
+        "harf": "C",
+        "metin": "Regresyon için iyi"
+      },
+      {
+        "harf": "D",
+        "metin": "Sınıflandırma için iyi"
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Elbow yöntemi, optimal küme sayısını nasıl belirler?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "WCSS grafiğinde dirsek noktasıyla"
+      },
+      {
+        "harf": "B",
+        "metin": "Accuracy ile"
+      },
+      {
+        "harf": "C",
+        "metin": "F1 ile"
+      },
+      {
+        "harf": "D",
+        "metin": "R² ile"
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Cross-validation, modelin neyi test eder?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Genelleme yeteneğini"
+      },
+      {
+        "harf": "B",
+        "metin": "Küme sayısını"
+      },
+      {
+        "harf": "C",
+        "metin": "Boyut indirgemesini"
+      },
+      {
+        "harf": "D",
+        "metin": "Etiket üretimini"
+      }
+    ]
+  },
+  {
+    "id": 406,
+    "tip": "coktan-secmeli",
+    "soruMetni": "K-fold cross-validation'da veri kaç parçaya bölünür?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "K parçaya"
+      },
+      {
+        "harf": "B",
+        "metin": "2 parçaya"
+      },
+      {
+        "harf": "C",
+        "metin": "1 parçaya"
+      },
+      {
+        "harf": "D",
+        "metin": "Rastgele"
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Log Loss, olasılıksal tahminlerde neyi cezalandırır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yanlış tahminleri"
+      },
+      {
+        "harf": "B",
+        "metin": "Doğru tahminleri"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme içini"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyutu"
+      }
+    ]
+  },
+  {
+    "id": 408,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Hinge Loss, hangi algoritmada kullanılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "SVM'de"
+      },
+      {
+        "harf": "B",
+        "metin": "Linear Regression'da"
+      },
+      {
+        "harf": "C",
+        "metin": "K-Means'te"
+      },
+      {
+        "harf": "D",
+        "metin": "PCA'da"
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "tip": "coktan-secmeli",
+    "soruMetni": "MAPE, hataları hangi biçimde ifade eder?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yüzde olarak"
+      },
+      {
+        "harf": "B",
+        "metin": "Kare olarak"
+      },
+      {
+        "harf": "C",
+        "metin": "Mutlak olarak"
+      },
+      {
+        "harf": "D",
+        "metin": "Logaritmik olarak"
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Adjusted Rand Index, kümeleme için gerçek etiket varsa mı kullanılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır"
+      },
+      {
+        "harf": "C",
+        "metin": "Regresyon için"
+      },
+      {
+        "harf": "D",
+        "metin": "Sınıflandırma için"
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Homogeneity, her kümenin kaç sınıf içerdiğini ölçer mi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet, idealde bir"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır, sınıfları"
+      },
+      {
+        "harf": "C",
+        "metin": "Hataları"
+      },
+      {
+        "harf": "D",
+        "metin": "Varyansı"
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Completeness, her sınıfın kaç kümeye dağıldığını ölçer mi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet, idealde bir"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır, kümeleri"
+      },
+      {
+        "harf": "C",
+        "metin": "Precision'ı"
+      },
+      {
+        "harf": "D",
+        "metin": "Recall'ı"
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "tip": "coktan-secmeli",
+    "soruMetni": "V-Measure, homogeneity ve completeness'in ne ortalamasıdır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Harmonik"
+      },
+      {
+        "harf": "B",
+        "metin": "Aritmetik"
+      },
+      {
+        "harf": "C",
+        "metin": "Geometrik"
+      },
+      {
+        "harf": "D",
+        "metin": "Medyan"
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Macro-average, sınıfları nasıl ağırlıklandırır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Eşit"
+      },
+      {
+        "harf": "B",
+        "metin": "Örnek sayısına göre"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme sayısına göre"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyuta göre"
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Micro-average, neyi global olarak hesaplar?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Tüm tahminleri birleştirerek"
+      },
+      {
+        "harf": "B",
+        "metin": "Her sınıfı ayrı"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme içini"
+      },
+      {
+        "harf": "D",
+        "metin": "Hata karesini"
+      }
+    ]
+  },
+  {
+    "id": 416,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Weighted-average, neye göre ağırlık verir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sınıf örnek sayısına"
+      },
+      {
+        "harf": "B",
+        "metin": "Eşit"
+      },
+      {
+        "harf": "C",
+        "metin": "Rastgele"
+      },
+      {
+        "harf": "D",
+        "metin": "Küme sayısına"
+      }
+    ]
+  },
+  {
+    "id": 417,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Huber Loss, küçük hatalarda hangi loss gibi davranır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "MSE gibi"
+      },
+      {
+        "harf": "B",
+        "metin": "MAE gibi"
+      },
+      {
+        "harf": "C",
+        "metin": "Log gibi"
+      },
+      {
+        "harf": "D",
+        "metin": "Hinge gibi"
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Hamming Loss, multi-label'da neyi ölçer?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yanlış etiket oranını"
+      },
+      {
+        "harf": "B",
+        "metin": "Doğru etiket oranını"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme kalitesini"
+      },
+      {
+        "harf": "D",
+        "metin": "Regresyon hatasını"
+      }
+    ]
+  },
+  {
+    "id": 419,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Jaccard Similarity, set benzerliğini ölçer mi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır"
+      },
+      {
+        "harf": "C",
+        "metin": "Varyansı ölçer"
+      },
+      {
+        "harf": "D",
+        "metin": "Accuracy'ı ölçer"
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Normalized Mutual Information, kümeleme ile etiket bağımlılığını ölçer mi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır"
+      },
+      {
+        "harf": "C",
+        "metin": "Regresyon için"
+      },
+      {
+        "harf": "D",
+        "metin": "Sınıflandırma için"
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Rand Index, iki kümeleme arasındaki anlaşmayı ölçer mi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır"
+      },
+      {
+        "harf": "C",
+        "metin": "Precision'ı ölçer"
+      },
+      {
+        "harf": "D",
+        "metin": "Recall'ı ölçer"
+      }
+    ]
+  },
+  {
+    "id": 422,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Cophenetic Correlation, hiyerarşik kümeleme kalitesini ölçer mi?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır"
+      },
+      {
+        "harf": "C",
+        "metin": "K-Means için"
+      },
+      {
+        "harf": "D",
+        "metin": "DBSCAN için"
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "tip": "coktan-secmeli",
+    "soruMetni": "mAP, nesne tespiti için hangi eğrinin altındaki alanı alır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Precision-Recall"
+      },
+      {
+        "harf": "B",
+        "metin": "ROC"
+      },
+      {
+        "harf": "C",
+        "metin": "MSE-MAE"
+      },
+      {
+        "harf": "D",
+        "metin": "Silhouette-Dunn"
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "tip": "coktan-secmeli",
+    "soruMetni": "RMSLE, büyük ölçek farklarında neden tercih edilir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Logaritmik hata hesaplar"
+      },
+      {
+        "harf": "B",
+        "metin": "Kare hata hesaplar"
+      },
+      {
+        "harf": "C",
+        "metin": "Mutlak hata hesaplar"
+      },
+      {
+        "harf": "D",
+        "metin": "Yüzde hata hesaplar"
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "tip": "coktan-secmeli",
+    "soruMetni": "SMAPE, MAPE'ye göre neyi düzeltir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sıfıra yakın değerlerdeki sorunu"
+      },
+      {
+        "harf": "B",
+        "metin": "Yüksek değerlerdeki sorunu"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme sorununu"
+      },
+      {
+        "harf": "D",
+        "metin": "Sınıf sorununu"
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Birden fazla metrik kullanmak neden önemlidir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Dengeli değerlendirme için"
+      },
+      {
+        "harf": "B",
+        "metin": "Tek metrik için"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme için"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut için"
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Overfitting, hangi metrik farkıyla tespit edilir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Eğitim yüksek, test düşük"
+      },
+      {
+        "harf": "B",
+        "metin": "Eğitim düşük, test yüksek"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme yüksek"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut düşük"
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Underfitting, hangi metriklerle belli olur?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Her iki sette düşük performans"
+      },
+      {
+        "harf": "B",
+        "metin": "Her iki sette yüksek"
+      },
+      {
+        "harf": "C",
+        "metin": "Yalnızca eğitimde düşük"
+      },
+      {
+        "harf": "D",
+        "metin": "Yalnızca testte düşük"
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Zaman serisi için MAPE neden uygundur?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Yüzde hata verir"
+      },
+      {
+        "harf": "B",
+        "metin": "Kare hata verir"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme verir"
+      },
+      {
+        "harf": "D",
+        "metin": "Precision verir"
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Multiclass'ta macro-average neden kullanılır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sınıfları eşit değerlendirmek için"
+      },
+      {
+        "harf": "B",
+        "metin": "Büyük sınıfları öne çıkarmak için"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme için"
+      },
+      {
+        "harf": "D",
+        "metin": "Regresyon için"
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "tip": "coktan-secmeli",
+    "soruMetni": "PR-AUC, dengesiz verilerde neden tercih edilir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Pozitif sınıfa odaklanır"
+      },
+      {
+        "harf": "B",
+        "metin": "Negatif sınıfa odaklanır"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme odaklanır"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut odaklanır"
+      }
+    ]
+  },
+  {
+    "id": 432,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Dunn indeksi yüksekse kümeler nasıldır?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Kompakt ve ayrık"
+      },
+      {
+        "harf": "B",
+        "metin": "Karışık"
+      },
+      {
+        "harf": "C",
+        "metin": "Hata yüksek"
+      },
+      {
+        "harf": "D",
+        "metin": "Doğruluk düşük"
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Explained Variance Score, regresyonda neyi gösterir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Açıklanan varyans oranını"
+      },
+      {
+        "harf": "B",
+        "metin": "Küme oranını"
+      },
+      {
+        "harf": "C",
+        "metin": "Precision oranını"
+      },
+      {
+        "harf": "D",
+        "metin": "Recall oranını"
+      }
+    ]
+  },
+  {
+    "id": 434,
+    "tip": "coktan-secmeli",
+    "soruMetni": "Cross-validation ortalaması, model karşılaştırmada neden güvenilirdir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Şans eseri sonuçları azaltır"
+      },
+      {
+        "harf": "B",
+        "metin": "Tek split'e göre"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme sayısına göre"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyuta göre"
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Performans kriterleri, modelin ________'ini değerlendirir. (başarısını / performansını)",
+    "dogruCevap": "Öğretilen: Model kalitesini ölçer."
+  },
+  {
+    "id": 436,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Accuracy = (TP + TN) / ________. (toplam / TP + TN + FP + FN)",
+    "dogruCevap": "Öğretilen: Toplam doğru oranı."
+  },
+  {
+    "id": 437,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Dengesiz verilerde accuracy, ________ sınıfını ezerek yüksek olabilir. (çoğunluk / majority)",
+    "dogruCevap": "Öğretilen: Nadir sınıfı ihmal eder."
+  },
+  {
+    "id": 438,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Precision = TP / (TP + ________). (FP / false positive)",
+    "dogruCevap": "Öğretilen: Tahmin pozitiflerin doğruluğu."
+  },
+  {
+    "id": 439,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Recall = TP / (TP + ________). (FN / false negative)",
+    "dogruCevap": "Öğretilen: Gerçek pozitif yakalama oranı."
+  },
+  {
+    "id": 440,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "F1-score = 2 * (Precision * Recall) / (Precision + ________). (Recall)",
+    "dogruCevap": "Öğretilen: Harmonik ortalama."
+  },
+  {
+    "id": 441,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "ROC eğrisi, ________ Positive Rate vs False Positive Rate grafiğidir. (True / TPR)",
+    "dogruCevap": "Öğretilen: Eşik performansını gösterir."
+  },
+  {
+    "id": 442,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "AUC ________'ten büyükse model iyidir. (0.5)",
+    "dogruCevap": "Öğretilen: Rastgeleden üstün."
+  },
+  {
+    "id": 443,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Confusion matrix'te FP, ________ pozitiftir. (yanlış / false)",
+    "dogruCevap": "Öğretilen: Yanlış alarm."
+  },
+  {
+    "id": 444,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Specificity = TN / (TN + ________). (FP)",
+    "dogruCevap": "Öğretilen: Negatif doğruluğu."
+  },
+  {
+    "id": 445,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "MSE, hataların ________ ortalamasıdır. (kare / squared)",
+    "dogruCevap": "Öğretilen: Outlier duyarlı."
+  },
+  {
+    "id": 446,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "RMSE = ________(MSE). (sqrt / karekök)",
+    "dogruCevap": "Öğretilen: Birim ölçekli hata."
+  },
+  {
+    "id": 447,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "MAE, hataların ________ ortalamasıdır. (mutlak / absolute)",
+    "dogruCevap": "Öğretilen: Outlier dayanıklı."
+  },
+  {
+    "id": 448,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "R² = 1 - (________ / SS_tot). (SS_res / residual sum of squares)",
+    "dogruCevap": "Öğretilen: Açıklanan varyans."
+  },
+  {
+    "id": 449,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Adjusted R², ekstra ________'leri cezalandırır. (değişken / variable)",
+    "dogruCevap": "Öğretilen: Overfitting önler."
+  },
+  {
+    "id": 450,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Silhouette skoru, küme içi ________ ile küme dışı ayrımı karşılaştırır. (benzerlik / cohesion)",
+    "dogruCevap": "Öğretilen: Yüksek skor iyi."
+  },
+  {
+    "id": 451,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Silhouette aralığı ________ ile +1 arasıdır. (-1)",
+    "dogruCevap": "Öğretilen: Negatif kötü kümeleme."
+  },
+  {
+    "id": 452,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Davies-Bouldin ________ değer daha iyidir. (düşük / low)",
+    "dogruCevap": "Öğretilen: Küme ayrımı."
+  },
+  {
+    "id": 453,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Calinski-Harabasz ________ değer daha iyidir. (yüksek / high)",
+    "dogruCevap": "Öğretilen: Varyans oranı."
+  },
+  {
+    "id": 454,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Elbow yöntemi, ________ grafiğinde dirsek arar. (WCSS / within-cluster sum of squares)",
+    "dogruCevap": "Öğretilen: Optimal K."
+  },
+  {
+    "id": 455,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Cross-validation, veri ________'e bölünerek test eder. (parça / fold)",
+    "dogruCevap": "Öğretilen: Genelleme ölçer."
+  },
+  {
+    "id": 456,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "K-fold'da her seferinde ________ parça test olur. (1)",
+    "dogruCevap": "Öğretilen: K-1 eğitim."
+  },
+  {
+    "id": 457,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Log Loss, yanlış tahmin ________'ini cezalandırır. (güveni / confidence)",
+    "dogruCevap": "Öğretilen: Olasılıksal loss."
+  },
+  {
+    "id": 458,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Hinge Loss, ________ margin'ı maksimize eder. (SVM / support vector)",
+    "dogruCevap": "Öğretilen: Sınıflandırma loss."
+  },
+  {
+    "id": 459,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "MAPE, hataları ________ olarak verir. (yüzde / percentage)",
+    "dogruCevap": "Öğretilen: Ölçek bağımsız."
+  },
+  {
+    "id": 460,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "ARI, kümeleme ile ________ eşleşmesini ölçer. (etiket / label)",
+    "dogruCevap": "Öğretilen: Dışsal metrik."
+  },
+  {
+    "id": 461,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Homogeneity, kümenin ________ sınıf içermesini ister. (tek / one)",
+    "dogruCevap": "Öğretilen: Saf kümeler."
+  },
+  {
+    "id": 462,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Completeness, sınıfın ________ kümede olmasını ister. (tek / one)",
+    "dogruCevap": "Öğretilen: Bütünlük."
+  },
+  {
+    "id": 463,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "V-Measure, homogeneity ve completeness'in ________ ortalamasıdır. (harmonik / harmonic)",
+    "dogruCevap": "Öğretilen: Dengeli skor."
+  },
+  {
+    "id": 464,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Macro-average, sınıfları ________ ağırlıklandırır. (eşit / equal)",
+    "dogruCevap": "Öğretilen: Dengesiz için."
+  },
+  {
+    "id": 465,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Micro-average, ________ tahminleri birleştirir. (tüm / all)",
+    "dogruCevap": "Öğretilen: Global ortalama."
+  },
+  {
+    "id": 466,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Weighted-average, ________ sayısına göre ağırlık verir. (örnek / sample)",
+    "dogruCevap": "Öğretilen: Büyük sınıflar etkili."
+  },
+  {
+    "id": 467,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Huber Loss, küçük hatalarda ________ gibi davranır. (MSE)",
+    "dogruCevap": "Öğretilen: Hibrit loss."
+  },
+  {
+    "id": 468,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Hamming Loss, yanlış ________ oranını ölçer. (etiket / label)",
+    "dogruCevap": "Öğretilen: Multi-label."
+  },
+  {
+    "id": 469,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Jaccard, ________ benzerliğini ölçer. (set / küme)",
+    "dogruCevap": "Öğretilen: Benzerlik indeksi."
+  },
+  {
+    "id": 470,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "NMI, bağımlılığı ________ ile 1 arası ölçer. (0)",
+    "dogruCevap": "Öğretilen: Normalleştirilmiş."
+  },
+  {
+    "id": 471,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Rand Index, ________ anlaşmasını ölçer. (çift / pair)",
+    "dogruCevap": "Öğretilen: Kümeleme karşılaştırma."
+  },
+  {
+    "id": 472,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Cophenetic, ________ ile mesafeler korelasyonudur. (dendrogram)",
+    "dogruCevap": "Öğretilen: Hiyerarşik kalite."
+  },
+  {
+    "id": 473,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "mAP, Precision-Recall ________'inin alanıdır. (eğri / curve)",
+    "dogruCevap": "Öğretilen: Tespit metriği."
+  },
+  {
+    "id": 474,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "RMSLE, ________ hata hesaplar. (logaritmik / logarithmic)",
+    "dogruCevap": "Öğretilen: Ölçek farkı için."
+  },
+  {
+    "id": 475,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "SMAPE, ________ yüzde hatadır. (simetrik / symmetric)",
+    "dogruCevap": "Öğretilen: Sıfır sorunu çözer."
+  },
+  {
+    "id": 476,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Birden fazla metrik, ________ değerlendirme sağlar. (dengeli / balanced)",
+    "dogruCevap": "Öğretilen: Tek metrik yetersiz."
+  },
+  {
+    "id": 477,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Overfitting'te eğitim ________, test düşüktür. (yüksek / high)",
+    "dogruCevap": "Öğretilen: Genelleme yok."
+  },
+  {
+    "id": 478,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Underfitting'te her sette performans ________'tür. (düşük / low)",
+    "dogruCevap": "Öğretilen: Model yetersiz."
+  },
+  {
+    "id": 479,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Zaman serisinde ________ hata metriği yaygındır. (MAPE)",
+    "dogruCevap": "Öğretilen: Yüzde bazlı."
+  },
+  {
+    "id": 480,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Macro-average, ________ sınıflarda faydalıdır. (dengesiz / imbalanced)",
+    "dogruCevap": "Öğretilen: Eşitlik sağlar."
+  },
+  {
+    "id": 481,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "PR-AUC, ________ sınıfa odaklanır. (pozitif / positive)",
+    "dogruCevap": "Öğretilen: Dengesiz için."
+  },
+  {
+    "id": 482,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Dunn indeksi, küme ________ ve ayrımını ölçer. (kompaktlık / compactness)",
+    "dogruCevap": "Öğretilen: Yüksek iyi."
+  },
+  {
+    "id": 483,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Explained Variance, ________ oranını verir. (varyans / variance)",
+    "dogruCevap": "Öğretilen: Regresyon kalitesi."
+  },
+  {
+    "id": 484,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Cross-validation, ________ sonuçları azaltır. (şans eseri / random)",
+    "dogruCevap": "Öğretilen: Güvenilir ortalama."
+  },
+  {
+    "id": 485,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Sabah işe giderken trafik yoğunluğunu tahmin etmek istiyorum. - Bu problem hangi makine öğrenmesi kategorisine girer?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sınıflandırma"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme"
+      },
+      {
+        "harf": "D",
+        "metin": "Anomali tespiti"
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Gelen e-postaların spam olup olmadığını otomatik tespit etmek. - Bu problemde çıktı ne tür bir değişkendir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sürekli"
+      },
+      {
+        "harf": "B",
+        "metin": "Kategorik (binary)"
+      },
+      {
+        "harf": "C",
+        "metin": "Küme"
+      },
+      {
+        "harf": "D",
+        "metin": "Anomali"
+      }
+    ]
+  },
+  {
+    "id": 487,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Müşterileri alışveriş davranışlarına göre benzer gruplara ayırmak (segmentasyon). - Bu problem için hangi öğrenme türü kullanılır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Denetimli"
+      },
+      {
+        "harf": "B",
+        "metin": "Denetimsiz"
+      },
+      {
+        "harf": "C",
+        "metin": "Pekiştirmeli"
+      },
+      {
+        "harf": "D",
+        "metin": "Yarı denetimli"
+      }
+    ]
+  },
+  {
+    "id": 488,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Ev fiyatını konum, oda sayısı, metrekare gibi özelliklere göre tahmin etmek. - Bu problemde hedef değişken ne türdür?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Kategorik"
+      },
+      {
+        "harf": "B",
+        "metin": "Sürekli"
+      },
+      {
+        "harf": "C",
+        "metin": "Sıralı"
+      },
+      {
+        "harf": "D",
+        "metin": "Binary"
+      }
+    ]
+  },
+  {
+    "id": 489,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Kredi kartı işlemlerinde olağandışı (hileli) işlemleri yakalamak. - Bu problem en çok hangi yaklaşımla çözülür?",
+    "dogruCevap": "C",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Sınıflandırma"
+      },
+      {
+        "harf": "B",
+        "metin": "Regresyon"
+      },
+      {
+        "harf": "C",
+        "metin": "Anomali tespiti"
+      },
+      {
+        "harf": "D",
+        "metin": "Kümeleme"
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Hastanın röntgen görüntüsünden zatürre olup olmadığını tespit etmek. - Bu problemde hangi performans metriği öncelikli olmalı?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Precision"
+      },
+      {
+        "harf": "B",
+        "metin": "Recall (hastaları kaçırmamak için)"
+      },
+      {
+        "harf": "C",
+        "metin": "MSE"
+      },
+      {
+        "harf": "D",
+        "metin": "Silhouette"
+      }
+    ]
+  },
+  {
+    "id": 491,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Online alışveriş sitesinde müşterinin bir ürünü beğenip beğenmeyeceğini tahmin etmek. - Bu problem hangi kategoriye girer?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Regresyon"
+      },
+      {
+        "harf": "B",
+        "metin": "Sınıflandırma"
+      },
+      {
+        "harf": "C",
+        "metin": "Kümeleme"
+      },
+      {
+        "harf": "D",
+        "metin": "Boyut indirgeme"
+      }
+    ]
+  },
+  {
+    "id": 492,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Bir restoranın günlük satış miktarını hava durumu, gün, mevsim gibi faktörlere göre tahmin etmek. - Bu problemde hangi metrik en uygun olur?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Accuracy"
+      },
+      {
+        "harf": "B",
+        "metin": "RMSE / MAE"
+      },
+      {
+        "harf": "C",
+        "metin": "F1-score"
+      },
+      {
+        "harf": "D",
+        "metin": "Silhouette"
+      }
+    ]
+  },
+  {
+    "id": 493,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Sosyal medyada kullanıcıları ilgi alanlarına göre benzer gruplara ayırmak. - Bu problemde etiketli veri var mıdır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır"
+      },
+      {
+        "harf": "C",
+        "metin": "Yarı denetimli"
+      },
+      {
+        "harf": "D",
+        "metin": "Pekiştirmeli"
+      }
+    ]
+  },
+  {
+    "id": 494,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Bir fabrikanın üretim hattında arıza riski yüksek olan makineleri önceden tespit etmek. - Bu problem hangi öğrenme tipine girer?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Denetimsiz"
+      },
+      {
+        "harf": "B",
+        "metin": "Denetimli"
+      },
+      {
+        "harf": "C",
+        "metin": "Pekiştirmeli"
+      },
+      {
+        "harf": "D",
+        "metin": "Yarı denetimsiz"
+      }
+    ]
+  },
+  {
+    "id": 495,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Akıllı telefonun batarya ömrünü kullanım alışkanlıklarına göre tahmin etmek. - Bu problemde çıktı ne türdür?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Kategorik"
+      },
+      {
+        "harf": "B",
+        "metin": "Sürekli"
+      },
+      {
+        "harf": "C",
+        "metin": "Sıralı"
+      },
+      {
+        "harf": "D",
+        "metin": "Binary"
+      }
+    ]
+  },
+  {
+    "id": 496,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Bir bankanın müşterilerini risk profiline göre gruplamak (düşük, orta, yüksek risk). - Bu problem için hangi algoritma uygundur?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Linear Regression"
+      },
+      {
+        "harf": "B",
+        "metin": "K-Means"
+      },
+      {
+        "harf": "C",
+        "metin": "Logistic Regression"
+      },
+      {
+        "harf": "D",
+        "metin": "SVM"
+      }
+    ]
+  },
+  {
+    "id": 497,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Bir e-ticaret sitesinde sahte yorumları (fake review) tespit etmek. - Bu problemde hangi metrik önceliklidir?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Precision (yanlış pozitifleri önlemek için)"
+      },
+      {
+        "harf": "B",
+        "metin": "MSE"
+      },
+      {
+        "harf": "C",
+        "metin": "Silhouette"
+      },
+      {
+        "harf": "D",
+        "metin": "Davies-Bouldin"
+      }
+    ]
+  },
+  {
+    "id": 498,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Haftanın hangi gününde daha çok satış yapıldığını tahmin etmek. - Bu problemde kaç sınıf vardır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "2"
+      },
+      {
+        "harf": "B",
+        "metin": "7 (haftanın günleri)"
+      },
+      {
+        "harf": "C",
+        "metin": "Sürekli"
+      },
+      {
+        "harf": "D",
+        "metin": "Küme sayısı"
+      }
+    ]
+  },
+  {
+    "id": 499,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Bir hastanede hasta randevularının no-show (gelmeme) olasılığını tahmin etmek. - Bu problemde hangi metrik en kritik olur?",
+    "dogruCevap": "A",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Recall (hastaları kaçırmamak için)"
+      },
+      {
+        "harf": "B",
+        "metin": "MSE"
+      },
+      {
+        "harf": "C",
+        "metin": "Silhouette"
+      },
+      {
+        "harf": "D",
+        "metin": "R²"
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Bir markette ürünlerin raf yerleşimini satış verilerine göre optimize etmek (benzer ürünler yakın olsun). - Bu problemde etiketli veri gerekli midir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Evet"
+      },
+      {
+        "harf": "B",
+        "metin": "Hayır"
+      },
+      {
+        "harf": "C",
+        "metin": "Yarı denetimli"
+      },
+      {
+        "harf": "D",
+        "metin": "Pekiştirmeli"
+      }
+    ]
+  },
+  {
+    "id": 501,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Bir aracın yakıt tüketimini hız, yük, yol tipi gibi faktörlere göre tahmin etmek. - Bu problemde hedef değişken nedir?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Kategorik"
+      },
+      {
+        "harf": "B",
+        "metin": "Sürekli (yakıt tüketimi)"
+      },
+      {
+        "harf": "C",
+        "metin": "Binary"
+      },
+      {
+        "harf": "D",
+        "metin": "Sıralı"
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Sosyal medya hesaplarının bot (sahte) olup olmadığını tespit etmek. - Bu problemde hangi algoritma sık kullanılır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "K-Means"
+      },
+      {
+        "harf": "B",
+        "metin": "Random Forest / XGBoost"
+      },
+      {
+        "harf": "C",
+        "metin": "PCA"
+      },
+      {
+        "harf": "D",
+        "metin": "DBSCAN"
+      }
+    ]
+  },
+  {
+    "id": 503,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Bir şehirdeki taksilerin yoğun olduğu bölgeleri belirlemek (yoğunluk haritası). - Bu problem için hangi kümeleme algoritması uygundur?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Linear Regression"
+      },
+      {
+        "harf": "B",
+        "metin": "DBSCAN (yoğunluk tabanlı)"
+      },
+      {
+        "harf": "C",
+        "metin": "Logistic Regression"
+      },
+      {
+        "harf": "D",
+        "metin": "SVM"
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "tip": "coktan-secmeli",
+    "soruMetni": "[Günlük Hayat Problemi] Bir akıllı ev sisteminde elektrik tüketiminde olağandışı artışları (kısa devre, unutulan cihaz) yakalamak. - Bu problemde hangi öğrenme türü kullanılır?",
+    "dogruCevap": "B",
+    "siklar": [
+      {
+        "harf": "A",
+        "metin": "Denetimli"
+      },
+      {
+        "harf": "B",
+        "metin": "Denetimsiz (anomali tespiti)"
+      },
+      {
+        "harf": "C",
+        "metin": "Pekiştirmeli"
+      },
+      {
+        "harf": "D",
+        "metin": "Yarı denetimli"
+      }
+    ]
+  }
+]

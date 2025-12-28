@@ -1,0 +1,2441 @@
+### Çoktan Seçmeli Sorular (100 Adet) – En Önemli Temel Kavramlar (Cevaplı)
+
+Bu sorular, belgelerdeki en kritik kavramları (veri tipleri, analiz aşamaları, istatistik, makine öğrenimi türleri, algoritmalar, performans kriterleri) kapsar. 
+Her soru dengeli şıklarla hazırlanmıştır.
+
+
+2. Veri Latince hangi kavramdan gelir?  
+   a) Factum  
+   b) Datum  
+   c) Veritas  
+   d) Informatio  
+   **Cevap: b)**
+
+3. Bir veri setinde belirli niteliklerden oluşan varlıkların bir araya gelmesinden ne oluşur?  
+   a) Rastgele liste  
+   b) Grup/Küme  
+   c) Tek varlık  
+   d) Boş küme  
+   **Cevap: b)**
+
+4. Kategorik veriler üzerinde hangi işlem yapılamaz?  
+   a) Sıralama  
+   b) Aritmetiksel işlem  
+   c) Karşılaştırma  
+   d) Gruplama  
+   **Cevap: b)**
+
+5. Sayısal veriler hangi sorulara cevap verir?  
+   a) Neden, niçin  
+   b) Kaç, ne kadar, ne sıklıkla  
+   c) Kim, nerede  
+   d) Hangi, ne zaman  
+   **Cevap: b)**
+
+
+7. Yapılandırılmış veriler genellikle hangi şekilde oluşturulur?  
+   a) Rastgele metin  
+   b) Satır ve sütunlar  
+   c) Görseller  
+   d) Ses dosyaları  
+   **Cevap: b)**
+
+8. Veri bilimi çalışmasının ilk aşaması nedir?  
+   a) Modelleme  
+   b) Problemin tanımı  
+   c) Veri görselleştirme  
+   d) Tahmin  
+   **Cevap: b)**
+
+9. Açıklayıcı analiz neye yöneliktir?  
+   a) Gelecek tahminlerine  
+   b) Neler olduğunu anlamaya  
+   c) Nedenlere  
+   d) Eylemlere  
+   **Cevap: b)**
+
+10. Teşhis analizi hangi soruyu bulur?  
+    a) Ne  
+    b) Neden  
+    c) Nasıl  
+    d) Ne zaman  
+    **Cevap: b)**
+
+11. Tahmine dayalı analiz ne yapar?  
+    a) Geçmişi açıklar  
+    b) Gelecek tahminleri  
+    c) Kurallar tanımlar  
+    d) Nedenleri bulur  
+    **Cevap: b)**
+
+14. Veri temizlemede ne tamamlanır?  
+    a) Fazla veriler  
+    b) Eksik/Tekrarlı veriler
+    c) Azaltılmış veriler  
+    d) Dönüştürülmüş veriler  
+    **Cevap: b)**
+
+15. Veri birleştirmede ne yapılır?  
+    a) Veriyi silme  
+    b) Farklı kaynaklardan ilişkili verileri birleştirme  
+    c) Veriyi ayırma  
+    d) Veriyi görselleştirme  
+    **Cevap: b)**
+
+
+17. Veri görselleştirme ne için en etkin yöntemdir?  
+    a) Veriyi depolama  
+    b) Verileri anlama  
+    c) Veriyi silme  
+    d) Veriyi dönüştürme  
+    **Cevap: b)**
+
+18. Çizgi grafikler neyi bağlar?  
+    a) Kategorik verileri  
+    b) Sürekli nicel verileri çizgilerle  
+    c) Dağılımları  
+    d) Bileşimleri  
+    **Cevap: b)**
+
+19. Bar grafikler değerleri neyle gösterir?  
+    a) Çizgilerle  
+    b) Dikdörtgen çubuklarla  
+    c) Noktalarla  
+    d) Pasta dilimleriyle  
+    **Cevap: b)**
+
+20. Scatter plot ne gösterir?  
+    a) Tek değişken  
+    b) İki eksene dayalı sayısal veri noktalarını  
+    c) Frekans aralıklarını  
+    d) Maks-min değerleri  
+    **Cevap: b)**
+
+21. Histogram neyi görselleştirir?  
+    a) İki değişken ilişkisi  
+    b) Tek bir değişkenin değer dağılımını
+    c) Karşılaştırmalar  
+    d) Oranlar  
+    **Cevap: b)**
+
+22. Kutu grafikleri ne gösterir?  
+    a) Yalnızca ortalama  
+    b) Maksimum, minimum, medyan gibi değerler  
+    c) Çizgi değişimleri  
+    d) Pasta oranları  
+    **Cevap: b)**
+
+23. Tanımlayıcı istatistik neye yönelik yöntemlerdir?  
+    a) Gelecek tahminlerine  
+    b) Mevcut veriyi anlamaya  
+    c) Eylemlere  
+    d) Nedenlere  
+    **Cevap: b)**
+
+24. Merkezi eğilim verilerin hangi merkezde toplandığına yönelik ne?  
+    a) Yayılımlar  
+    b) Çıkarımlar  
+    c) Tahminler  
+    d) Dağılımlar  
+    **Cevap: b)**
+
+
+26. Medyan neyi alır?  
+    a) En sık değeri  
+    b) Sayı setindeki orta noktayı  
+    c) Toplamı  
+    d) Varyansı  
+    **Cevap: b)**
+
+27. Mod nedir?  
+    a) Orta nokta  
+    b) En sık rastlanan sayı  
+    c) Ortalama  
+    d) Sapma  
+    **Cevap: b)**
+
+
+29. Aralık değeri ne arasındaki farktır?  
+    a) Ortalama ve medyan  
+    b) En düşük ve en yüksek değer  
+    c) Mod ve varyans  
+    d) Sapma ve ortalama  
+    **Cevap: b)**
+
+30. Varyans neyin ortalamasıdır?  
+    a) Mutlak farkların  
+    b) Farkların karesinin  
+    c) Toplamların  
+    d) Medyanların  
+    **Cevap: b)**
+
+31. Yapay zeka ve makine öğrenimi ne çıkarma sürecidir?  
+    a) Veri  
+    b) Bilgi  
+    c) Grafik  
+    d) Model  
+    **Cevap: b)**
+
+32. Lineer regresyon neyi modellemek için kullanılır?  
+    a) Eğrisel ilişki  
+    b) Doğrusal ilişki  
+    c) Rastgele  
+    d) Kümeleme  
+    **Cevap: b)**
+
+33. Karar ağaçları neyi temsil eder?  
+    a) Rastgele kararlar  
+    b) Karmaşık kararları hiyerarşik yapılarla  
+    c) Olasılıklar  
+    d) Mesafeler  
+    **Cevap: b)**
+
+35. Lojistik regresyon ne tahmin eder?  
+    a) Sürekli değerler  
+    b) Kategorik sonuçlar  
+    c) Küme sayıları  
+    d) Varyanslar  
+    **Cevap: b)**
+
+36. En yakın komşular algoritması neye dayanır?  
+    a) Olasılıklara  
+    b) Benzerlik temelli tahminlere  
+    c) Karar düğümlerine  
+    d) Küme merkezlerine  
+    **Cevap: b)**
+
+37. Naive Bayes neye dayanır?  
+    a) Mesafe hesaplamalarına  
+    b) Olasılıksal istatistiksel yöntemlere  
+    c) Ağaç yapılara  
+    d) Vektörlere  
+    **Cevap: b)**
+
+38. K-Means algoritması verileri neye ayırır?  
+    a) Rastgele gruplara  
+    b) Benzer gruplara  
+    c) Sınıflara  
+    d) Tahminlere  
+    **Cevap: b)**
+
+
+
+42. Keşifsel veri analizi neye yardımcı olur?  
+    a) Veri silmeye  
+    b) Verilerin temel yönünü anlamaya  
+    c) Modellemeye  
+    d) Raporlamaya  
+    **Cevap: b)**
+
+43. Veri dönüşümü ne için yapılır?  
+    a) Veriyi silmek  
+    b) Modellerin daha iyi performans sağlaması  
+    c) Veriyi arttırmak  
+    d) Veriyi azaltmak  
+    **Cevap: b)**
+
+44. Heatmap neyi temsil eder?  
+    a) Sayısal değerleri renk doygunluğu olarak  
+    b) Çizgi değişimleri  
+    c) Pasta dilimleri  
+    d) Noktaları  
+    **Cevap: a)**
+
+45. Pasta grafikleri ne için kullanılır?  
+    a) Zaman değişimini göstermek  
+    b) Bir bütünün parçalarını kıyaslamak  
+    c) Dağılımları göstermek  
+    d) İlişkileri göstermek  
+    **Cevap: b)**
+
+46. Normal dağılım verilerin ne etrafında yoğunlaştığı dağılımdır?  
+    a) Medyan  
+    b) Ortalama  
+    c) Mod  
+    d) Sapma  
+    **Cevap: b)**
+
+47. Simetrik dağılımda veriler ne etrafında dengelidir?  
+    a) Sağda  
+    b) Merkezde  
+    c) Solda  
+    d) Yukarıda  
+    **Cevap: b)**
+
+48. Pozitif çarpıklık verilerin ne tarafına kaydığı durumdur?  
+    a) Sola  
+    b) Sağ  
+    c) Ortaya  
+    d) Aşağı  
+    **Cevap: b)**
+
+49. Makine öğrenimi tipleri arasında ne yer alır?  
+    a) Yalnızca denetimli  
+    b) Gözetimli, gözetimsiz ve pekiştirmeli öğrenme  
+    c) Yalnızca denetimsiz  
+    d) Yalnızca pekiştirmeli  
+    **Cevap: b)**
+
+50. Derin öğrenme neyi kullanır?  
+    a) Basit katmanlar  
+    b) Yapay sinir ağlarının karmaşık gizli katmanlarını  
+    c) Yalnızca regresyon  
+    d) Yalnızca kümeleme  
+    **Cevap: b)**
+
+51. Accuracy metriği neyi ölçer?  
+    a) Yanlış tahminleri  
+    b) Toplam doğru tahmin oranını  
+    c) Küme kalitesini  
+    d) Hata karesini  
+    **Cevap: b)**
+
+52. Dengesiz veri setlerinde accuracy neden yanıltıcıdır?  
+    a) Azınlık sınıfını dikkate alır  
+    b) Çoğunluk sınıfını tahmin etmekle yüksek değer alır  
+    c) Her zaman düşük çıkar  
+    d) Kümeleme için uygundur  
+    **Cevap: b)**
+
+53. Precision neyi ifade eder?  
+    a) Gerçek pozitif yakalama oranı  
+    b) Tahmin edilen pozitiflerin doğruluğu  
+    c) Küme içi benzerlik  
+    d) Varyans oranı  
+    **Cevap: b)**
+
+54. Recall neyi ölçer?  
+    a) Yanlış pozitif oranı  
+    b) Gerçek pozitiflerin doğru tahmin oranı  
+    c) Hata karesini  
+    d) Boyut indirgemesini  
+    **Cevap: b)**
+
+55. F1-score neyin harmonik ortalamasıdır?  
+    a) Accuracy ve specificity  
+    b) Precision ve recall  
+    c) MSE ve MAE  
+    d) Silhouette ve Davies-Bouldin  
+    **Cevap: b)**
+
+56. ROC-AUC neyi gösterir?  
+    a) Regresyon hatasını  
+    b) Sınıflandırıcının farklı eşik performansını  
+    c) Küme ayrımını  
+    d) Veri boyutunu  
+    **Cevap: b)**
+
+57. PR-AUC dengesiz verilerde neden uygundur?  
+    a) Pozitif sınıfa odaklanır  
+    b) Negatif sınıfa odaklanır  
+    c) Kümeleme için kullanılır  
+    d) Boyut indirgeme için kullanılır  
+    **Cevap: a)**
+
+58. Specificity nedir?  
+    a) Gerçek negatif doğru tahmin oranı  
+    b) Gerçek pozitif oranı  
+    c) Yanlış pozitif oranı  
+    d) Küme sayısı  
+    **Cevap: a)**
+
+59. Confusion matrix'te TP neyi gösterir?  
+    a) Pozitif sınıfın doğru tahmini  
+    b) Negatif sınıfın yanlış tahmini  
+    c) Küme merkezini  
+    d) Hata karesini  
+    **Cevap: a)**
+
+60. Regresyonda MSE neyin ortalamasıdır?  
+    a) Mutlak hataların  
+    b) Hataların karelerinin  
+    c) Yüzde hataların  
+    d) Logaritmik hataların  
+    **Cevap: b)**
+
+63. R² neyi ifade eder?  
+    a) Hata karesini  
+    b) Modelin varyansın ne kadarını açıkladığını  
+    c) Küme kalitesini  
+    d) Precision değerini  
+    **Cevap: b)**
+
+64. Adjusted R² neyi cezalandırır?  
+    a) Az değişkeni  
+    b) Fazla değişken eklenmesini  
+    c) Küme sayısını  
+    d) Veri boyutunu  
+    **Cevap: b)**
+
+65. MAPE hataları ne olarak ifade eder?  
+    a) Kare olarak  
+    b) Yüzde olarak  
+    c) Mutlak olarak  
+    d) Logaritmik olarak  
+    **Cevap: b)**
+
+66. Silhouette skoru neyi ölçer?  
+    a) Küme içi benzerlik ve küme dışı ayrım  
+    b) Regresyon hatasını  
+    c) Precision'ı  
+    d) Accuracy'ı  
+    **Cevap: a)**
+
+67. Silhouette skoru aralığı nedir?  
+    a) 0 ile 1  
+    b) -1 ile +1  
+    c) -∞ ile +∞  
+    d) 0 ile 100  
+    **Cevap: b)**
+
+68. Davies-Bouldin indeksi düşük değer aldığında neyi gösterir?  
+    a) Kötü kümeleme  
+    b) İyi kümeleme  
+    c) Yüksek hata  
+    d) Düşük doğruluk  
+    **Cevap: b)**
+
+69. Calinski-Harabasz indeksi yüksekse kümeleme nasıldır?  
+    a) Kötü  
+    b) İyi  
+    c) Regresyon için iyi  
+    d) Sınıflandırma için iyi  
+    **Cevap: b)**
+
+70. Elbow yöntemi ne ile ilişkilidir?  
+    a) Accuracy  
+    b) WCSS (Within-Cluster Sum of Squares)  
+    c) F1-score  
+    d) R²  
+    **Cevap: b)**
+
+71. Cross-validation neyi değerlendirir?  
+    a) Küme sayısını  
+    b) Modelin genelleme yeteneğini  
+    c) Boyut indirgemesini  
+    d) Etiket üretimini  
+    **Cevap: b)**
+
+72. Stratified k-fold ne zaman tercih edilir?  
+    a) Dengeli verilerde  
+    b) Dengesiz sınıflı verilerde  
+    c) Kümeleme için  
+    d) Zaman serisi için  
+    **Cevap: b)**
+
+73. Log Loss neyi cezalandırır?  
+    a) Doğru tahminleri  
+    b) Yanlış tahmin güvenini  
+    c) Küme içini  
+    d) Boyutu  
+    **Cevap: b)**
+
+74. Hinge Loss hangi algoritmaya özgüdür?  
+    a) Linear Regression  
+    b) SVM  
+    c) K-Means  
+    d) PCA  
+    **Cevap: b)**
+
+75. Adjusted Rand Index ne için kullanılır?  
+    a) Regresyon hatası  
+    b) Gerçek etiketli kümeleme değerlendirmesi  
+    c) Sınıflandırma accuracy  
+    d) Boyut indirgeme  
+    **Cevap: b)**
+
+76. Homogeneity neyi ölçer?  
+    a) Her kümenin tek sınıf içermesi  
+    b) Sınıfın birden çok kümede olması  
+    c) Küme içi varyansı  
+    d) Küme arası ayrımı  
+    **Cevap: a)**
+
+77. Completeness neyi ölçer?  
+    a) Aynı sınıf noktalarının aynı kümede olması  
+    b) Her kümenin birden çok sınıf içermesi  
+    c) Küme sayısı  
+    d) Hata karesi  
+    **Cevap: a)**
+
+78. V-Measure neyin harmonik ortalamasıdır?  
+    a) Homogeneity ve completeness  
+    b) Precision ve recall  
+    c) MSE ve MAE  
+    d) R² ve Adjusted R²  
+    **Cevap: a)**
+
+79. Macro-average ne anlama gelir?  
+    a) Sınıf büyüklüğüne göre ortalama  
+    b) Her sınıfın metriğini eşit ağırlıkla ortalama  
+    c) Sadece pozitif sınıf  
+    d) Kümeleme metriği  
+    **Cevap: b)**
+
+80. Micro-average neyi yapar?  
+    a) Tüm tahminleri global ortalama alır  
+    b) Her sınıfı ayrı ortalama alır  
+    c) Negatif sınıfı dikkate alır  
+    d) Regresyon için kullanılır  
+    **Cevap: a)**
+
+81. Weighted-average neye göre ağırlık verir?  
+    a) Eşit ağırlık  
+    b) Sınıf örnek sayılarına  
+    c) Küme merkezlerine  
+    d) Boyut indirgemesine  
+    **Cevap: b)**
+
+82. Huber Loss ne için tercih edilir?  
+    a) Sınıflandırma  
+    b) Aykırı değerlere dayanıklı regresyon  
+    c) Kümeleme  
+    d) Boyut indirgeme  
+    **Cevap: b)**
+
+83. Hamming Loss ne için kullanılır?  
+    a) Regresyon  
+    b) Multi-label sınıflandırma  
+    c) Kümeleme  
+    d) Zaman serisi  
+    **Cevap: b)**
+
+84. Jaccard Similarity neyi ölçer?  
+    a) Regresyon hatası  
+    b) Set benzerliğini  
+    c) Küme içi varyansı  
+    d) Accuracy'ı  
+    **Cevap: b)**
+
+85. Normalized Mutual Information ne için kullanılır?  
+    a) Regresyon  
+    b) Gerçek etiketli kümeleme değerlendirmesi  
+    c) Sınıflandırma  
+    d) Boyut indirgeme  
+    **Cevap: b)**
+
+86. Rand Index neyi ölçer?  
+    a) Hata karesini  
+    b) İki kümeleme arasındaki anlaşma derecesi  
+    c) Precision'ı  
+    d) Recall'ı  
+    **Cevap: b)**
+
+87. Mean Average Precision (mAP) hangi alanda yaygındır?  
+    a) Regresyon  
+    b) Nesne tespiti  
+    c) Kümeleme  
+    d) Zaman serisi  
+    **Cevap: b)**
+
+88. RMSLE ne zaman tercih edilir?  
+    a) Kümeleme için  
+    b) Büyük ölçek farkları olan hedeflerde  
+    c) Sınıflandırma için  
+    d) Boyut indirgeme için  
+    **Cevap: b)**
+
+89. SMAPE neyi düzeltir?  
+    a) Küme sayısını  
+    b) Sıfıra yakın değerlerdeki bölme sorununu  
+    c) Precision'ı  
+    d) Silhouette'ı  
+    **Cevap: b)**
+
+90. Birden fazla metrik kullanmak neden önerilir?  
+    a) Yalnızca accuracy için  
+    b) Dengeli değerlendirme için  
+    c) Yalnızca MSE için  
+    d) Yalnızca Silhouette için  
+    **Cevap: b)**
+
+91. Overfitting neyle tespit edilir?  
+    a) Eğitim düşük, test yüksek  
+    b) Eğitim yüksek, test düşük  
+    c) Küme yüksek  
+    d) Boyut düşük  
+    **Cevap: b)**
+
+92. Underfitting neyle belli olur?  
+    a) Her sette yüksek performans  
+    b) Her sette düşük performans  
+    c) Yalnızca eğitimde yüksek  
+    d) Yalnızca testte yüksek  
+    **Cevap: b)**
+
+93. Zaman serisi için hangi metrik yaygındır?  
+    a) Silhouette  
+    b) MAPE  
+    c) F1-score  
+    d) Davies-Bouldin  
+    **Cevap: b)**
+
+94. Macro-average dengesiz sınıflarda neden faydalıdır?  
+    a) Büyük sınıfları öne çıkarır  
+    b) Sınıfları eşit değerlendirir  
+    c) Küme için kullanılır  
+    d) Regresyon için kullanılır  
+    **Cevap: b)**
+
+95. PR-AUC neden tercih edilir?  
+    a) Negatif sınıfa odaklanır  
+    b) Dengesiz verilerde pozitif sınıfa odaklanır  
+    c) Küme odaklanır  
+    d) Boyut odaklanır  
+    **Cevap: b)**
+
+96. Dunn indeksi yüksekse kümeler nasıldır?  
+    a) Karışık  
+    b) Kompakt ve ayrık  
+    c) Hata yüksek  
+    d) Doğruluk düşük  
+    **Cevap: b)**
+
+97. Explained Variance Score neyi gösterir?  
+    a) Küme oranını  
+    b) Regresyonda açıklanan varyans oranını  
+    c) Precision oranını  
+    d) Recall oranını  
+    **Cevap: b)**
+
+98. Cross-validation ortalaması neden güvenilirdir?  
+    a) Tek split'e göre  
+    b) Şans eseri sonuçları azaltır  
+    c) Küme sayısına göre  
+    d) Boyuta göre  
+    **Cevap: b)**
+
+
+
+### Boşluk Doldurmalı Sorular (100 Adet) – En Önemli Temel Kavramlar (Cevaplı)
+
+Bu sorular, temel tanımlar ve kavramları öğretmek için hazırlanmıştır. Doğru cevaplar parantez içinde.
+
+1. Veri, bilginin en küçük ________dir. (birimi)
+
+3. Bir veri seti, belirli niteliklerden oluşan bir grup varlığın bir araya gelmesinden ________. (oluşur)
+
+4. Kategorik veriler, ölçülemez ve üzerinde ________ işlem yapılamaz. (aritmetiksel)
+
+5. Sayısal veriler, "Kaç", "Ne kadar" ve "Ne sıklıkla" ________ cevap verirler. (sorularına)
+
+6. Oransal veriler, sıfır noktasında başlar ve hiçbir zaman sıfırın ________ düşmez. (altına)
+
+7. Yapılandırılmış veriler, genellikle satır ve ________ oluşurlar. (sütunlardan)
+
+8. Veri bilimi çalışmasının ilk aşaması, problemin ________ aşamasıdır. (tanımı)
+
+9. Açıklayıcı analiz, geçmiş verilere bakarak "neler ________ anlamaya yöneliktir. (olduğunu")
+
+10. Teşhis analizi, "Neden" sorusunu bulmak için yapılan ________ analizidir. (analizlerdir)
+
+11. Tahmine dayalı analiz, gelecek hakkında ________ yapar. (tahminler)
+
+12. Kuralcı analiz, eylem/aksiyon için ________ de tanımlar. (süreçleri)
+
+13. Keşifsel veri analizi (EDA), genellikle makine öğrenimi modellemesi ________ verilere ait içgörü oluşturur. (öncesi)
+
+14. Veri temizlemede, eksik verilerin ________ işlemi yapılır. (tamamlanması)
+
+15. Veri birleştirmede, farklı kaynaklardan gelen ilişkili verilerin ________ işlemi yapılır. (birleştirilmesi)
+
+16. Min-Max normalleştirmesi, verilerin belirli bir ________ aralığına ölçeklendirilmesini sağlar. (aralık)
+
+17. Veri görselleştirme, verilerin anlaşılması için en ________ yöntemdir. (etkin)
+
+18. Çizgi grafikler, sürekli nicel verileri ________ bağlarlar. (çizgilerle)
+
+19. Bar grafikler, değerlerin dikdörtgen ________ gösterildiği grafik tipleridir. (çubuklarla)
+
+20. Scatter plot, iki eksene dayalı sayısal veri ________ gösteren grafiklerdir. (noktalarını)
+
+21. Histogram, tek bir değişkenin veri ________ görselleştirir. (dağılımını)
+
+22. Kutu grafikleri, maksimum, minimum, medyan gibi ________ gösterir. (değerleri)
+
+23. Tanımlayıcı istatistik, mevcut veriyi anlamaya ________ yöntemlerdir. (yönelik)
+
+24. Merkezi eğilim, verilerin hangi merkezde ________ yönelik çıkarımlardır. (toplandığına)
+
+25. Aritmetiksel ortalama, bütün sayıların toplamının, veri ________ bölünmesiyle elde edilir. (sayısına)
+
+26. Medyan, sayı setindeki sayıların fiziksel olarak ________ noktasını alır. (orta)
+
+27. Mod, bir sayı setinde en sık rastlanan ________. (sayıdır)
+
+28. Yayılım eğilimi, merkezi eğilimin tam ________. (tersidir)
+
+29. Aralık değeri, en düşük değer ile en yüksek değer arasındaki ________. (farkı)
+
+30. Varyans, sayı setindeki her bir değerin ortalama ile olan farkının karesinin ________. (ortalaması)
+
+31. Yapay zeka ve makine öğrenimi, veriden ________ çıkarma sürecidir. (bilgi)
+
+32. Lineer regresyon, bağımlı ve bağımsız değişkenler arasındaki ________ ilişkiyi modellemek için kullanılır. (doğrusal)
+
+33. Karar ağaçları, karmaşık kararları ________ yapılarla temsil eder. (hiyerarşik)
+
+34. Destek vektör makineleri, sınıflandırma ve ________ için kullanılır. (regresyon)
+
+35. Lojistik regresyon, kategorik ________ tahmin etmek için kullanılır. (sonuçları)
+
+36. En yakın komşular algoritması, benzerlik temelli ________ yapar. (tahminler)
+
+37. Naive Bayes algoritması, olasılıksal ________ yöntemlerine dayanır. (istatistiksel)
+
+38. K-Means kümeleme algoritması, verileri ________ gruplara ayırır. (benzer)
+
+39. Büyük veri ve yapay zeka, bütün alanları ________ ve etkilemeye devam edecektir. (etkilemiş)
+
+40. Veri bilimi kılavuzu, teknik bilgiye ihtiyaç duymadan ________ sunar. (anlayış)
+
+41. Verilerin saklanması, analiz ve kullanım için ________ gereklidir. (altyapı)
+
+42. Keşifsel veri analizi, verilerin ________ yönünü anlamaya yardımcı olur. (temel)
+
+43. Veri dönüşümü, modellerin daha iyi ________ sağlayabilmesi için yapılır. (performans)
+
+44. Heatmap, sayısal değerlerin renk ________ olarak temsil edildiği grafik tipleridir. (doygunluğu)
+
+45. Pasta grafikleri, bir bütünün parçalarını ________ için kullanılır. (kıyaslamak)
+
+46. Normal dağılım, verilerin ________ etrafında yoğunlaştığı bir dağılım türüdür. (ortalama)
+
+47. Simetrik dağılımda, veriler ________ etrafında dengelidir. (merkezde)
+
+48. Pozitif çarpıklık, verilerin ________ tarafına kaydığı durumdur. (sağ)
+
+49. Makine öğrenimi tipleri arasında gözetimli, gözetimsiz ve ________ öğrenme yer alır. (pekiştirmeli)
+
+50. Derin öğrenme, yapay sinir ağlarının daha karmaşık ________ katmanlarını kullanır. (gizli)
+
+51. Performans kriterleri, bir makine öğrenme modelinin ________'ini ölçer. (başarısını)
+
+52. Sınıflandırma'da accuracy, toplam doğru tahminlerin tüm ________'e oranıdır. (tahminlere)
+
+53. Dengesiz veri setlerinde accuracy, çoğunluk sınıfını tahmin etmekle yüksek ________ alır. (değer)
+
+54. Precision, tahmin edilen pozitiflerin kaçının gerçek ________ olduğunu ölçer. (pozitif)
+
+55. Recall, gerçek pozitiflerin kaçını doğru ________ ettiğini gösterir. (tahmin)
+
+56. F1-score, precision ve recall'ün ________ ortalamasıdır. (harmonik)
+
+57. ROC eğrisi, True Positive Rate ve False Positive Rate'i ________. (karşılaştırır)
+
+58. AUC değeri 0.5'ten yüksekse model rastgeleden daha ________. (iyi)
+
+59. Confusion matrix, model hatalarını TP, TN, FP, FN ________ ile gösterir. (hücreleriyle)
+
+60. Specificity, gerçek negatiflerin doğru tahmin ________'ıdır. (oranı)
+
+61. Regresyon'da MSE, hataların kare ________'ıdır. (ortalaması)
+
+62. RMSE, MSE'nin ________'üdür. (karekökü)
+
+63. MAE, aykırı değerlere MSE'den daha ________'dır. (dayanıklı)
+
+64. R², modelin varyansın ne kadarını ________'ığını gösterir. (açıkladığını)
+
+65. Adjusted R², fazla değişken eklendiğinde ________. (cezalandırır)
+
+66. Kümeleme'de Silhouette skoru, küme içi ve küme dışı ________ karşılaştırır. (benzerliği)
+
+67. Silhouette skoru pozitifse kümeler iyi ________. (ayrılmış)
+
+68. Davies-Bouldin indeksi düşükse kümeleme ________. (iyi)
+
+69. Calinski-Harabasz indeksi yüksekse kümeleme ________. (iyi)
+
+70. Elbow yöntemi, WCSS grafiğinde ________ noktasıyla optimal küme sayısını belirler. (dirsek)
+
+71. Cross-validation, modelin genelleme ________'ini test eder. (yeteneğini)
+
+72. K-fold cross-validation'da veri K ________'ya bölünür. (parçaya)
+
+73. Log Loss, olasılıksal çıktılarda yanlış tahminleri ________. (cezalandırır)
+
+74. Hinge Loss, SVM'de margin'ı ________ eder. (maksimize)
+
+75. MAPE, hataları yüzde ________ ifade eder. (olarak)
+
+76. Adjusted Rand Index (ARI), gerçek etiketler bilindiğinde kümeleme ________. (değerlendirmesi)
+
+77. Homogeneity, her kümenin yalnızca bir ________ içermesi. (sınıf)
+
+78. Completeness, aynı sınıftaki noktaların aynı ________ ait olması. (kümeye)
+
+79. V-Measure, homogeneity ve completeness'in harmonik ________'ıdır. (ortalaması)
+
+80. Macro-average, her sınıfın metriğini eşit ________ ortalama alır. (ağırlıkla)
+
+81. Micro-average, tüm tahminleri birleştirip global ________ alır. (ortalama)
+
+82. Weighted-average, sınıf örnek sayılarına göre ________ verir. (ağırlık)
+
+83. Huber Loss, aykırı değerlere karşı dayanıklı ________. (regresyon)
+
+84. Hamming Loss, çok etiketli sınıflandırmada yanlış etiket ________'ını ölçer. (oranını)
+
+85. Jaccard Similarity, çok etiketli sınıflandırmada set ________'liğini ölçer. (benzerliği)
+
+86. Normalized Mutual Information (NMI), kümeleme ile gerçek etiket ________'lığını ölçer. (bağımlılığını)
+
+87. Rand Index, iki kümeleme arasındaki anlaşma ________'sini ölçer. (derecesini)
+
+88. Cophenetic Correlation Coefficient, hiyerarşik kümeleme ________'sini ölçer. (kalitesini)
+
+89. Mean Average Precision (mAP), bilgi geri kazanımı ve nesne ________'inde yaygındır. (tespiti)
+
+90. Root Mean Squared Logarithmic Error (RMSLE), büyük ölçek farkları olan hedef ________'lerde tercih edilir. (değişkenlerde)
+
+91. SMAPE, sıfıra yakın değerlerdeki bölme ________'unu düzeltir. (sorununu)
+
+92. Kullanılan metriklerin dengeli olması için birden fazla ________ kullanmak önerilir. (metrik)
+
+93. Model karşılaştırmasında cross-validation ________ en güvenilirdir. (ortalaması)
+
+94. Overfitting, eğitim setinde yüksek, test setinde düşük ________ gösterir. (performans)
+
+95. Underfitting, her iki sette de düşük ________ gösterir. (performans)
+
+96. Zaman serisi problemlerinde MAPE yaygın ________ kullanılır. (metrik)
+
+97. Multiclass sınıflandırmada macro-average, her sınıfı eşit ________ alır. (ağırlıkla)
+
+98. Micro-average, tüm tahminleri ________ global ortalama alır. (birleştirip)
+
+99. Weighted-average, sınıf ________ sayılarına göre ağırlık alır. (örnek)
+
+100. Huber Loss, küçük hatalarda MSE gibi, büyük hatalarda MAE gibi ________. (davranır)
+
+
+
+### Çoktan Seçmeli Sorular (50 Adet) – Performans Kriterleri (Cevaplı)
+
+1. Sınıflandırma problemlerinde en temel performans metriği hangisidir?  
+   a) Accuracy  
+   b) MSE  
+   c) Silhouette Score  
+   d) R²  
+   **Cevap: a) Accuracy**
+
+2. Dengesiz veri setlerinde accuracy neden yanıltıcı olabilir?  
+   a) Çoğunluk sınıfını tahmin etmekle yüksek değer alır  
+   b) Her zaman düşük çıkar  
+   c) Kümeleme için uygundur  
+   d) Regresyon için kullanılır  
+   **Cevap: a)**
+
+3. Precision hangi durumda önemlidir?  
+   a) Yanlış pozitiflerin maliyetli olduğu durumlarda  
+   b) Yanlış negatiflerin maliyetli olduğu durumlarda  
+   c) Küme kalitesini ölçerken  
+   d) Regresyon hatasını hesaplarken  
+   **Cevap: a)**
+
+4. Recall (duyarlılık) hangi durumda önceliklidir?  
+   a) Yanlış negatiflerin (kaçırılan pozitiflerin) pahalı olduğu durumlarda  
+   b) Yanlış pozitiflerin pahalı olduğu durumlarda  
+   c) Kümeleme için  
+   d) Boyut indirgeme için  
+   **Cevap: a)**
+
+5. F1-score neyin harmonik ortalamasıdır?  
+   a) Precision ve Recall  
+   b) Accuracy ve Specificity  
+   c) MSE ve MAE  
+   d) Silhouette ve Davies-Bouldin  
+   **Cevap: a)**
+
+6. ROC-AUC neyi ölçer?  
+   a) Sınıflandırıcının farklı eşik değerlerindeki performansını  
+   b) Regresyon doğruluğunu  
+   c) Küme ayrımını  
+   d) Model karmaşıklığını  
+   **Cevap: a)**
+
+7. PR-AUC (Precision-Recall AUC) hangi veri setlerinde daha uygundur?  
+   a) Dengesiz (imbalanced) veri setlerinde  
+   b) Dengeli veri setlerinde  
+   c) Regresyon problemlerinde  
+   d) Kümeleme problemlerinde  
+   **Cevap: a)**
+
+8. Specificity (özgüllük) nedir?  
+   a) Gerçek negatiflerin doğru tahmin oranı  
+   b) Gerçek pozitiflerin doğru tahmin oranı  
+   c) Yanlış pozitif oranı  
+   d) Yanlış negatif oranı  
+   **Cevap: a)**
+
+9. Confusion matrix'te True Positive (TP) neyi gösterir?  
+   a) Pozitif sınıfın doğru tahmin edilmesi  
+   b) Negatif sınıfın yanlış tahmin edilmesi  
+   c) Küme merkezini  
+   d) Hata karesini  
+   **Cevap: a)**
+
+10. Regresyon problemlerinde en yaygın hata metriği hangisidir?  
+    a) Mean Squared Error (MSE)  
+    b) Accuracy  
+    c) F1-score  
+    d) Silhouette score  
+    **Cevap: a)**
+
+11. RMSE'nin MSE'ye göre avantajı nedir?  
+    a) Hata birimleriyle aynı ölçekte olur  
+    b) Daha küçük değer verir  
+    c) Kümeleme için uygundur  
+    d) Dengesiz verilerde daha iyi  
+    **Cevap: a)**
+
+12. MAE (Mean Absolute Error) hangi durumda MSE'den daha uygundur?  
+    a) Aykırı değerlere (outlier) karşı daha dayanıklıdır  
+    b) Her zaman daha yüksek değer verir  
+    c) Kümeleme için kullanılır  
+    d) Sınıflandırma için uygundur  
+    **Cevap: a)**
+
+13. R² (korelasyon katsayısı) neyi ifade eder?  
+    a) Modelin varyansın ne kadarını açıkladığını  
+    b) Hata karesini  
+    c) Küme kalitesini  
+    d) Precision değerini  
+    **Cevap: a)**
+
+14. Adjusted R²'nin R²'ye göre avantajı nedir?  
+    a) Daha fazla değişken eklendiğinde cezalandırır  
+    b) Her zaman daha yüksektir  
+    c) Kümeleme için kullanılır  
+    d) Dengesiz verilerde daha iyidir  
+    **Cevap: a)**
+
+15. MAPE (Mean Absolute Percentage Error) hangi durumda tercih edilir?  
+    a) Hataları yüzde olarak ifade etmek istendiğinde  
+    b) Kümeleme için  
+    c) Sınıflandırma için  
+    d) Boyut indirgeme için  
+    **Cevap: a)**
+
+16. Kümeleme performansını değerlendirmek için kullanılan içsel (internal) metrik hangisidir?  
+    a) Silhouette Score  
+    b) Accuracy  
+    c) MSE  
+    d) F1-score  
+    **Cevap: a)**
+
+17. Silhouette skoru neyi ölçer?  
+    a) Küme içi benzerlik ve küme dışı ayrım  
+    b) Regresyon hatasını  
+    c) Precision değerini  
+    d) Accuracy oranını  
+    **Cevap: a)**
+
+18. Silhouette skoru aralığı nedir?  
+    a) -1 ile +1 arası  
+    b) 0 ile 1 arası  
+    c) -∞ ile +∞  
+    d) 0 ile 100  
+    **Cevap: a)**
+
+19. Davies-Bouldin indeksi neyi ifade eder?  
+    a) Küme ayrımının ne kadar iyi olduğunu (düşük değer daha iyi)  
+    b) Regresyon doğruluğunu  
+    c) Sınıflandırma hatasını  
+    d) Veri boyutunu  
+    **Cevap: a)**
+
+20. Calinski-Harabasz indeksi (Variance Ratio Criterion) neyi ölçer?  
+    a) Küme arası dağılımın küme içi dağılıma oranını (yüksek değer daha iyi)  
+    b) Hata karesini  
+    c) Precision değerini  
+    d) Recall değerini  
+    **Cevap: a)**
+
+21. Elbow yöntemi hangi metrikle ilişkilidir?  
+    a) Within-Cluster Sum of Squares (WCSS)  
+    b) Accuracy  
+    c) F1-score  
+    d) R²  
+    **Cevap: a)**
+
+22. Dunn indeksi neyi ölçer?  
+    a) Küme içi kompaktlık ve küme arası ayrımı (yüksek değer daha iyi)  
+    b) Regresyon hatasını  
+    c) Sınıflandırma doğruluğunu  
+    d) Boyut indirgeme oranını  
+    **Cevap: a)**
+
+23. Cross-validation hangi amaçla kullanılır?  
+    a) Modelin genelleme yeteneğini değerlendirmek  
+    b) Küme sayısını belirlemek  
+    c) Boyut indirgemek  
+    d) Etiket üretmek  
+    **Cevap: a)**
+
+24. Stratified k-fold cross-validation ne zaman tercih edilir?  
+    a) Dengesiz sınıflı veri setlerinde  
+    b) Regresyon problemlerinde  
+    c) Kümeleme problemlerinde  
+    d) Zaman serisi verilerinde  
+    **Cevap: a)**
+
+25. Leave-One-Out Cross-Validation (LOOCV) hangi durumda uygundur?  
+    a) Veri seti çok küçükse  
+    b) Veri seti çok büyükse  
+    c) Kümeleme için  
+    d) Derin öğrenme için  
+    **Cevap: a)**
+
+26. Log Loss (Cross-Entropy Loss) hangi problemlerde kullanılır?  
+    a) Sınıflandırma (özellikle olasılıksal çıktılar)  
+    b) Regresyon  
+    c) Kümeleme  
+    d) Boyut indirgeme  
+    **Cevap: a)**
+
+27. Hinge Loss hangi algoritmaya özgüdür?  
+    a) SVM  
+    b) Linear Regression  
+    c) K-Means  
+    d) Hierarchical Clustering  
+    **Cevap: a)**
+
+28. Mean Absolute Error (MAE) hangi durumda daha iyidir?  
+    a) Aykırı değerlerin etkisi az olsun istenirse  
+    b) Kare hatalar önemliyse  
+    c) Kümeleme için  
+    d) Sınıflandırma için  
+    **Cevap: a)**
+
+29. Explained Variance Score neyi ölçer?  
+    a) Modelin açıkladığı varyans oranını (regresyon)  
+    b) Küme kalitesini  
+    c) Precision değerini  
+    d) Recall değerini  
+    **Cevap: a)**
+
+30. Adjusted Rand Index (ARI) ne için kullanılır?  
+    a) Gerçek etiketler bilindiğinde kümeleme değerlendirmesi  
+    b) Regresyon hatası  
+    c) Sınıflandırma accuracy  
+    d) Boyut indirgeme  
+    **Cevap: a)**
+
+31. Mutual Information Score (MI) neyi ölçer?  
+    a) Kümeleme sonuçları ile gerçek etiketler arasındaki bağımlılık  
+    b) Regresyon hatasını  
+    c) Precision değerini  
+    d) Silhouette skorunu  
+    **Cevap: a)**
+
+32. Homogeneity, kümelemede neyi ölçer?  
+    a) Her kümenin yalnızca bir sınıf içermesi  
+    b) Her sınıfın yalnızca bir küme içinde olması  
+    c) Küme içi varyansı  
+    d) Küme arası ayrımı  
+    **Cevap: a)**
+
+33. Completeness, kümelemede neyi ölçer?  
+    a) Aynı sınıftaki noktaların aynı kümeye ait olması  
+    b) Her kümenin tek sınıf içermesi  
+    c) Küme sayısı  
+    d) Hata karesi  
+    **Cevap: a)**
+
+34. V-Measure, neyin harmonik ortalamasıdır?  
+    a) Homogeneity ve Completeness  
+    b) Precision ve Recall  
+    c) MSE ve MAE  
+    d) R² ve Adjusted R²  
+    **Cevap: a)**
+
+35. Zaman serisi problemlerinde hangi metrik yaygın kullanılır?  
+    a) MAPE  
+    b) Silhouette score  
+    c) F1-score  
+    d) Davies-Bouldin  
+    **Cevap: a)**
+
+36. Multiclass sınıflandırmada macro-average ne anlama gelir?  
+    a) Her sınıfın metriğini eşit ağırlıkla ortalama  
+    b) Sınıf büyüklüğüne göre ağırlıklı ortalama  
+    c) Sadece pozitif sınıfı dikkate alma  
+    d) Kümeleme metriği  
+    **Cevap: a)**
+
+37. Micro-average ne anlama gelir?  
+    a) Tüm tahminleri birleştirip global ortalama alma  
+    b) Her sınıfı eşit ağırlıkla ortalama  
+    c) Sadece negatif sınıfı dikkate alma  
+    d) Regresyon metriği  
+    **Cevap: a)**
+
+38. Weighted-average, multiclass'ta neyi dikkate alır?  
+    a) Sınıf örnek sayılarına göre ağırlık  
+    b) Her sınıfı eşit ağırlıkla  
+    c) Küme merkezlerini  
+    d) Boyut indirgeme oranını  
+    **Cevap: a)**
+
+39. Huber Loss hangi durumda tercih edilir?  
+    a) Aykırı değerlere karşı dayanıklı regresyon  
+    b) Sınıflandırma  
+    c) Kümeleme  
+    d) Boyut indirgeme  
+    **Cevap: a)**
+
+40. Quantile Loss hangi problem için kullanılır?  
+    a) Quantile regresyon (yüzdelik tahmin)  
+    b) Sınıflandırma  
+    c) Kümeleme  
+    d) PCA  
+    **Cevap: a)**
+
+41. Hamming Loss ne için kullanılır?  
+    a) Çok etiketli (multi-label) sınıflandırma  
+    b) Regresyon  
+    c) Kümeleme  
+    d) Zaman serisi  
+    **Cevap: a)**
+
+42. Jaccard Similarity neyi ölçer?  
+    a) Çok etiketli sınıflandırmada set benzerliği  
+    b) Regresyon hatası  
+    c) Küme içi varyans  
+    d) Accuracy  
+    **Cevap: a)**
+
+43. Normalized Mutual Information (NMI) ne için kullanılır?  
+    a) Kümeleme değerlendirmesi (gerçek etiket varsa)  
+    b) Regresyon  
+    c) Sınıflandırma  
+    d) Boyut indirgeme  
+    **Cevap: a)**
+
+44. Rand Index neyi ölçer?  
+    a) İki kümeleme arasındaki anlaşma derecesi  
+    b) Hata karesini  
+    c) Precision değerini  
+    d) Recall değerini  
+    **Cevap: a)**
+
+45. Cophenetic Correlation Coefficient hangi kümeleme türünde kullanılır?  
+    a) Hiyerarşik kümeleme (dendrogram kalitesi)  
+    b) K-Means  
+    c) DBSCAN  
+    d) Regresyon  
+    **Cevap: a)**
+
+46. Mean Average Precision (mAP) hangi alanda yaygındır?  
+    a) Bilgi geri kazanımı ve nesne tespiti  
+    b) Regresyon  
+    c) Kümeleme  
+    d) Zaman serisi  
+    **Cevap: a)**
+
+47. Root Mean Squared Logarithmic Error (RMSLE) ne zaman tercih edilir?  
+    a) Büyük ölçek farkları olan hedef değişkenlerde  
+    b) Kümeleme için  
+    c) Sınıflandırma için  
+    d) Boyut indirgeme için  
+    **Cevap: a)**
+
+48. SMAPE (Symmetric MAPE) neyi düzeltir?  
+    a) Sıfıra yakın değerlerdeki bölme sorununu  
+    b) Küme sayısını  
+    c) Precision değerini  
+    d) Silhouette skorunu  
+    **Cevap: a)**
+
+49. Kullanılan metriklerin dengeli olması için hangisi önerilir?  
+    a) Birden fazla metrik kullanmak (örneğin Accuracy + F1 + AUC)  
+    b) Yalnızca Accuracy  
+    c) Yalnızca MSE  
+    d) Yalnızca Silhouette  
+    **Cevap: a)**
+
+50. Model karşılaştırmasında hangi metrik genellikle en güvenilirdir?  
+    a) Cross-validation ortalaması (örneğin 5-fold CV F1-score)  
+    b) Tek seferlik train-test split  
+    c) Yalnızca eğitim seti performansı  
+    d) Küme sayısı  
+    **Cevap: a)**
+
+### Klasik (Açık Uçlu) Sorular ve Örnek Cevapları (50 Adet)
+
+1. **Soru:** Accuracy metriğinin avantajları ve dezavantajları nelerdir?  
+   **Cevap:** Avantajı: Basit ve anlaşılır bir metriktir. Dezavantajı: Dengesiz veri setlerinde yanıltıcı olabilir (çoğunluk sınıfını tahmin etmekle yüksek accuracy alınabilir).
+
+2. **Soru:** Dengesiz veri setlerinde neden F1-score, precision veya recall daha tercih edilir?  
+   **Cevap:** Accuracy çoğunluk sınıfını ezici şekilde tahmin ettiğinde yüksek çıkar, ancak azınlık sınıfındaki performansı yansıtmaz. F1-score, precision ve recall dengeli bir görünüm sağlar.
+
+3. **Soru:** Precision ve Recall arasındaki farkı örnek bir senaryo ile açıklayın.  
+   **Cevap:** Precision: "Tahmin ettiğim pozitiflerin kaçı gerçekten pozitif?" Örnek: Kanser teşhisinde yanlış pozitif (sağlıklı kişiye hasta demek) pahalıysa precision yüksek olmalı. Recall: "Gerçek pozitiflerin kaçını yakaladım?" Örnek: Hastaları kaçırmamak için recall yüksek olmalı.
+
+4. **Soru:** F1-score neden harmonik ortalama kullanır? Aritmetik ortalamadan farkı nedir?  
+   **Cevap:** Harmonik ortalama, düşük değerlere daha fazla ağırlık verir. Precision ve recall'dan biri düşükse F1-score düşük olur, bu yüzden dengesiz durumlarda daha güvenilirdir.
+
+5. **Soru:** ROC eğrisi ve AUC değerinin yorumlanması nasıl yapılır?  
+   **Cevap:** ROC eğrisi TPR vs FPR grafiğidir. AUC 1'e yakınsa mükemmel sınıflandırıcı, 0.5 ise rastgele tahmin eder. 0.7-0.8 iyi, 0.9+ mükemmele yakın.
+
+6. **Soru:** PR eğrisi (Precision-Recall curve) ne zaman ROC eğrisinden daha bilgilendiricidir?  
+   **Cevap:** Dengesiz veri setlerinde (pozitif örnekler azsa) PR eğrisi daha anlamlıdır, çünkü ROC eğrisi çoğunluk negatif sınıfı nedeniyle yanıltıcı olabilir.
+
+7. **Soru:** Confusion matrix'teki dört hücreyi (TP, TN, FP, FN) tanımlayın ve bir örnek verin.  
+   **Cevap:** TP: Gerçek pozitif, doğru tahmin. TN: Gerçek negatif, doğru tahmin. FP: Yanlış pozitif. FN: Yanlış negatif. Örnek: Spam mail: TP = spam ve spam olarak tahmin, FP = normal mail ama spam olarak tahmin.
+
+8. **Soru:** Specificity ve Sensitivity (Recall) arasındaki ilişki nedir?  
+   **Cevap:** Specificity = TN / (TN + FP), Sensitivity = TP / (TP + FN). Genellikle biri artarsa diğeri azalır (trade-off).
+
+9. **Soru:** Regresyon problemlerinde MSE, RMSE ve MAE farklarını açıklayın.  
+   **Cevap:** MSE: Hataların kare ortalaması (outlier'a duyarlı). RMSE: MSE'nin karekökü (birim hatayla aynı ölçek). MAE: Mutlak hataların ortalaması (outlier'a daha az duyarlı).
+
+10. **Soru:** MSE'nin aykırı değerlere neden duyarlı olduğunu matematiksel olarak açıklayın.  
+    **Cevap:** MSE = (1/n) Σ (y_i - ŷ_i)^2. Hata büyükse karesi çok büyür, bu yüzden outlier'lar MSE'yi aşırı yükseltir.
+
+11. **Soru:** R² ve Adjusted R² arasındaki fark nedir? Ne zaman Adjusted R² tercih edilir?  
+    **Cevap:** R² her yeni değişkenle artar veya aynı kalır. Adjusted R² gereksiz değişken eklenirse düşer. Çoklu regresyonda Adjusted R² tercih edilir.
+
+12. **Soru:** MAPE'nin avantajı ve dezavantajı nedir?  
+    **Cevap:** Avantaj: Yüzde hatası verir, ölçek bağımsızdır. Dezavantaj: Sıfıra yakın değerlerde bölme hatası verir (division by zero).
+
+13. **Soru:** Regresyon modelinde negatif R² değeri ne anlama gelir?  
+    **Cevap:** Model, basit ortalama modelinden daha kötüdür (ortalamadan daha fazla hata yapar).
+
+14. **Soru:** Kümeleme problemlerinde içsel (internal) ve dışsal (external) değerlendirme metrikleri arasındaki fark nedir?  
+    **Cevap:** İçsel: Sadece kümelenmiş veriye bakar (Silhouette, Davies-Bouldin). Dışsal: Gerçek etiketler varsa kullanılır (ARI, NMI, V-Measure).
+
+15. **Soru:** Silhouette skoru nasıl hesaplanır ve nasıl yorumlanır?  
+    **Cevap:** s = (b - a) / max(a, b) (a: küme içi ortalama mesafe, b: en yakın küme ortalaması). +1: iyi ayrılmış, 0: sınırda, -1: yanlış kümede.
+
+16. **Soru:** Silhouette skoru negatif olduğunda ne anlaşılır?  
+    **Cevap:** Noktalar yanlış kümeye atanmış veya kümeler birbirine çok yakın.
+
+17. **Soru:** Elbow yöntemi nedir ve nasıl kullanılır?  
+    **Cevap:** WCSS (Within-Cluster Sum of Squares) vs küme sayısı grafiği çizilir. Dirsek (elbow) noktası optimal K değerini gösterir.
+
+18. **Soru:** Davies-Bouldin indeksi düşük değer aldığında neyi gösterir?  
+    **Cevap:** Düşük değer daha iyi kümelenmeyi gösterir (küme içi kompakt, kümeler arası ayrık).
+
+19. **Soru:** Calinski-Harabasz indeksi (Variance Ratio) yüksek değer aldığında kümeleme kalitesi nasıldır?  
+    **Cevap:** Yüksek değer, küme arası varyansın küme içi varyansa oranının yüksek olduğunu gösterir (iyi ayrılmış kümeler).
+
+20. **Soru:** Dunn indeksi nedir ve avantajı nedir?  
+    **Cevap:** En küçük küme arası mesafe / en büyük küme içi mesafe. Avantajı: Hem kompaktlık hem ayrımı dikkate alır, ancak hesaplama maliyeti yüksektir.
+
+21. **Soru:** Cross-validation neden gereklidir? K-fold cross-validation nasıl çalışır?  
+    **Cevap:** Tek train-test split şans eseri olabilir. K-fold: Veriyi K parçaya böler, sırayla K-1 parça ile eğitir, kalanla test eder.
+
+22. **Soru:** Stratified k-fold cross-validation ne zaman zorunludur?  
+    **Cevap:** Sınıf oranlarının dengesiz olduğu durumlarda (her fold'da sınıf oranları korunur).
+
+23. **Soru:** Log Loss'un (Cross-Entropy Loss) sınıflandırma problemlerindeki önemi nedir?  
+    **Cevap:** Olasılıksal tahminleri cezalandırır; yüksek güvenle yanlış tahmin büyük ceza alır.
+
+24. **Soru:** Hinge Loss'un SVM'deki rolü nedir?  
+    **Cevap:** Margin'ı maksimize eder ve yanlış sınıflandırılan örnekleri cezalandırır (max(0, 1 - y*f(x))).
+
+25. **Soru:** Huber Loss'un MSE ve MAE'ye göre avantajı nedir?  
+    **Cevap:** Küçük hatalarda MSE gibi kare alır (hassas), büyük hatalarda MAE gibi doğrusal alır (outlier'a dayanıklı).
+
+26. **Soru:** Adjusted Rand Index (ARI) nasıl yorumlanır?  
+    **Cevap:** -1 ile 1 arası. 1: mükemmel eşleşme, 0: rastgele, negatif: beklenenden kötü.
+
+27. **Soru:** Homogeneity, Completeness ve V-Measure metriklerini açıklayın.  
+    **Cevap:** Homogeneity: Her küme tek sınıf içermeli. Completeness: Her sınıf tek kümede olmalı. V-Measure: İkisinin harmonik ortalaması.
+
+28. **Soru:** Mutual Information tabanlı kümeleme değerlendirme metrikleri nelerdir?  
+    **Cevap:** Mutual Information, Normalized MI (NMI), Adjusted MI (AMI). Gerçek etiketlerle kümelenme arasındaki bağımlılığı ölçer.
+
+29. **Soru:** Çok etiketli (multi-label) sınıflandırmada Hamming Loss nasıl hesaplanır?  
+    **Cevap:** (Yanlış etiket sayısı) / (toplam etiket sayısı). Düşük değer daha iyidir.
+
+30. **Soru:** Macro-average, micro-average ve weighted-average arasındaki farkları açıklayın.  
+    **Cevap:** Macro: Her sınıf eşit ağırlıkla ortalama. Micro: Tüm tahminleri birleştirip global ortalama. Weighted: Sınıf büyüklüğüne göre ağırlıklı.
+
+31. **Soru:** Nesne tespiti problemlerinde mAP (mean Average Precision) neden kullanılır?  
+    **Cevap:** Precision-recall eğrisinin altındaki alanı her sınıf için hesaplar ve ortalamasını alır; IoU eşiğine duyarlıdır.
+
+32. **Soru:** Zaman serisi tahmininde MAPE ve SMAPE arasındaki fark nedir?  
+    **Cevap:** MAPE: |actual - pred| / |actual|. SMAPE: 2 |actual - pred| / (|actual| + |pred|). SMAPE sıfıra yakın değerlerde daha stabildir.
+
+33. **Soru:** RMSLE'nin (Root Mean Squared Logarithmic Error) ne zaman tercih edildiğini örnekle açıklayın.  
+    **Cevap:** Hedef değerler büyük ölçek farkı gösteriyorsa (örneğin ev fiyatları 100 bin - 10 milyon). Logaritmik hata büyük değerleri daha az cezalandırır.
+
+34. **Soru:** Bir sınıflandırma modelinin performansını değerlendirirken hangi metrikleri birlikte kullanmayı önerirsiniz?  
+    **Cevap:** Accuracy, Precision, Recall, F1-score, ROC-AUC, Confusion Matrix.
+
+35. **Soru:** Kümeleme sonuçlarını değerlendirmek için gerçek etiketler (ground truth) yoksa hangi metrikler kullanılır?  
+    **Cevap:** Silhouette Score, Davies-Bouldin, Calinski-Harabasz, Elbow yöntemi.
+
+36. **Soru:** Gerçek etiketler varsa kümeleme performansını değerlendirmek için hangi metrikler tercih edilir?  
+    **Cevap:** Adjusted Rand Index (ARI), Normalized Mutual Information (NMI), V-Measure.
+
+37. **Soru:** Overfitting ve underfitting durumlarını performans metrikleriyle nasıl tespit ederiz?  
+    **Cevap:** Overfitting: Eğitim setinde yüksek, test setinde düşük performans. Underfitting: Her iki sette de düşük performans.
+
+38. **Soru:** Model seçimi sırasında hangi metrikler train ve validation setlerinde karşılaştırılmalıdır?  
+    **Cevap:** Validation setinde F1-score, AUC, RMSE, MAE gibi metrikler. Train-validation farkı overfitting'i gösterir.
+
+39. **Soru:** Bir regresyon modelinde MAE 5, RMSE 8 çıktığında bu ne anlama gelir?  
+    **Cevap:** Ortalama mutlak hata 5 birim. RMSE > MAE olduğu için bazı aykırı hatalar var.
+
+40. **Soru:** Silhouette skoru 0.7 çıkan bir kümelemenin kalitesi nasıldır?  
+    **Cevap:** Çok iyi (0.7-1.0 arası: iyi ayrılmış ve kompakt kümeler).
+
+41. **Soru:** Davies-Bouldin indeksi 0.8 çıkan bir kümelemenin kalitesi nasıldır?  
+    **Cevap:** İyi (düşük değer daha iyi; 0.5-1 arası genellikle kabul edilebilir).
+
+42. **Soru:** Calinski-Harabasz skoru ne kadar yüksek olmalı ki iyi kümeleme kabul edilsin?  
+    **Cevap:** Kesin eşik yok, ancak diğer K değerlerine göre en yüksek olanı seçilir.
+
+43. **Soru:** Bir sınıflandırma modelinde AUC = 0.5 ne anlama gelir?  
+    **Cevap:** Model rastgele tahmin ediyor (coin toss gibi).
+
+44. **Soru:** AUC = 1.0 ve AUC = 0.0 değerleri neyi ifade eder?  
+    **Cevap:** 1.0: Mükemmel sınıflandırıcı. 0.0: Her şeyi ters tahmin eder (ters çevirince mükemmel olur).
+
+45. **Soru:** Çok sınıflı problemlerde One-vs-Rest yaklaşımı ile AUC nasıl hesaplanır?  
+    **Cevap:** Her sınıf için ayrı AUC hesaplanır, sonra macro (ortalama) veya weighted ortalama alınır.
+
+46. **Soru:** Zaman serisi problemlerinde neden train-test split yerine zaman temelli bölme yapılır?  
+    **Cevap:** Gelecek veriyi geçmişten tahmin etmek gerektiği için kronolojik sıraya göre bölünmelidir (data leakage önlenir).
+
+47. **Soru:** Bir modelin genelleme yeteneğini ölçmek için en güvenilir yöntem nedir?  
+    **Cevap:** K-fold cross-validation ile validation ortalaması.
+
+48. **Soru:** Kümeleme algoritması seçerken hangi performans metriklerini kullanmak en iyisidir?  
+    **Cevap:** Silhouette Score, Davies-Bouldin, Calinski-Harabasz, Elbow yöntemi (birlikte).
+
+49. **Soru:** Sınıflandırma problemlerinde maliyet duyarlı öğrenme (cost-sensitive learning) için hangi metrikler önemlidir?  
+    **Cevap:** Precision, Recall, F1-score, Cost-adjusted metrics (yanlış pozitif/negatif maliyetine göre).
+
+50. **Soru:** Bir proje kapsamında hem sınıflandırma hem regresyon hem de kümeleme modelleri kullanıldığında, her biri için hangi performans kriterlerini rapor etmeyi önerirsiniz?  
+    **Cevap:** Sınıflandırma: Accuracy, Precision, Recall, F1, AUC. Regresyon: MSE/RMSE, MAE, R². Kümeleme: Silhouette, Davies-Bouldin, ARI (eğer etiket varsa).
+	
+	### Çoktan Seçmeli Sorular (50 Adet)
+
+Aşağıda, yapay zeka ve makine öğrenmesi konularında sınıflandırma, regresyon, kümeleme, denetimli ve denetimsiz öğrenme ile ilgili 50 çoktan seçmeli soru bulunmaktadır. Her soruda doğru cevap belirtilmiştir (parantez içinde).
+
+1. Denetimli öğrenme nedir?  
+   a) Etiketli verilerle model eğitimi  
+   b) Etiketsiz verilerle model eğitimi  
+   c) Yalnızca rastgele verilerle eğitim  
+   d) Hiçbir veri kullanmadan öğrenme  
+   (Doğru: a)
+
+2. Denetimsiz öğrenmede temel amaç nedir?  
+   a) Gelecek tahminleri yapmak  
+   b) Verilerdeki gizli desenleri bulmak  
+   c) Etiketli verileri sınıflandırmak  
+   d) Hata oranını minimize etmek  
+   (Doğru: b)
+
+3. Sınıflandırma problemi hangi öğrenme türüne girer?  
+   a) Denetimsiz  
+   b) Denetimli  
+   c) Yarı denetimli  
+   d) Takviyeli  
+   (Doğru: b)
+
+4. Regresyon analizinde çıktı değişkeni genellikle ne türdür?  
+   a) Kategorik  
+   b) Sürekli  
+   c) Rastgele  
+   d) Binary  
+   (Doğru: b)
+
+5. Kümeleme algoritmalarından hangisi hiyerarşik bir yapı kullanır?  
+   a) K-Means  
+   b) DBSCAN  
+   c) Hierarchical Clustering  
+   d) SVM  
+   (Doğru: c)
+
+6. Denetimli öğrenmede overfitting'i önlemek için kullanılan teknik hangisidir?  
+   a) Cross-validation  
+   b) Rastgele orman  
+   c) PCA  
+   d) K-Means  
+   (Doğru: a)
+
+7. Denetimsiz öğrenmede boyut indirgeme için kullanılan yöntem nedir?  
+   a) Linear Regression  
+   b) Principal Component Analysis (PCA)  
+   c) Decision Tree  
+   d) Naive Bayes  
+   (Doğru: b)
+
+8. İkili sınıflandırma için en uygun algoritma hangisidir?  
+   a) Linear Regression  
+   b) Logistic Regression  
+   c) K-Means  
+   d) Apriori  
+   (Doğru: b)
+
+9. Çoklu regresyonda kaç bağımsız değişken olabilir?  
+   a) Yalnızca bir  
+   b) İkiden fazla  
+   c) Yalnızca sıfır  
+   d) Tam olarak üç  
+   (Doğru: b)
+
+10. Kümeleme'de K-Means algoritmasının temel adımı nedir?  
+    a) Merkez noktalarını rastgele seçmek ve güncellemek  
+    b) Ağaç yapısı oluşturmak  
+    c) Destek vektörleri hesaplamak  
+    d) Olasılık dağılımları hesaplamak  
+    (Doğru: a)
+
+11. Denetimli öğrenmede eğitim verisi ne içerir?  
+    a) Yalnızca girdiler  
+    b) Girdiler ve etiketler  
+    c) Yalnızca etiketler  
+    d) Hiçbiri  
+    (Doğru: b)
+
+12. Denetimsiz öğrenme örneklerinden hangisi değildir?  
+    a) Kümeleme  
+    b) Sınıflandırma  
+    c) Boyut indirgeme  
+    d) İlişki kuralı madenciliği  
+    (Doğru: b)
+
+13. Sınıflandırma'da accuracy metriği neyi ölçer?  
+    a) Doğru tahmin oranını  
+    b) Hata karesini  
+    c) Küme sayısını  
+    d) Boyut sayısını  
+    (Doğru: a)
+
+14. Regresyon'da MSE ne anlama gelir?  
+    a) Mean Squared Error  
+    b) Maximum Similarity Error  
+    c) Minimum Standard Error  
+    d) Mean Silhouette Error  
+    (Doğru: a)
+
+15. Kümeleme'de DBSCAN algoritması neye dayanır?  
+    a) Yoğunluk tabanlı  
+    b) Merkez tabanlı  
+    c) Hiyerarşik  
+    d) Olasılıksal  
+    (Doğru: a)
+
+16. Denetimli öğrenmede kullanılan bir sınıflandırma algoritması hangisidir?  
+    a) SVM  
+    b) PCA  
+    c) Autoencoder  
+    d) GAN  
+    (Doğru: a)
+
+17. Denetimsiz öğrenmede anomali tespiti için kullanılabilir mi?  
+    a) Evet  
+    b) Hayır  
+    c) Yalnızca denetimli ile  
+    d) Yalnızca takviyeli ile  
+    (Doğru: a)
+
+18. Çok sınıflı sınıflandırma için hangisi kullanılır?  
+    a) One-vs-All  
+    b) Linear Regression  
+    c) K-Means  
+    d) Ridge Regression  
+    (Doğru: a)
+
+19. Doğrusal regresyon varsayımlarından hangisi doğrudur?  
+    a) Bağımsız değişkenler arasında çoklu doğrusal ilişki olmamalı  
+    b) Hatalar normal dağılmalı  
+    c) Çıktı kategorik olmalı  
+    d) Veriler etiketsiz olmalı  
+    (Doğru: b)
+
+20. Kümeleme'de silhouette skoru neyi ölçer?  
+    a) Küme içi ve küme arası benzerliği  
+    b) Doğruluk oranını  
+    c) Hata karesini  
+    d) Boyut indirgemesini  
+    (Doğru: a)
+
+21. Denetimli öğrenme örnekleri arasında hangisi yoktur?  
+    a) Spam filtreleme  
+    b) Resim kümeleme  
+    c) Ev fiyat tahmini  
+    d) Hastalık teşhisi  
+    (Doğru: b)
+
+22. Denetimsiz öğrenme için veri hazırlığı nasıl olmalıdır?  
+    a) Etiketli olmalı  
+    b) Etiketsiz olmalı  
+    c) Yalnızca sayısal olmalı  
+    d) Yalnızca kategorik olmalı  
+    (Doğru: b)
+
+23. Sınıflandırma'da precision neyi ifade eder?  
+    a) Pozitif tahminlerin doğruluğu  
+    b) Tüm doğru tahminler  
+    c) Yanlış negatifler  
+    d) Küme sayısı  
+    (Doğru: a)
+
+24. Polinom regresyon ne tür bir modeldir?  
+    a) Doğrusal olmayan  
+    b) Doğrusal  
+    c) Kümeleme  
+    d) Denetimsiz  
+    (Doğru: a)
+
+25. Kümeleme algoritmalarında optimal küme sayısı nasıl belirlenir?  
+    a) Elbow yöntemiyle  
+    b) Accuracy ile  
+    c) MSE ile  
+    d) Precision ile  
+    (Doğru: a)
+
+26. Denetimli öğrenmede model değerlendirme için ne kullanılır?  
+    a) Test seti  
+    b) Eğitim seti sadece  
+    c) Kümeleme seti  
+    d) Boyut seti  
+    (Doğru: a)
+
+27. Denetimsiz öğrenmede veri normalizasyonu neden önemlidir?  
+    a) Farklı ölçekleri eşitlemek için  
+    b) Etiket eklemek için  
+    c) Sınıf sayısını artırmak için  
+    d) Hata hesaplamak için  
+    (Doğru: a)
+
+28. KNN algoritması hangi öğrenme türüne girer?  
+    a) Denetimli (sınıflandırma)  
+    b) Denetimsiz  
+    c) Takviyeli  
+    d) Yarı denetimli  
+    (Doğru: a)
+
+29. Ridge regresyon neyi önler?  
+    a) Overfitting  
+    b) Underfitting  
+    c) Kümeleme  
+    d) Boyut indirgeme  
+    (Doğru: a)
+
+30. Hiyerarşik kümeleme türlerinden hangisi yukarıdan aşağıdır?  
+    a) Divisive  
+    b) Agglomerative  
+    c) Density-based  
+    d) Centroid-based  
+    (Doğru: a)
+
+31. Denetimli öğrenmede bias-variance tradeoff nedir?  
+    a) Model karmaşıklığı dengesi  
+    b) Veri boyutu dengesi  
+    c) Küme dengesi  
+    d) Etiket dengesi  
+    (Doğru: a)
+
+32. Denetimsiz öğrenme uygulamalarından hangisi?  
+    a) Müşteri segmentasyonu  
+    b) Satış tahmini  
+    c) Görüntü tanıma  
+    d) Metin sınıflandırma  
+    (Doğru: a)
+
+33. Sınıflandırma'da ROC eğrisi neyi gösterir?  
+    a) True positive vs false positive  
+    b) Hata vs doğruluk  
+    c) Küme vs boyut  
+    d) Regresyon vs sınıflandırma  
+    (Doğru: a)
+
+34. Zaman serisi regresyonu için uygun model hangisi?  
+    a) ARIMA  
+    b) Decision Tree  
+    c) K-Means  
+    d) PCA  
+    (Doğru: a)
+
+35. Kümeleme'de outlier'lar nasıl ele alınır?  
+    a) DBSCAN ile  
+    b) Linear Regression ile  
+    c) Naive Bayes ile  
+    d) Lasso ile  
+    (Doğru: a)
+
+36. Denetimli öğrenmede feature selection neden yapılır?  
+    a) Model performansını artırmak  
+    b) Küme sayısını artırmak  
+    c) Etiketleri kaldırmak  
+    d) Veri boyutunu büyütmek  
+    (Doğru: a)
+
+37. Denetimsiz öğrenmede autoencoder ne için kullanılır?  
+    a) Boyut indirgeme ve özellik öğrenme  
+    b) Sınıflandırma  
+    c) Regresyon  
+    d) Takviye  
+    (Doğru: a)
+
+38. Naive Bayes sınıflandırıcısı neye dayanır?  
+    a) Bayes teoremi  
+    b) Euclidean mesafe  
+    c) Dendrogram  
+    d) Gradient descent  
+    (Doğru: a)
+
+39. Lojistik regresyonun çıktı aralığı nedir?  
+    a) 0 ile 1 arası  
+    b) Negatif sonsuz ile pozitif sonsuz  
+    c) Tam sayılar  
+    d) Kategorik etiketler  
+    (Doğru: a)
+
+40. Kümeleme'de Gaussian Mixture Model ne türdür?  
+    a) Olasılıksal  
+    b) Yoğunluk tabanlı  
+    c) Hiyerarşik  
+    d) Merkez tabanlı  
+    (Doğru: a)
+
+41. Denetimli öğrenmede ensemble yöntemlerinden hangisi?  
+    a) Random Forest  
+    b) K-Means  
+    c) PCA  
+    d) DBSCAN  
+    (Doğru: a)
+
+42. Denetimsiz öğrenme zorluklarından hangisi?  
+    a) Etiket eksikliği nedeniyle değerlendirme zorluğu  
+    b) Fazla etiket nedeniyle overfitting  
+    c) Yalnızca regresyon kullanımı  
+    d) Sınıflandırma zorunluluğu  
+    (Doğru: a)
+
+43. Sınıflandırma'da F1-score neyi dengeler?  
+    a) Precision ve recall  
+    b) Accuracy ve error  
+    c) Küme ve boyut  
+    d) Bias ve variance  
+    (Doğru: a)
+
+44. Nonlinear regresyon için örnek algoritma hangisi?  
+    a) Support Vector Regression  
+    b) Linear Regression  
+    c) K-Means  
+    d) Hierarchical Clustering  
+    (Doğru: a)
+
+45. Kümeleme'de Ward's method ne için kullanılır?  
+    a) Hiyerarşik kümeleme bağlantısı  
+    b) Yoğunluk hesabı  
+    c) Merkez güncellemesi  
+    d) Olasılık dağılımı  
+    (Doğru: a)
+
+46. Denetimli öğrenmede gradient descent ne yapar?  
+    a) Maliyet fonksiyonunu minimize eder  
+    b) Küme oluşturur  
+    c) Boyut indirger  
+    d) Etiket üretir  
+    (Doğru: a)
+
+47. Denetimsiz öğrenmede SOM ne anlama gelir?  
+    a) Self-Organizing Map  
+    b) Supervised Output Model  
+    c) Simple Optimization Method  
+    d) Structured Output Map  
+    (Doğru: a)
+
+48. Decision Tree sınıflandırıcısında splitting kriteri hangisi olabilir?  
+    a) Gini impurity  
+    b) Mean squared error  
+    c) Silhouette score  
+    d) Davies-Bouldin index  
+    (Doğru: a)
+
+49. Lasso regresyon ne yapar?  
+    a) Bazı katsayıları sıfıra indirir  
+    b) Tüm katsayıları büyütür  
+    c) Küme sayısını belirler  
+    d) Boyut artırır  
+    (Doğru: a)
+
+50. Kümeleme'de agglomerative clustering nasıl başlar?  
+    a) Her veri noktası ayrı küme olarak  
+    b) Rastgele merkezlerle  
+    c) Yoğunluk hesaplayarak  
+    d) Olasılıkla  
+    (Doğru: a)
+
+### Boşluk Doldurmalı Sorular (50 Adet)
+
+Aşağıda, aynı konularla ilgili 50 boşluk doldurmalı soru bulunmaktadır. Doğru cevaplar parantez içinde belirtilmiştir.
+
+1. Denetimli öğrenmede model, ________ verilerle eğitilir. (etiketi olan / etiketli)
+
+2. Denetimsiz öğrenmenin bir örneği ________'dir. (kümeleme / boyut indirgeme)
+
+3. Sınıflandırma problemlerinde çıktı genellikle ________ türündedir. (kategorik / sınıfsal)
+
+4. Regresyon analizinde amaç, bağımlı değişkeni ________ tahmin etmektir. (sürekli / sayısal)
+
+5. Kümeleme algoritmalarından K-Means, küme sayısını ________ olarak alır. (K / parametre)
+
+6. Denetimli öğrenmede ________, modelin genel performansını test etmek için kullanılır. (çapraz doğrulama / cross-validation)
+
+7. Denetimsiz öğrenmede PCA, verinin ________'ini indirger. (boyut / boyutunu)
+
+8. Lojistik regresyon, ikili sınıflandırma için ________ fonksiyonu kullanır. (sigmoid / lojistik)
+
+9. Çoklu lineer regresyonda, birden fazla ________ değişken vardır. (bağımsız / bağımsız)
+
+10. Kümeleme'de ________ skoru, küme kalitesini ölçer. (silhouette / siluet)
+
+11. Denetimli öğrenme, ________ ve test setlerine ayrılır. (eğitim / train)
+
+12. Denetimsiz öğrenmede veri, ________ olmadan işlenir. (etiket / label)
+
+13. Sınıflandırma'da ________, yanlış pozitifleri minimize eder. (precision / hassasiyet)
+
+14. Regresyon'da R-kare değeri, modelin ________'ini gösterir. (uyum / goodness of fit)
+
+15. DBSCAN kümeleme, ________ tabanlıdır. (yoğunluk / density)
+
+16. SVM, sınıflandırma için ________ vektörleri kullanır. (destek / support)
+
+17. Denetimsiz öğrenme, veri ________'lerini keşfeder. (desen / pattern)
+
+18. KNN sınıflandırıcısında K, ________ sayısını temsil eder. (komşu / neighbor)
+
+19. Ridge regresyon, ________ cezası ekler. (L2 / kare)
+
+20. Hiyerarşik kümeleme, ________ oluşturur. (dendrogram / ağaç)
+
+21. Denetimli öğrenmede overfitting, ________ verisinde düşük performans gösterir. (test / validation)
+
+22. Denetimsiz öğrenme uygulaması ________ tespiti olabilir. (anomali / outlier)
+
+23. Sınıflandırma metriğinden recall, ________'i ölçer. (duyarlılık / sensitivity)
+
+24. Polinom regresyon, ________ dereceli terimler içerir. (yüksek / polynomial)
+
+25. Kümeleme'de elbow yöntemi, optimal ________ belirler. (K / küme sayısı)
+
+26. Denetimli öğrenmede feature engineering, ________ iyileştirir. (model / performans)
+
+27. Denetimsiz öğrenmede normalizasyon, ________ önler. (ölçek farkı / scale bias)
+
+28. Naive Bayes, özelliklerin ________ olduğunu varsayar. (bağımsız / independent)
+
+29. Lojistik regresyon, olasılık ________ üretir. (tahmin / prediction)
+
+30. Gaussian Mixture Model, ________ dağılımları kullanır. (normal / gaussian)
+
+31. Random Forest, birden fazla ________ tree'den oluşur. (decision / karar)
+
+32. Denetimsiz öğrenme değerlendirmesi ________ ile zorlanır. (etiketsizlik / label absence)
+
+33. F1-score, precision ve recall'ün ________ ortalamasıdır. (harmonik / harmonic)
+
+34. SVR, regresyon için ________ kullanır. (support vector / destek vektör)
+
+35. Ward's method, kümeleme'de varyans ________'ini minimize eder. (iç / within)
+
+36. Gradient descent, ________ fonksiyonunu optimize eder. (maliyet / cost)
+
+37. SOM, denetimsiz öğrenmede ________ haritasıdır. (kendini organize eden / self-organizing)
+
+38. Decision Tree'de Gini, ________ ölçer. (safiyet / impurity)
+
+39. Lasso, ________ cezası ile feature selection yapar. (L1 / mutlak)
+
+40. Agglomerative clustering, ________'dan başlar. (alt / bottom-up)
+
+41. Bias yüksekse model ________ olur. (underfit / yetersiz uyum)
+
+42. Müşteri segmentasyonu, ________ öğrenme örneğidir. (denetimsiz / unsupervised)
+
+43. ROC, ________ oranı vs yanlış pozitif oranıdır. (doğru pozitif / true positive)
+
+44. ARIMA, ________ serisi için kullanılır. (zaman / time)
+
+45. Outlier'lar, kümeleme'de ________ ile tespit edilir. (DBSCAN / yoğunluk)
+
+46. Feature selection, ________ sayısını azaltır. (özellik / feature)
+
+47. Autoencoder, ________ öğrenme için kullanılır. (derin / deep)
+
+48. Splitting'de entropy, bilgi ________'ini ölçer. (kazancı / gain)
+
+49. Elastic Net, Ridge ve Lasso'nun ________'idir. (kombinasyonu / combination)
+
+50. Divisive clustering, ________'dan başlar. (üst / top-down)
+
+### Çoktan Seçmeli Sorular (50 Adet) – Performans Kriterleri Temel Bilgiler (Cevaplı)
+
+Bu sorular, sınıflandırma, regresyon ve kümeleme performans kriterleri hakkında temel bilgileri öğretmek ve test etmek amacıyla hazırlanmıştır. Her soru temel bir kavramı açıklar ve sorar.
+
+1. Performans kriterleri, bir makine öğrenme modelinin neyi ölçer?  
+   a) Ne kadar iyi çalıştığını  
+   b) Veri boyutunu  
+   c) Algoritma hızını  
+   d) Bellek kullanımını  
+   **Cevap: a)** (Öğretilen: Performans kriterleri modelin doğruluğunu, hatalarını ve genel başarısını değerlendirir.)
+
+2. Sınıflandırma'da accuracy, toplam doğru tahminlerin neye oranıdır?  
+   a) Tüm tahminlere  
+   b) Yalnızca pozitiflere  
+   c) Yalnızca negatiflere  
+   d) Hatalara  
+   **Cevap: a)** (Öğretilen: Accuracy = (TP + TN) / (TP + TN + FP + FN))
+
+3. Dengesiz veri setlerinde accuracy neden yetersiz kalır?  
+   a) Çoğunluk sınıfını tahmin etmekle yüksek değer alır  
+   b) Her zaman düşük değer verir  
+   c) Kümeleme için uygundur  
+   d) Regresyon için kullanılır  
+   **Cevap: a)** (Öğretilen: Dengesizlikte, nadir sınıfı göz ardı eder.)
+
+4. Precision, tahmin edilen pozitiflerin kaçının gerçek pozitif olduğunu ölçer mi?  
+   a) Evet  
+   b) Hayır, gerçek pozitiflerin kaçını yakaladığını ölçer  
+   c) Küme kalitesini ölçer  
+   d) Hata karesini ölçer  
+   **Cevap: a)** (Öğretilen: Precision = TP / (TP + FP))
+
+5. Recall, gerçek pozitiflerin kaçını doğru tahmin ettiğini gösterir mi?  
+   a) Evet  
+   b) Hayır, tahmin edilen pozitiflerin doğruluğunu gösterir  
+   c) Regresyon hatasını gösterir  
+   d) Küme ayrımını gösterir  
+   **Cevap: a)** (Öğretilen: Recall = TP / (TP + FN))
+
+6. F1-score, precision ve recall'ün ne tür bir ortalamasıdır?  
+   a) Harmonik  
+   b) Aritmetik  
+   c) Geometrik  
+   d) Medyan  
+   **Cevap: a)** (Öğretilen: F1 = 2 * (Precision * Recall) / (Precision + Recall))
+
+7. ROC eğrisi, hangi iki oranı karşılaştırır?  
+   a) True Positive Rate ve False Positive Rate  
+   b) Precision ve Recall  
+   c) MSE ve MAE  
+   d) Silhouette ve Dunn  
+   **Cevap: a)** (Öğretilen: ROC, farklı eşiklerdeki performansı gösterir.)
+
+8. AUC değeri 0.5'ten yüksekse ne anlama gelir?  
+   a) Model rastgeleden daha iyi  
+   b) Model rastgele kadar  
+   c) Model daha kötü  
+   d) Kümeleme için iyi  
+   **Cevap: a)** (Öğretilen: AUC = 1 mükemmel, 0.5 rastgele.)
+
+9. Confusion matrix, model hatalarını nasıl gösterir?  
+   a) TP, TN, FP, FN hücreleriyle  
+   b) Yalnızca hatalarla  
+   c) Küme sayısıyla  
+   d) Boyut indirgemeyle  
+   **Cevap: a)** (Öğretilen: Confusion matrix hataları sınıflara göre ayırır.)
+
+10. Specificity, negatiflerin kaçını doğru tahmin ettiğini ölçer mi?  
+    a) Evet  
+    b) Hayır, pozitifleri ölçer  
+    c) Regresyon için kullanılır  
+    d) Kümeleme için kullanılır  
+    **Cevap: a)** (Öğretilen: Specificity = TN / (TN + FP))
+
+11. Regresyon'da MSE, hataların ne tür bir ortalamasıdır?  
+    a) Kare ortalaması  
+    b) Mutlak ortalaması  
+    c) Yüzde ortalaması  
+    d) Logaritmik ortalaması  
+    **Cevap: a)** (Öğretilen: MSE = (1/n) Σ (y - ŷ)^2)
+
+12. RMSE, MSE'nin hangi dönüşümüdür?  
+    a) Karekökü  
+    b) Karesi  
+    c) Mutlak değeri  
+    d) Logaritması  
+    **Cevap: a)** (Öğretilen: RMSE, hataları orijinal birimlerde gösterir.)
+
+13. MAE, aykırı değerlere MSE'den daha mı dayanıklıdır?  
+    a) Evet  
+    b) Hayır  
+    c) Kümeleme için uygundur  
+    d) Sınıflandırma için uygundur  
+    **Cevap: a)** (Öğretilen: MAE = (1/n) Σ |y - ŷ|)
+
+14. R², modelin varyansın kaçını açıkladığını gösterir mi?  
+    a) Evet  
+    b) Hayır, hataları gösterir  
+    c) Küme kalitesini gösterir  
+    d) Precision'ı gösterir  
+    **Cevap: a)** (Öğretilen: R² = 1 - (SS_res / SS_tot))
+
+15. Adjusted R², neden ekstra değişkenleri cezalandırır?  
+    a) Overfitting'i önlemek için  
+    b) Underfitting'i artırmak için  
+    c) Küme sayısını belirlemek için  
+    d) Etiket üretmek için  
+    **Cevap: a)** (Öğretilen: Adjusted R², özellik sayısı arttıkça düşer.)
+
+16. Kümeleme'de Silhouette skoru, neyi karşılaştırır?  
+    a) Küme içi ve küme dışı benzerliği  
+    b) Hata karesini  
+    c) Precision'ı  
+    d) Recall'ı  
+    **Cevap: a)** (Öğretilen: Skor -1 ile 1 arası, yüksek değer iyi kümeleme.)
+
+17. Silhouette skoru pozitifse kümeler nasıl yorumlanır?  
+    a) İyi ayrılmış  
+    b) Karışık  
+    c) Regresyon hatası yüksek  
+    d) Sınıflandırma düşük  
+    **Cevap: a)** (Öğretilen: Pozitif skor, nokta kendi kümesine uygun.)
+
+18. Davies-Bouldin indeksi düşükse ne anlama gelir?  
+    a) İyi kümeleme  
+    b) Kötü kümeleme  
+    c) Yüksek hata  
+    d) Düşük doğruluk  
+    **Cevap: a)** (Öğretilen: Düşük değer, kompakt ve ayrık kümeler.)
+
+19. Calinski-Harabasz indeksi yüksekse kümeleme nasıldır?  
+    a) İyi  
+    b) Kötü  
+    c) Regresyon için iyi  
+    d) Sınıflandırma için iyi  
+    **Cevap: a)** (Öğretilen: Yüksek oran, küme arası varyans > küme içi.)
+
+20. Elbow yöntemi, optimal küme sayısını nasıl belirler?  
+    a) WCSS grafiğinde dirsek noktasıyla  
+    b) Accuracy ile  
+    c) F1 ile  
+    d) R² ile  
+    **Cevap: a)** (Öğretilen: Dirsek, marjinal iyileşmenin azaldığı nokta.)
+
+21. Cross-validation, modelin neyi test eder?  
+    a) Genelleme yeteneğini  
+    b) Küme sayısını  
+    c) Boyut indirgemesini  
+    d) Etiket üretimini  
+    **Cevap: a)** (Öğretilen: Veriyi bölerek overfitting'i önler.)
+
+22. K-fold cross-validation'da veri kaç parçaya bölünür?  
+    a) K parçaya  
+    b) 2 parçaya  
+    c) 1 parçaya  
+    d) Rastgele  
+    **Cevap: a)** (Öğretilen: Her fold'da K-1 eğitim, 1 test.)
+
+23. Log Loss, olasılıksal tahminlerde neyi cezalandırır?  
+    a) Yanlış tahminleri  
+    b) Doğru tahminleri  
+    c) Küme içini  
+    d) Boyutu  
+    **Cevap: a)** (Öğretilen: Yüksek güvenle yanlış tahmin büyük ceza alır.)
+
+24. Hinge Loss, hangi algoritmada kullanılır?  
+    a) SVM'de  
+    b) Linear Regression'da  
+    c) K-Means'te  
+    d) PCA'da  
+    **Cevap: a)** (Öğretilen: Margin'ı maksimize eder.)
+
+25. MAPE, hataları hangi biçimde ifade eder?  
+    a) Yüzde olarak  
+    b) Kare olarak  
+    c) Mutlak olarak  
+    d) Logaritmik olarak  
+    **Cevap: a)** (Öğretilen: MAPE = (1/n) Σ | (y - ŷ)/y | * 100)
+
+26. Adjusted Rand Index, kümeleme için gerçek etiket varsa mı kullanılır?  
+    a) Evet  
+    b) Hayır  
+    c) Regresyon için  
+    d) Sınıflandırma için  
+    **Cevap: a)** (Öğretilen: ARI, kümelenme ile etiket eşleşmesini ölçer.)
+
+27. Homogeneity, her kümenin kaç sınıf içerdiğini ölçer mi?  
+    a) Evet, idealde bir  
+    b) Hayır, sınıfları  
+    c) Hataları  
+    d) Varyansı  
+    **Cevap: a)** (Öğretilen: Yüksek homogeneity, saf kümeler.)
+
+28. Completeness, her sınıfın kaç kümeye dağıldığını ölçer mi?  
+    a) Evet, idealde bir  
+    b) Hayır, kümeleri  
+    c) Precision'ı  
+    d) Recall'ı  
+    **Cevap: a)** (Öğretilen: Yüksek completeness, sınıf bütünlüğü.)
+
+29. V-Measure, homogeneity ve completeness'in ne ortalamasıdır?  
+    a) Harmonik  
+    b) Aritmetik  
+    c) Geometrik  
+    d) Medyan  
+    **Cevap: a)** (Öğretilen: Dengeli kümeleme değerlendirmesi.)
+
+30. Macro-average, sınıfları nasıl ağırlıklandırır?  
+    a) Eşit  
+    b) Örnek sayısına göre  
+    c) Küme sayısına göre  
+    d) Boyuta göre  
+    **Cevap: a)** (Öğretilen: Her sınıf eşit katkı sağlar.)
+
+31. Micro-average, neyi global olarak hesaplar?  
+    a) Tüm tahminleri birleştirerek  
+    b) Her sınıfı ayrı  
+    c) Küme içini  
+    d) Hata karesini  
+    **Cevap: a)** (Öğretilen: Dengesiz sınıflarda faydalı.)
+
+32. Weighted-average, neye göre ağırlık verir?  
+    a) Sınıf örnek sayısına  
+    b) Eşit  
+    c) Rastgele  
+    d) Küme sayısına  
+    **Cevap: a)** (Öğretilen: Büyük sınıflar daha etkili.)
+
+33. Huber Loss, küçük hatalarda hangi loss gibi davranır?  
+    a) MSE gibi  
+    b) MAE gibi  
+    c) Log gibi  
+    d) Hinge gibi  
+    **Cevap: a)** (Öğretilen: Büyük hatalarda MAE'ye geçer.)
+
+34. Hamming Loss, multi-label'da neyi ölçer?  
+    a) Yanlış etiket oranını  
+    b) Doğru etiket oranını  
+    c) Küme kalitesini  
+    d) Regresyon hatasını  
+    **Cevap: a)** (Öğretilen: Düşük değer iyi performans.)
+
+35. Jaccard Similarity, set benzerliğini ölçer mi?  
+    a) Evet  
+    b) Hayır  
+    c) Varyansı ölçer  
+    d) Accuracy'ı ölçer  
+    **Cevap: a)** (Öğretilen: Multi-label için kullanılır.)
+
+36. Normalized Mutual Information, kümeleme ile etiket bağımlılığını ölçer mi?  
+    a) Evet  
+    b) Hayır  
+    c) Regresyon için  
+    d) Sınıflandırma için  
+    **Cevap: a)** (Öğretilen: 0 ile 1 arası, yüksek değer iyi.)
+
+37. Rand Index, iki kümeleme arasındaki anlaşmayı ölçer mi?  
+    a) Evet  
+    b) Hayır  
+    c) Precision'ı ölçer  
+    d) Recall'ı ölçer  
+    **Cevap: a)** (Öğretilen: Çift anlaşma oranı.)
+
+38. Cophenetic Correlation, hiyerarşik kümeleme kalitesini ölçer mi?  
+    a) Evet  
+    b) Hayır  
+    c) K-Means için  
+    d) DBSCAN için  
+    **Cevap: a)** (Öğretilen: Dendrogram ile mesafeler korelasyonu.)
+
+39. mAP, nesne tespiti için hangi eğrinin altındaki alanı alır?  
+    a) Precision-Recall  
+    b) ROC  
+    c) MSE-MAE  
+    d) Silhouette-Dunn  
+    **Cevap: a)** (Öğretilen: Yüksek mAP iyi tespit.)
+
+40. RMSLE, büyük ölçek farklarında neden tercih edilir?  
+    a) Logaritmik hata hesaplar  
+    b) Kare hata hesaplar  
+    c) Mutlak hata hesaplar  
+    d) Yüzde hata hesaplar  
+    **Cevap: a)** (Öğretilen: RMSLE = sqrt( (1/n) Σ (log(y+1) - log(ŷ+1))^2 ))
+
+41. SMAPE, MAPE'ye göre neyi düzeltir?  
+    a) Sıfıra yakın değerlerdeki sorunu  
+    b) Yüksek değerlerdeki sorunu  
+    c) Küme sorununu  
+    d) Sınıf sorununu  
+    **Cevap: a)** (Öğretilen: Simetrik yüzde hata.)
+
+42. Birden fazla metrik kullanmak neden önemlidir?  
+    a) Dengeli değerlendirme için  
+    b) Tek metrik için  
+    c) Küme için  
+    d) Boyut için  
+    **Cevap: a)** (Öğretilen: Tek metrik yanıltıcı olabilir.)
+
+43. Overfitting, hangi metrik farkıyla tespit edilir?  
+    a) Eğitim yüksek, test düşük  
+    b) Eğitim düşük, test yüksek  
+    c) Küme yüksek  
+    d) Boyut düşük  
+    **Cevap: a)** (Öğretilen: Genelleme sorunu.)
+
+44. Underfitting, hangi metriklerle belli olur?  
+    a) Her iki sette düşük performans  
+    b) Her iki sette yüksek  
+    c) Yalnızca eğitimde düşük  
+    d) Yalnızca testte düşük  
+    **Cevap: a)** (Öğretilen: Model basitlik sorunu.)
+
+45. Zaman serisi için MAPE neden uygundur?  
+    a) Yüzde hata verir  
+    b) Kare hata verir  
+    c) Küme verir  
+    d) Precision verir  
+    **Cevap: a)** (Öğretilen: Tahmin ölçeğinden bağımsız.)
+
+46. Multiclass'ta macro-average neden kullanılır?  
+    a) Sınıfları eşit değerlendirmek için  
+    b) Büyük sınıfları öne çıkarmak için  
+    c) Küme için  
+    d) Regresyon için  
+    **Cevap: a)** (Öğretilen: Dengesiz sınıflarda faydalı.)
+
+47. PR-AUC, dengesiz verilerde neden tercih edilir?  
+    a) Pozitif sınıfa odaklanır  
+    b) Negatif sınıfa odaklanır  
+    c) Küme odaklanır  
+    d) Boyut odaklanır  
+    **Cevap: a)** (Öğretilen: ROC'tan daha anlamlı.)
+
+48. Dunn indeksi yüksekse kümeler nasıldır?  
+    a) Kompakt ve ayrık  
+    b) Karışık  
+    c) Hata yüksek  
+    d) Doğruluk düşük  
+    **Cevap: a)** (Öğretilen: Yüksek değer iyi kümeleme.)
+
+49. Explained Variance Score, regresyonda neyi gösterir?  
+    a) Açıklanan varyans oranını  
+    b) Küme oranını  
+    c) Precision oranını  
+    d) Recall oranını  
+    **Cevap: a)** (Öğretilen: R²'ye benzer.)
+
+50. Cross-validation ortalaması, model karşılaştırmada neden güvenilirdir?  
+    a) Şans eseri sonuçları azaltır  
+    b) Tek split'e göre  
+    c) Küme sayısına göre  
+    d) Boyuta göre  
+    **Cevap: a)** (Öğretilen: Ortalama performans verir.)
+
+### Boşluk Doldurmalı Sorular (50 Adet) – Performans Kriterleri Temel Bilgiler (Cevaplı)
+
+Bu sorular, temel bilgileri öğretmek ve boşluk doldurarak test etmek amacıyla hazırlanmıştır. Doğru cevaplar parantez içinde.
+
+1. Performans kriterleri, modelin ________'ini değerlendirir. (başarısını / performansını) (Öğretilen: Model kalitesini ölçer.)
+
+2. Accuracy = (TP + TN) / ________. (toplam / TP + TN + FP + FN) (Öğretilen: Toplam doğru oranı.)
+
+3. Dengesiz verilerde accuracy, ________ sınıfını ezerek yüksek olabilir. (çoğunluk / majority) (Öğretilen: Nadir sınıfı ihmal eder.)
+
+4. Precision = TP / (TP + ________). (FP / false positive) (Öğretilen: Tahmin pozitiflerin doğruluğu.)
+
+5. Recall = TP / (TP + ________). (FN / false negative) (Öğretilen: Gerçek pozitif yakalama oranı.)
+
+6. F1-score = 2 * (Precision * Recall) / (Precision + ________). (Recall) (Öğretilen: Harmonik ortalama.)
+
+7. ROC eğrisi, ________ Positive Rate vs False Positive Rate grafiğidir. (True / TPR) (Öğretilen: Eşik performansını gösterir.)
+
+8. AUC ________'ten büyükse model iyidir. (0.5) (Öğretilen: Rastgeleden üstün.)
+
+9. Confusion matrix'te FP, ________ pozitiftir. (yanlış / false) (Öğretilen: Yanlış alarm.)
+
+10. Specificity = TN / (TN + ________). (FP) (Öğretilen: Negatif doğruluğu.)
+
+11. MSE, hataların ________ ortalamasıdır. (kare / squared) (Öğretilen: Outlier duyarlı.)
+
+12. RMSE = ________(MSE). (sqrt / karekök) (Öğretilen: Birim ölçekli hata.)
+
+13. MAE, hataların ________ ortalamasıdır. (mutlak / absolute) (Öğretilen: Outlier dayanıklı.)
+
+14. R² = 1 - (________ / SS_tot). (SS_res / residual sum of squares) (Öğretilen: Açıklanan varyans.)
+
+15. Adjusted R², ekstra ________'leri cezalandırır. (değişken / variable) (Öğretilen: Overfitting önler.)
+
+16. Silhouette skoru, küme içi ________ ile küme dışı ayrımı karşılaştırır. (benzerlik / cohesion) (Öğretilen: Yüksek skor iyi.)
+
+17. Silhouette aralığı ________ ile +1 arasıdır. (-1) (Öğretilen: Negatif kötü kümeleme.)
+
+18. Davies-Bouldin ________ değer daha iyidir. (düşük / low) (Öğretilen: Küme ayrımı.)
+
+19. Calinski-Harabasz ________ değer daha iyidir. (yüksek / high) (Öğretilen: Varyans oranı.)
+
+20. Elbow yöntemi, ________ grafiğinde dirsek arar. (WCSS / within-cluster sum of squares) (Öğretilen: Optimal K.)
+
+21. Cross-validation, veri ________'e bölünerek test eder. (parça / fold) (Öğretilen: Genelleme ölçer.)
+
+22. K-fold'da her seferinde ________ parça test olur. (1) (Öğretilen: K-1 eğitim.)
+
+23. Log Loss, yanlış tahmin ________'ini cezalandırır. (güveni / confidence) (Öğretilen: Olasılıksal loss.)
+
+24. Hinge Loss, ________ margin'ı maksimize eder. (SVM / support vector) (Öğretilen: Sınıflandırma loss.)
+
+25. MAPE, hataları ________ olarak verir. (yüzde / percentage) (Öğretilen: Ölçek bağımsız.)
+
+26. ARI, kümeleme ile ________ eşleşmesini ölçer. (etiket / label) (Öğretilen: Dışsal metrik.)
+
+27. Homogeneity, kümenin ________ sınıf içermesini ister. (tek / one) (Öğretilen: Saf kümeler.)
+
+28. Completeness, sınıfın ________ kümede olmasını ister. (tek / one) (Öğretilen: Bütünlük.)
+
+29. V-Measure, homogeneity ve completeness'in ________ ortalamasıdır. (harmonik / harmonic) (Öğretilen: Dengeli skor.)
+
+30. Macro-average, sınıfları ________ ağırlıklandırır. (eşit / equal) (Öğretilen: Dengesiz için.)
+
+31. Micro-average, ________ tahminleri birleştirir. (tüm / all) (Öğretilen: Global ortalama.)
+
+32. Weighted-average, ________ sayısına göre ağırlık verir. (örnek / sample) (Öğretilen: Büyük sınıflar etkili.)
+
+33. Huber Loss, küçük hatalarda ________ gibi davranır. (MSE) (Öğretilen: Hibrit loss.)
+
+34. Hamming Loss, yanlış ________ oranını ölçer. (etiket / label) (Öğretilen: Multi-label.)
+
+35. Jaccard, ________ benzerliğini ölçer. (set / küme) (Öğretilen: Benzerlik indeksi.)
+
+36. NMI, bağımlılığı ________ ile 1 arası ölçer. (0) (Öğretilen: Normalleştirilmiş.)
+
+37. Rand Index, ________ anlaşmasını ölçer. (çift / pair) (Öğretilen: Kümeleme karşılaştırma.)
+
+38. Cophenetic, ________ ile mesafeler korelasyonudur. (dendrogram) (Öğretilen: Hiyerarşik kalite.)
+
+39. mAP, Precision-Recall ________'inin alanıdır. (eğri / curve) (Öğretilen: Tespit metriği.)
+
+40. RMSLE, ________ hata hesaplar. (logaritmik / logarithmic) (Öğretilen: Ölçek farkı için.)
+
+41. SMAPE, ________ yüzde hatadır. (simetrik / symmetric) (Öğretilen: Sıfır sorunu çözer.)
+
+42. Birden fazla metrik, ________ değerlendirme sağlar. (dengeli / balanced) (Öğretilen: Tek metrik yetersiz.)
+
+43. Overfitting'te eğitim ________, test düşüktür. (yüksek / high) (Öğretilen: Genelleme yok.)
+
+44. Underfitting'te her sette performans ________'tür. (düşük / low) (Öğretilen: Model yetersiz.)
+
+45. Zaman serisinde ________ hata metriği yaygındır. (MAPE) (Öğretilen: Yüzde bazlı.)
+
+46. Macro-average, ________ sınıflarda faydalıdır. (dengesiz / imbalanced) (Öğretilen: Eşitlik sağlar.)
+
+47. PR-AUC, ________ sınıfa odaklanır. (pozitif / positive) (Öğretilen: Dengesiz için.)
+
+48. Dunn indeksi, küme ________ ve ayrımını ölçer. (kompaktlık / compactness) (Öğretilen: Yüksek iyi.)
+
+49. Explained Variance, ________ oranını verir. (varyans / variance) (Öğretilen: Regresyon kalitesi.)
+
+50. Cross-validation, ________ sonuçları azaltır. (şans eseri / random) (Öğretilen: Güvenilir ortalama.)
+
+
+### Günlük Hayat Problemlerinden 20 Adet Soru (Makine Öğrenmesi Kategorisiyle Birlikte)
+
+Aşağıda, gerçek hayattan esinlenilmiş 20 günlük hayat problemi yer alıyor. Her biri için:
+- **Problem tanımı** (kısa açıklama)
+- **Makine öğrenmesi kategorisi** (Denetimli - Sınıflandırma, Denetimli - Regresyon, Denetimsiz - Kümeleme, Denetimsiz - Anomali Tespiti vb.)
+- **Problem tipi** (örneğin: tahmin, sınıflandırma, gruplama, aykırı değer tespiti vb.)
+- **Çoktan seçmeli soru** (doğru cevap parantez içinde)
+
+1. **Problem:** Sabah işe giderken trafik yoğunluğunu tahmin etmek istiyorum.  
+   **Kategori:** Denetimli öğrenme – Regresyon  
+   **Tipi:** Sürekli değer tahmini (zaman serisi regresyonu)  
+   **Soru:** Bu problem hangi makine öğrenmesi kategorisine girer?  
+   a) Sınıflandırma  
+   b) Regresyon  
+   c) Kümeleme  
+   d) Anomali tespiti  
+   **Cevap: (b)**
+
+2. **Problem:** Gelen e-postaların spam olup olmadığını otomatik tespit etmek.  
+   **Kategori:** Denetimli öğrenme – Sınıflandırma  
+   **Tipi:** İkili sınıflandırma  
+   **Soru:** Bu problemde çıktı ne tür bir değişkendir?  
+   a) Sürekli  
+   b) Kategorik (binary)  
+   c) Küme  
+   d) Anomali  
+   **Cevap: (b)**
+
+3. **Problem:** Müşterileri alışveriş davranışlarına göre benzer gruplara ayırmak (segmentasyon).  
+   **Kategori:** Denetimsiz öğrenme – Kümeleme  
+   **Tipi:** Müşteri segmentasyonu  
+   **Soru:** Bu problem için hangi öğrenme türü kullanılır?  
+   a) Denetimli  
+   b) Denetimsiz  
+   c) Pekiştirmeli  
+   d) Yarı denetimli  
+   **Cevap: (b)**
+
+4. **Problem:** Ev fiyatını konum, oda sayısı, metrekare gibi özelliklere göre tahmin etmek.  
+   **Kategori:** Denetimli öğrenme – Regresyon  
+   **Tipi:** Çoklu regresyon  
+   **Soru:** Bu problemde hedef değişken ne türdür?  
+   a) Kategorik  
+   b) Sürekli  
+   c) Sıralı  
+   d) Binary  
+   **Cevap: (b)**
+
+5. **Problem:** Kredi kartı işlemlerinde olağandışı (hileli) işlemleri yakalamak.  
+   **Kategori:** Denetimsiz öğrenme – Anomali Tespiti  
+   **Tipi:** Aykırı değer tespiti  
+   **Soru:** Bu problem en çok hangi yaklaşımla çözülür?  
+   a) Sınıflandırma  
+   b) Regresyon  
+   c) Anomali tespiti  
+   d) Kümeleme  
+   **Cevap: (c)**
+
+6. **Problem:** Hastanın röntgen görüntüsünden zatürre olup olmadığını tespit etmek.  
+   **Kategori:** Denetimli öğrenme – Sınıflandırma  
+   **Tipi:** İkili sınıflandırma (görüntü sınıflandırma)  
+   **Soru:** Bu problemde hangi performans metriği öncelikli olmalı?  
+   a) Precision  
+   b) Recall (hastaları kaçırmamak için)  
+   c) MSE  
+   d) Silhouette  
+   **Cevap: (b)**
+
+7. **Problem:** Online alışveriş sitesinde müşterinin bir ürünü beğenip beğenmeyeceğini tahmin etmek.  
+   **Kategori:** Denetimli öğrenme – Sınıflandırma  
+   **Tipi:** Öneri sistemi (ikili sınıflandırma)  
+   **Soru:** Bu problem hangi kategoriye girer?  
+   a) Regresyon  
+   b) Sınıflandırma  
+   c) Kümeleme  
+   d) Boyut indirgeme  
+   **Cevap: (b)**
+
+8. **Problem:** Bir restoranın günlük satış miktarını hava durumu, gün, mevsim gibi faktörlere göre tahmin etmek.  
+   **Kategori:** Denetimli öğrenme – Regresyon  
+   **Tipi:** Zaman serisi regresyonu  
+   **Soru:** Bu problemde hangi metrik en uygun olur?  
+   a) Accuracy  
+   b) RMSE / MAE  
+   c) F1-score  
+   d) Silhouette  
+   **Cevap: (b)**
+
+9. **Problem:** Sosyal medyada kullanıcıları ilgi alanlarına göre benzer gruplara ayırmak.  
+   **Kategori:** Denetimsiz öğrenme – Kümeleme  
+   **Tipi:** Kullanıcı segmentasyonu  
+   **Soru:** Bu problemde etiketli veri var mıdır?  
+   a) Evet  
+   b) Hayır  
+   c) Yarı denetimli  
+   d) Pekiştirmeli  
+   **Cevap: (b)**
+
+10. **Problem:** Bir fabrikanın üretim hattında arıza riski yüksek olan makineleri önceden tespit etmek.  
+    **Kategori:** Denetimli öğrenme – Sınıflandırma  
+    **Tipi:** Tahmini bakım (predictive maintenance)  
+    **Soru:** Bu problem hangi öğrenme tipine girer?  
+    a) Denetimsiz  
+    b) Denetimli  
+    c) Pekiştirmeli  
+    d) Yarı denetimsiz  
+    **Cevap: (b)**
+
+11. **Problem:** Akıllı telefonun batarya ömrünü kullanım alışkanlıklarına göre tahmin etmek.  
+    **Kategori:** Denetimli öğrenme – Regresyon  
+    **Tipi:** Sürekli değer tahmini  
+    **Soru:** Bu problemde çıktı ne türdür?  
+    a) Kategorik  
+    b) Sürekli  
+    c) Sıralı  
+    d) Binary  
+    **Cevap: (b)**
+
+12. **Problem:** Bir bankanın müşterilerini risk profiline göre gruplamak (düşük, orta, yüksek risk).  
+    **Kategori:** Denetimsiz öğrenme – Kümeleme  
+    **Tipi:** Risk segmentasyonu  
+    **Soru:** Bu problem için hangi algoritma uygundur?  
+    a) Linear Regression  
+    b) K-Means  
+    c) Logistic Regression  
+    d) SVM  
+    **Cevap: (b)**
+
+13. **Problem:** Bir e-ticaret sitesinde sahte yorumları (fake review) tespit etmek.  
+    **Kategori:** Denetimli öğrenme – Sınıflandırma  
+    **Tipi:** İkili veya çok sınıflı sınıflandırma  
+    **Soru:** Bu problemde hangi metrik önceliklidir?  
+    a) Precision (yanlış pozitifleri önlemek için)  
+    b) MSE  
+    c) Silhouette  
+    d) Davies-Bouldin  
+    **Cevap: (a)**
+
+14. **Problem:** Haftanın hangi gününde daha çok satış yapıldığını tahmin etmek.  
+    **Kategori:** Denetimli öğrenme – Sınıflandırma  
+    **Tipi:** Çok sınıflı sınıflandırma  
+    **Soru:** Bu problemde kaç sınıf vardır?  
+    a) 2  
+    b) 7 (haftanın günleri)  
+    c) Sürekli  
+    d) Küme sayısı  
+    **Cevap: (b)**
+
+15. **Problem:** Bir hastanede hasta randevularının no-show (gelmeme) olasılığını tahmin etmek.  
+    **Kategori:** Denetimli öğrenme – Sınıflandırma  
+    **Tipi:** İkili sınıflandırma  
+    **Soru:** Bu problemde hangi metrik en kritik olur?  
+    a) Recall (hastaları kaçırmamak için)  
+    b) MSE  
+    c) Silhouette  
+    d) R²  
+    **Cevap: (a)**
+
+16. **Problem:** Bir markette ürünlerin raf yerleşimini satış verilerine göre optimize etmek (benzer ürünler yakın olsun).  
+    **Kategori:** Denetimsiz öğrenme – Kümeleme  
+    **Tipi:** Ürün kümeleme  
+    **Soru:** Bu problemde etiketli veri gerekli midir?  
+    a) Evet  
+    b) Hayır  
+    c) Yarı denetimli  
+    d) Pekiştirmeli  
+    **Cevap: (b)**
+
+17. **Problem:** Bir aracın yakıt tüketimini hız, yük, yol tipi gibi faktörlere göre tahmin etmek.  
+    **Kategori:** Denetimli öğrenme – Regresyon  
+    **Tipi:** Çoklu regresyon  
+    **Soru:** Bu problemde hedef değişken nedir?  
+    a) Kategorik  
+    b) Sürekli (yakıt tüketimi)  
+    c) Binary  
+    d) Sıralı  
+    **Cevap: (b)**
+
+18. **Problem:** Sosyal medya hesaplarının bot (sahte) olup olmadığını tespit etmek.  
+    **Kategori:** Denetimli öğrenme – Sınıflandırma  
+    **Tipi:** İkili sınıflandırma  
+    **Soru:** Bu problemde hangi algoritma sık kullanılır?  
+    a) K-Means  
+    b) Random Forest / XGBoost  
+    c) PCA  
+    d) DBSCAN  
+    **Cevap: (b)**
+
+19. **Problem:** Bir şehirdeki taksilerin yoğun olduğu bölgeleri belirlemek (yoğunluk haritası).  
+    **Kategori:** Denetimsiz öğrenme – Kümeleme  
+    **Tipi:** Mekânsal kümeleme  
+    **Soru:** Bu problem için hangi kümeleme algoritması uygundur?  
+    a) Linear Regression  
+    b) DBSCAN (yoğunluk tabanlı)  
+    c) Logistic Regression  
+    d) SVM  
+    **Cevap: (b)**
+
+20. **Problem:** Bir akıllı ev sisteminde elektrik tüketiminde olağandışı artışları (kısa devre, unutulan cihaz) yakalamak.  
+    **Kategori:** Denetimsiz öğrenme – Anomali Tespiti  
+    **Tipi:** Zaman serisi anomali tespiti  
+    **Soru:** Bu problemde hangi öğrenme türü kullanılır?  
+    a) Denetimli  
+    b) Denetimsiz (anomali tespiti)  
+    c) Pekiştirmeli  
+    d) Yarı denetimli  
+    **Cevap: (b)**

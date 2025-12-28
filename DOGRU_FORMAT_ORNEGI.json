@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "tip": "coktan-secmeli",
+    "soruMetni": "ESP32 hangi kablosuz iletişim teknolojilerini destekler?",
+    "dogruCevap": "C",
+    "siklar": [
+      {"harf": "A", "metin": "Wi-Fi"},
+      {"harf": "B", "metin": "Bluetooth"},
+      {"harf": "C", "metin": "Her ikisi"},
+      {"harf": "D", "metin": "Hiçbiri"}
+    ]
+  },
+  {
+    "id": 2,
+    "tip": "coktan-secmeli",
+    "soruMetni": "analogWrite() fonksiyonu ne işe yarar?",
+    "dogruCevap": "B",
+    "siklar": [
+      {"harf": "A", "metin": "Analog veri okur"},
+      {"harf": "B", "metin": "PWM sinyali gönderir"},
+      {"harf": "C", "metin": "Dijital sinyali okur"},
+      {"harf": "D", "metin": "UART başlatır"}
+    ]
+  },
+  {
+    "id": 3,
+    "tip": "bosluk-doldurma",
+    "soruMetni": "Arduino'da sürekli çalışan fonksiyonun adı nedir?",
+    "dogruCevap": "loop"
+  }
+]

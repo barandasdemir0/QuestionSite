@@ -1,0 +1,26 @@
+{
+  "name": "test-uygulamasi",
+  "version": "1.0.0",
+  "description": "Test uygulaması - Backend ve Frontend",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "cd backend && npm start",
+    "dev:frontend": "cd frontend && npm run dev",
+    "start": "npm run dev"
+  },
+  "keywords": [
+    "test",
+    "quiz",
+    "react",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "multer": "^2.0.2"
+  }
+}

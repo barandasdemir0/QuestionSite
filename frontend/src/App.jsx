@@ -1,0 +1,29 @@
+import { Routes, Route } from 'react-router-dom'
+import DersSecimi from './pages/DersSecimi'
+import SinavSecimi from './pages/SinavSecimi'
+import AnaSayfa from './pages/AnaSayfa'
+import TestEkrani from './pages/TestEkrani'
+import SonucEkrani from './pages/SonucEkrani'
+
+function App() {
+  return (
+    <Routes>
+      {/* 1. Ders Seçimi (Ana Giriş) */}
+      <Route path="/" element={<DersSecimi />} />
+
+      {/* 2. Sınav Seçimi (Vize / Final) */}
+      <Route path="/ders/:dersId" element={<SinavSecimi />} />
+
+      {/* 3. Test Ekranı (Soru Tipi Seçimi) */}
+      <Route path="/ders/:dersId/:sinavTipi" element={<AnaSayfa />} />
+
+      {/* 4. Sınav/Quiz Aşaması */}
+      <Route path="/test" element={<TestEkrani />} />
+
+      {/* 5. Sonuçlar */}
+      <Route path="/sonuc" element={<SonucEkrani />} />
+    </Routes>
+  )
+}
+
+export default App

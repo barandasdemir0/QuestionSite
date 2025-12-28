@@ -1,0 +1,100 @@
+# 📘 Soru Bankası & Test Uygulaması - Kullanım Kılavuzu
+
+Bu proje, öğrencilerin ders materyallerini pekiştirmesi ve kendilerini sınavlara hazırlaması için geliştirilmiş modern, etkileşimli bir test platformudur.
+
+---
+
+## 🚀 1. Kurulum ve Başlatma
+
+Uygulamayı çalıştırmak için bilgisayarınızda **Node.js** ve **Python** (isteğe bağlı, Word ayrıştırma için) kurulu olmalıdır.
+
+### Adım 1: Başlatma
+Projenin ana klasöründe bir terminal açın ve şu komutu çalıştırın:
+
+```powershell
+npm start
+```
+
+Bu komut hem **Backend** (Sunucu - Port 5000) hem de **Frontend** (Arayüz - Port 3000) tarafını aynı anda başlatır. Tarayıcınız otomatik olarak açılmazsa `http://localhost:3000` adresine gidin.
+
+---
+
+## 🛠️ 2. Yönetim Paneli (Soru Yükleme & Silme)
+
+Uygulamanın sağ üst köşesindeki **"Yönetim Paneli"** (Dişli Çark ⚙️) butonuna tıklayarak yönetim ekranını açabilirsiniz.
+
+### 📥 Soru Ekleme
+1.  **Ders Adı:** Soruların ait olduğu dersi yazın (Örn: "Yapay Zeka").
+2.  **Sınav Tipi:** "Vize" veya "Final" seçeneğini işaretleyin.
+3.  **Dosya Seç:** Hazırladığınız `.txt` veya `.docx` formatındaki dosyanızı yükleyin.
+4.  **Kaydet ve Yükle:** Butona bastığınızda sorular otomatik olarak ayrıştırılıp sisteme eklenir.
+
+### 🗑️ Temizlik (Silme İşlemleri)
+*   **Seçili Silme:** Belirli bir dersin veya sınavın sorularını silebilirsiniz.
+*   **TEHLİKELİ BÖLGE (Reset):** "Uygulamayı Tamamen Sıfırla" butonu, veritabanındaki **tüm dersleri ve soruları kalıcı olarak siler**.
+
+---
+
+## 📝 3. Soru Dosyası Formatı
+
+Sistemin soruları doğru algılaması için yükleyeceğiniz dosyanın (.txt veya .docx) belirli bir düzende olması önerilir.
+
+### Örnek Format (txt/docx):
+
+```text
+1. Aşağıdakilerden hangisi Yapay Zeka'nın alt dalıdır?
+A) Web Tasarım
+B) Makine Öğrenmesi
+C) Veritabanı Yönetimi
+D) Ağ Güvenliği
+Cevap: B
+
+2. [Günlük Hayat Problemi] Müşteri segmentasyonu için hangi yöntem kullanılır?
+A) Denetimli
+B) Denetimsiz
+Cevap: B
+
+3. Regresyon analizinde amaç bağımlı değişkeni ________ tahmin etmektir.
+(Cevap: sayısal olarak)
+
+4. ROC eğrisi nedir?
+**Cevap:** Doğru Pozitif Oranı ile Yanlış Pozitif Oranı grafiğidir.
+```
+
+*   **Çoktan Seçmeli:** Soru metni, şıklar (A, B, C, D) ve "Cevap: X" satırı.
+*   **Boşluk Doldurma:** Soru içinde `________` (alt tire) ve sonunda `(Cevap: ...)` parantezi.
+*   **Klasik:** Soru metni ve "Cevap:" veya "**Cevap:**" ile başlayan çözüm satırı.
+
+---
+
+## 🎓 4. Sınav Modu (Öğrenci Ekranı)
+
+### 📌 Akış
+1.  **Ders Seçimi:** Ana ekranda mevcut derslerden birini seçin.
+2.  **Sınav Tipi:** "Vize" veya "Final" sınavını seçin.
+3.  **Soru Tipi:** Hangi formatta çalışmak istediğinizi belirleyin:
+    *   **📝 Çoktan Seçmeli:** 4 şıklı standart test.
+    *   **✏️ Boşluk Doldurma:** Cümle tamamlama soruları.
+    *   **💡 Klasik Sorular:** Cevabı zihninizde kurup "Cevabı Göster" diyerek kontrol ettiğiniz kartlar.
+
+### ⚡ Test Ekranı Özellikleri
+*   **Anlık Kontrol:** "Cevabı Kontrol Et" ile doğru/yanlış durumunu hemen görün.
+*   **Navigasyon:** Önceki/Sonraki butonları ile sorular arasında gezinin.
+*   **Bitirme:** İstediğiniz zaman sınavı bitirip karne ekranına gidebilirsiniz.
+
+### 🏆 Sonuç Ekranı
+Test bittiğinde detaylı bir analiz kartı çıkar:
+*   Doğru/Yanlış/Boş sayıları.
+*   Başarı puanınıza göre özel bir mesaj (Örn: "Efsanesin! 🎉").
+*   **Hatalı Sorular:** Yanlış yaptığınız veya boş bıraktığınız soruların listesi ve doğru cevapları.
+
+---
+
+## ⚠️ Sorun Giderme
+
+*   **Sorular Görünmüyor:** Dosya formatınızın yukarıdaki örneğe uygun olduğundan emin olun. Şıkların `A)` veya `A.` şeklinde başladığını kontrol edin.
+*   **Word Dosyası Okunmuyor:** `python-docx` kütüphanesinin yüklü olduğundan emin olun (`pip install python-docx`).
+*   **Reset Sonrası:** Uygulamayı sıfırladıysanız ana sayfa boş görünecektir, yönetim panelinden yeni ders ekleyin.
+
+---
+*İyi çalışmalar ve başarılar dileriz!* 🚀
