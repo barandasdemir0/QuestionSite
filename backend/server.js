@@ -257,6 +257,56 @@ app.get('/api/rastgele-sorular/:adet?', (req, res) => {
   }
 });
 
+// Özel Sınav: Seçilen sayıda soru tipleri ile
+app.post('/api/custom-quiz', (req, res) => {
+  try {
+    if (!fs.existsSync(SORULAR_DOSYASI)) {
+      return res.json({ sorular: [], cevaplar: {} });
+    }
+
+    const { multipleChoice = 0, classic = 0, blankFill = 0 } = req.body;
+    let sorular = JSON.parse(fs.readFileSync(SORULAR_DOSYASI, 'utf8'));
+
+    // Soru tiplerini ayır
+    const coktan = sorular.filter(s => s.tip === 'coktan-secmeli');
+    const klasik = sorular.filter(s => s.tip === 'klasik');
+    const acikUclu = sorular.filter(s => s.tip === 'bosluk-doldurma');
+
+    // Rastgele seç
+    const shuffle = (arr) => [...arr].sort(() => Math.random() - 0.5);
+    const secilenSorular = [
+      ...shuffle(coktan).slice(0, multipleChoice),
+      ...shuffle(klasik).slice(0, classic),
+      ...shuffle(acikUclu).slice(0, blankFill)
+    ];
+
+    if (secilenSorular.length === 0) {
+      return res.json({ sorular: [], cevaplar: {} });
+    }
+
+    // Seçilen soruları karıştır
+    const karisikSorular = shuffle(secilenSorular);
+
+    const cevapsizSorular = karisikSorular.map(soru => {
+      const { dogruCevap, ...soruBilgisi } = soru;
+      return soruBilgisi;
+    });
+
+    res.json({
+      sorular: cevapsizSorular,
+      toplam: karisikSorular.length,
+      cevaplar: karisikSorular.reduce((acc, soru) => {
+        acc[soru.id] = soru.dogruCevap;
+        return acc;
+      }, {})
+    });
+
+  } catch (error) {
+    console.error('Custom quiz hatası:', error);
+    res.status(500).json({ hata: 'Özel sınav oluşturulamadı!' });
+  }
+});
+
 // Sistem sıfırlama: uploads klasörünü temizle ve tüm soruları sil
 app.post('/api/reset', (req, res) => {
   try {

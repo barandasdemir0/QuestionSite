@@ -1,5 +1,5 @@
 import { useNavigate, useParams, Link } from 'react-router-dom'
-import { BookOpen, ArrowLeft, Star, Edit3, PenTool, CheckCircle, HelpCircle, AlertTriangle, X } from 'lucide-react'
+import { BookOpen, ArrowLeft, Star, Edit3, PenTool, CheckCircle, HelpCircle, AlertTriangle, X, Zap } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import axios from 'axios'
 
@@ -172,6 +172,21 @@ function AnaSayfa() {
               </div>
               <h3 className="text-2xl font-bold text-white mb-2">Klasik Sorular</h3>
               <p className="text-white/50 text-sm">Kendini dene, cevabı gör.</p>
+            </div>
+          </button>
+
+          {/* Özel Sınav */}
+          <button
+            onClick={() => navigate('/toplu-sinav')}
+            className="group relative overflow-hidden rounded-[2.5rem] p-8 flex flex-col items-center justify-center text-center transition-all duration-300 border border-white/10 md:col-span-3 bg-gradient-to-br from-[#7f1d1d] to-[#991b1b] hover:scale-105 hover:-translate-y-2 hover:shadow-[0_20px_40px_-15px_rgba(239,68,68,0.5)] cursor-pointer"
+          >
+            <div className="absolute inset-0 bg-gradient-to-br from-red-500/10 to-rose-500/0 opacity-0 group-hover:opacity-100 transition-opacity"></div>
+            <div className="relative z-10">
+              <div className="w-20 h-20 rounded-2xl bg-gradient-to-br from-red-500 to-rose-600 flex items-center justify-center mb-6 shadow-lg shadow-red-900/50 group-hover:rotate-6 transition-transform">
+                <Zap size={36} className="text-white" />
+              </div>
+              <h3 className="text-2xl font-bold text-white mb-2">Özel Sınav</h3>
+              <p className="text-white/50 text-sm">Kendi soru dağılımını ayarla ve toplu sınava gir.</p>
             </div>
           </button>
 

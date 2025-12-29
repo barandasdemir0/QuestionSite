@@ -35,6 +35,39 @@ function TestEkrani() {
     // Filtreleri al
     const ders = location.state?.ders
     const sinav = location.state?.sinav
+    const customSorular = location.state?.customSorular
+    const customCevaplar = location.state?.customCevaplar
+
+    // Özel sınav modundan gelen sorular varsa direkt kullan
+    if (customSorular && customCevaplar) {
+      // Şıkları karıştır
+      const shuffle = (arr) => {
+        const a = [...arr]
+        for (let i = a.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1))
+          ;[a[i], a[j]] = [a[j], a[i]]
+        }
+        return a
+      }
+
+      const letters = Array.from('ABCDEFGHIJKLMNOPQRSTUVWXYZ')
+      const karisikSorular = customSorular.map((soru) => {
+        if (soru.tip === 'coktan-secmeli' && Array.isArray(soru.siklar)) {
+          const shuffled = shuffle(soru.siklar).map((sik, idx) => ({
+            ...sik,
+            orijinalHarf: sik.harf,
+            harf: letters[idx] || sik.harf
+          }))
+          return { ...soru, siklar: shuffled }
+        }
+        return soru
+      })
+
+      setSorular(karisikSorular)
+      setCevaplar(customCevaplar)
+      setYukleniyor(false)
+      return
+    }
 
     axios.get(`http://localhost:5000/api/rastgele-sorular?tip=${soruTipi}`, {
       params: { ders, sinav }

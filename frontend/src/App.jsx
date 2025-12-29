@@ -4,6 +4,7 @@ import SinavSecimi from './pages/SinavSecimi'
 import AnaSayfa from './pages/AnaSayfa'
 import TestEkrani from './pages/TestEkrani'
 import SonucEkrani from './pages/SonucEkrani'
+import TopluSinav from './pages/TopluSinav'
 
 function App() {
   return (
@@ -16,6 +17,9 @@ function App() {
 
       {/* 3. Test Ekranı (Soru Tipi Seçimi) */}
       <Route path="/ders/:dersId/:sinavTipi" element={<AnaSayfa />} />
+
+      {/* 3.5. Özel Sınav (Toplu Sınav Ayarları) */}
+      <Route path="/toplu-sinav" element={<TopluSinav />} />
 
       {/* 4. Sınav/Quiz Aşaması */}
       <Route path="/test" element={<TestEkrani />} />
