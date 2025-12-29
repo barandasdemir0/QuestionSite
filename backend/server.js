@@ -9,13 +9,10 @@ const { exec } = require('child_process');
 const app = express();
 const PORT = 5000;
 
-// CORS Ayarları - Vercel'den gelen isteklere izin ver
-app.use(cors({
-  origin: ['https://question-site-it86sibxn-barans-projects-57ad0169.vercel.app', 'http://localhost:3000', 'http://localhost:3001'],
-  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-  credentials: true,
-  allowedHeaders: ['Content-Type', 'Authorization']
-}));
+// CORS Ayarları (Geliştirme ve çoklu deploy alan adları için en güvenli/kolay çözüm)
+// Tüm origin'lere izin ver ve preflight (OPTIONS) isteklerini otomatik yanıtla.
+app.use(cors());
+app.options('*', cors());
 
 // Middleware'ler
 app.use(express.json()); // JSON verileri parse et
