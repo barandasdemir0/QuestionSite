@@ -19,7 +19,7 @@ function AnaSayfa() {
   }, [dersId, sinavTipi])
 
   const sorulariGetir = () => {
-    axios.get('http://localhost:5000/api/sorular', {
+    axios.get('https://questionsite.onrender.com/api/sorular', {
       params: { ders: dersAdi, sinav: sinavAdi }
     })
       .then(response => {

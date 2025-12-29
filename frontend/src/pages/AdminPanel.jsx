@@ -29,7 +29,7 @@ function AdminPanel() {
         setYuklemeDurumu('yukleniyor');
 
         try {
-            const res = await axios.post('http://localhost:5000/api/upload', formData, {
+            const res = await axios.post('https://questionsite.onrender.com/api/upload', formData, {
                 headers: { 'Content-Type': 'multipart/form-data' }
             });
 
@@ -47,7 +47,7 @@ function AdminPanel() {
         if (!window.confirm("Seçilen kriterlere uyan TÜM sorular silinecek. Emin misiniz?")) return;
 
         try {
-            const res = await axios.post('http://localhost:5000/api/sorulari-sil', {
+            const res = await axios.post('https://questionsite.onrender.com/api/sorulari-sil', {
                 ders: silinecekDers || undefined,
                 sinav: silinecekSinav || undefined
             });
@@ -60,7 +60,7 @@ function AdminPanel() {
     const sistemiSifirla = async () => {
         if (!window.confirm("Uploads klasörü ve tüm sorular temizlenecek. Emin misiniz?")) return;
         try {
-            const res = await axios.post('http://localhost:5000/api/reset');
+            const res = await axios.post('https://questionsite.onrender.com/api/reset');
             alert(`Sistem sıfırlandı! Silinen dosya: ${res.data.silinenDosya}, kalan soru: ${res.data.kalanSoru}`);
         } catch (err) {
             alert("Sıfırlama sırasında hata oluştu.");

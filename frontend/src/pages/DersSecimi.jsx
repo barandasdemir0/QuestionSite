@@ -21,7 +21,7 @@ function DersSecimi() {
     const [silinecekSinav, setSilinecekSinav] = useState('');
 
     const dersleriGetir = () => {
-        axios.get('http://localhost:5000/api/dersler')
+        axios.get('https://questionsite.onrender.com/api/dersler')
             .then(res => {
                 // "Genel" ve boş dersleri filtrele
                 const filtrelenmis = res.data.filter(d => d && d !== 'Genel');
@@ -54,7 +54,7 @@ function DersSecimi() {
         setYuklemeDurumu('yukleniyor');
 
         try {
-            const res = await axios.post('http://localhost:5000/api/upload', formData, {
+            const res = await axios.post('https://questionsite.onrender.com/api/upload', formData, {
                 headers: { 'Content-Type': 'multipart/form-data' }
             });
 
@@ -84,10 +84,10 @@ function DersSecimi() {
     const islemYap = async (ozelIslem) => {
         try {
             if (ozelIslem === 'sifirla') {
-                await axios.post('http://localhost:5000/api/sorulari-sil', {}); // Body boş gidince hepsi siliniyor backend mantığına göre
+                await axios.post('https://questionsite.onrender.com/api/sorulari-sil', {}); // Body boş gidince hepsi siliniyor backend mantığına göre
                 setModal({ type: 'success', message: 'Tüm uygulama verileri başarıyla sıfırlandı! 🗑️' });
             } else if (ozelIslem === 'sil') {
-                await axios.post('http://localhost:5000/api/sorulari-sil', {
+                await axios.post('https://questionsite.onrender.com/api/sorulari-sil', {
                     ders: silinecekDers || undefined,
                     sinav: silinecekSinav || undefined
                 });

@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { ArrowLeft, Zap, AlertCircle, X } from 'lucide-react'
 import axios from 'axios'
+import { API } from '../config'
 
 function TopluSinav() {
   const navigate = useNavigate()
@@ -38,7 +39,7 @@ function TopluSinav() {
 
   useEffect(() => {
     // Tüm soruları getir ve tiplere göre ayır
-    axios.get('http://localhost:5000/api/sorular')
+    axios.get(API.SORULAR)
       .then(response => {
         const sorular = response.data.sorular
         
@@ -73,7 +74,7 @@ function TopluSinav() {
 
     setLoading(true)
     try {
-      const response = await axios.post('http://localhost:5000/api/custom-quiz', {
+      const response = await axios.post(API.CUSTOM_QUIZ, {
         multipleChoice,
         classic,
         blankFill

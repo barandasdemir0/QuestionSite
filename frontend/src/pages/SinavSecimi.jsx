@@ -13,7 +13,7 @@ function SinavSecimi() {
 
     useEffect(() => {
         // Sınavları API'den çek
-        axios.get(`http://localhost:5000/api/sinavlar/${dersId}`)
+        axios.get(`https://questionsite.onrender.com/api/sinavlar/${dersId}`)
             .then(res => {
                 setSinavlar(res.data);
                 setYukleniyor(false);

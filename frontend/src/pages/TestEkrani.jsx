@@ -69,7 +69,7 @@ function TestEkrani() {
       return
     }
 
-    axios.get(`http://localhost:5000/api/rastgele-sorular?tip=${soruTipi}`, {
+    axios.get(API.RASTGELE_SORULAR(soruTipi), {
       params: { ders, sinav }
     })
       .then(response => {
