@@ -10,6 +10,7 @@ import TopluSinav from './pages/TopluSinav'
 
 function App() {
   // Keep-alive: Her 10 dakikada bir backend'e ping at (Render sleep'i engellemek için)
+  // Deployment bump: Vercel için taze build tetiklemek adına küçük dokunuş.
   useEffect(() => {
     const keepAlive = setInterval(() => {
       axios.get('https://questionsite.onrender.com/api/ping').catch(() => {});
