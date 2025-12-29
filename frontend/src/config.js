@@ -1,5 +1,8 @@
-// API Base URL - Environment variable'dan oku, yoksa localhost:5000 kullan
-export const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+// API Base URL - Production'da Render, dev'de localhost
+const isProduction = window.location.hostname.includes('github.io');
+export const API_BASE_URL = isProduction 
+  ? 'https://questionsite.onrender.com'
+  : 'http://localhost:5000';
 
 export const API = {
   SORULAR: `${API_BASE_URL}/api/sorular`,
