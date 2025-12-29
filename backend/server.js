@@ -330,6 +330,11 @@ app.post('/api/reset', (req, res) => {
   }
 });
 
+// Keep-alive endpoint (Render sleep'i engellemek için)
+app.get('/api/ping', (req, res) => {
+  res.json({ status: 'alive' });
+});
+
 // Sunucuyu başlat
 app.listen(PORT, () => {
   console.log(`🚀 Backend sunucu http://localhost:${PORT} adresinde çalışıyor!`);

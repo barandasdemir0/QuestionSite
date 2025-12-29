@@ -1,4 +1,5 @@
-import { Routes, Route } from 'react-router-dom'
+import { Routes, Route, useEffect } from 'react-router-dom'
+import axios from 'axios'
 import DersSecimi from './pages/DersSecimi'
 import SinavSecimi from './pages/SinavSecimi'
 import AnaSayfa from './pages/AnaSayfa'
@@ -7,6 +8,15 @@ import SonucEkrani from './pages/SonucEkrani'
 import TopluSinav from './pages/TopluSinav'
 
 function App() {
+  // Keep-alive: Her 10 dakikada bir backend'e ping at (Render sleep'i engellemek için)
+  useEffect(() => {
+    const keepAlive = setInterval(() => {
+      axios.get('https://questionsite.onrender.com/api/ping').catch(() => {});
+    }, 10 * 60 * 1000); // 10 dakika
+
+    return () => clearInterval(keepAlive);
+  }, []);
+
   return (
     <Routes>
       {/* 1. Ders Seçimi (Ana Giriş) */}
