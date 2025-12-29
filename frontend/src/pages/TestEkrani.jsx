@@ -15,6 +15,7 @@ function TestEkrani() {
   const [secilenHarf, setSecilenHarf] = useState(null) // Çoktan seçmeli için seçilen harfi takip et
   const [cevapVerildi, setCevapVerildi] = useState(false)
   const [cevapSonucu, setCevapSonucu] = useState(null)
+  const [cevapGosterildi, setCevapGosterildi] = useState(false) // Klasik/boşluk doldurma için doğrudan gösterildi mi?
 
   const [tumCevaplar, setTumCevaplar] = useState({})
   const [cevaplar, setCevaplar] = useState({})
@@ -43,7 +44,30 @@ function TestEkrani() {
           navigate('/')
           return
         }
-        setSorular(response.data.sorular)
+        // Şıkları her soruda karıştır (sadece çoktan seçmeli)
+        const shuffle = (arr) => {
+          const a = [...arr]
+          for (let i = a.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1))
+            ;[a[i], a[j]] = [a[j], a[i]]
+          }
+          return a
+        }
+
+        const letters = Array.from('ABCDEFGHIJKLMNOPQRSTUVWXYZ')
+        const karisikSorular = response.data.sorular.map((soru) => {
+          if (soru.tip === 'coktan-secmeli' && Array.isArray(soru.siklar)) {
+            const shuffled = shuffle(soru.siklar).map((sik, idx) => ({
+              ...sik,
+              orijinalHarf: sik.harf,
+              harf: letters[idx] || sik.harf
+            }))
+            return { ...soru, siklar: shuffled }
+          }
+          return soru
+        })
+
+        setSorular(karisikSorular)
         setCevaplar(response.data.cevaplar)
         setYukleniyor(false)
       })
@@ -59,26 +83,24 @@ function TestEkrani() {
     if (kayitliCevap) {
       setKullaniciCevabi(kayitliCevap.cevap)
       setCevapVerildi(true)
+      setCevapGosterildi(!!kayitliCevap.gosterildi)
       const mevcutSoru = sorular[mevcutSoruIndex]
       const dogruCevap = cevaplar[mevcutSoru.id]
 
       // Çoktan seçmeli sorular için harfi geri bul
       if (mevcutSoru.tip === 'coktan-secmeli') {
         const secilenSik = mevcutSoru.siklar.find(s => s.metin === kayitliCevap.cevap)
-        setSecilenHarf(secilenSik ? secilenSik.harf : null)
+        setSecilenHarf(secilenSik ? secilenSik.orijinalHarf : null)
       } else {
         setSecilenHarf(null)
       }
 
-      if (mevcutSoru.tip === 'bosluk-doldurma') {
-        setCevapSonucu({ dogru: kayitliCevap.dogruMu, dogruCevap })
-      } else {
-        setCevapSonucu({ dogru: kayitliCevap.dogruMu, dogruCevap })
-      }
+      setCevapSonucu({ dogru: kayitliCevap.dogruMu, dogruCevap })
     } else {
       setKullaniciCevabi('')
       setSecilenHarf(null)
       setCevapVerildi(false)
+      setCevapGosterildi(false)
       setCevapSonucu(null)
     }
   }, [mevcutSoruIndex, sorular, tumCevaplar]) // Deps simplified
@@ -89,8 +111,10 @@ function TestEkrani() {
   const cevabiGoster = () => {
     const dogruCevap = cevaplar[mevcutSoru.id]
     setCevapVerildi(true)
-    setCevapSonucu({ dogru: true, dogruCevap, mesaj: dogruCevap })
-    setTumCevaplar(prev => ({ ...prev, [mevcutSoruIndex]: { cevap: dogruCevap, dogruMu: true, bos: false } }))
+    // Göster butonu ile görülen cevap DOĞRU sayılmamalı, "boş" olarak işaretlenmeli
+    setCevapSonucu({ dogru: false, dogruCevap, mesaj: dogruCevap })
+    setCevapGosterildi(true)
+    setTumCevaplar(prev => ({ ...prev, [mevcutSoruIndex]: { cevap: dogruCevap, dogruMu: false, bos: true, gosterildi: true } }))
   }
 
   const cevabiKontrolEt = (secilenCevap = null) => {
@@ -105,18 +129,19 @@ function TestEkrani() {
 
     setCevapVerildi(true)
     setCevapSonucu({ dogru: dogruMu, dogruCevap })
+    setCevapGosterildi(false)
     
     // Çoktan seçmeli sorular için şık metnini kaydet ve harfi takip et
     let kayitCevap = cevap
     if (mevcutSoru.tip === 'coktan-secmeli') {
       setSecilenHarf(cevap)
-      const secilenSik = mevcutSoru.siklar.find(s => s.harf === cevap)
+      const secilenSik = mevcutSoru.siklar.find(s => s.orijinalHarf === cevap)
       if (secilenSik) {
         kayitCevap = secilenSik.metin
       }
     }
     
-    setTumCevaplar(prev => ({ ...prev, [mevcutSoruIndex]: { cevap: kayitCevap, dogruMu, bos: false } }))
+    setTumCevaplar(prev => ({ ...prev, [mevcutSoruIndex]: { cevap: kayitCevap, dogruMu, bos: false, gosterildi: false } }))
   }
 
   const sonrakiSoru = () => {
@@ -246,22 +271,22 @@ function TestEkrani() {
                   // Durum belirleme
                   let stil = "bg-white/5 border-white/10 text-white hover:bg-white/10";
                   if (cevapVerildi) {
-                    if (sik.harf === cevapSonucu.dogruCevap) stil = "bg-green-500/20 border-green-500 text-green-400";
-                    else if (sik.harf === secilenHarf) stil = "bg-red-500/20 border-red-500 text-red-400";
+                    if (sik.orijinalHarf === cevapSonucu.dogruCevap) stil = "bg-green-500/20 border-green-500 text-green-400";
+                    else if (sik.orijinalHarf === secilenHarf) stil = "bg-red-500/20 border-red-500 text-red-400";
                     else stil = "bg-black/20 border-transparent text-white/30";
                   }
-                  else if (sik.harf === secilenHarf) {
+                  else if (sik.orijinalHarf === secilenHarf) {
                     stil = "bg-blue-500/20 border-blue-500 text-blue-300";
                   }
 
                   return (
                     <button
                       key={sik.harf}
-                      onClick={() => !cevapVerildi && cevabiKontrolEt(sik.harf)}
+                      onClick={() => !cevapVerildi && cevabiKontrolEt(sik.orijinalHarf)}
                       disabled={cevapVerildi}
                       className={`w-full p-5 rounded-2xl border-2 text-left transition-all flex items-center gap-4 group ${stil}`}
                     >
-                      <div className={`w-8 h-8 rounded-lg flex items-center justify-center font-bold border ${cevapVerildi && sik.harf === cevapSonucu.dogruCevap ? 'bg-green-500 border-green-500 text-[#0f172a]' : 'bg-white/10 border-white/10'}`}>
+                      <div className={`w-8 h-8 rounded-lg flex items-center justify-center font-bold border ${cevapVerildi && sik.orijinalHarf === cevapSonucu.dogruCevap ? 'bg-green-500 border-green-500 text-[#0f172a]' : 'bg-white/10 border-white/10'}`}>
                         {sik.harf}
                       </div>
                       <span className="font-medium text-lg">{sik.metin}</span>
@@ -278,10 +303,10 @@ function TestEkrani() {
                   onChange={(e) => setKullaniciCevabi(e.target.value)}
                   onKeyDown={(e) => e.key === 'Enter' && cevabiKontrolEt()}
                   placeholder="Cevabınızı buraya yazın..."
-                  className={`w-full bg-black/20 border-2 rounded-2xl p-6 text-xl text-white outline-none focus:border-blue-500 transition-colors ${cevapVerildi ? (cevapSonucu.dogru ? 'border-green-500 bg-green-500/10' : 'border-orange-500 bg-orange-500/10') : 'border-orange-500/30'}`}
+                  className={`w-full bg-black/20 border-2 rounded-2xl p-6 text-xl text-white outline-none focus:border-blue-500 transition-colors ${cevapVerildi ? (cevapGosterildi ? 'border-orange-500 bg-orange-500/10' : (cevapSonucu.dogru ? 'border-green-500 bg-green-500/10' : 'border-red-500 bg-red-500/10')) : 'border-orange-500/30'}`}
                 />
                 {cevapVerildi && (
-                  <div className={`bg-[#0f172a]/50 p-6 rounded-xl border-l-4 animate-fade-in font-mono text-sm md:text-base ${cevapSonucu.dogru ? 'border-green-500 text-green-100' : 'border-orange-500 text-orange-100'}`}>
+                  <div className={`bg-[#0f172a]/50 p-6 rounded-xl border-l-4 animate-fade-in font-mono text-sm md:text-base ${cevapGosterildi ? 'border-orange-500 text-orange-100' : (cevapSonucu.dogru ? 'border-green-500 text-green-100' : 'border-red-500 text-red-100')}`}>
                     Doğru Cevap: {cevapSonucu.dogruCevap}
                   </div>
                 )}
@@ -312,16 +337,33 @@ function TestEkrani() {
             </button>
 
             {!cevapVerildi ? (
-              <button
-                onClick={() => cevabiKontrolEt()}
-                className="flex-1 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 text-white font-bold rounded-xl shadow-lg shadow-indigo-900/40 transition-all active:scale-[0.98] py-4"
-              >
-                Kontrol Et
-              </button>
+              isKlasik ? (
+                <div className="flex-1 grid grid-cols-2 gap-3">
+                  <button
+                    onClick={() => cevabiKontrolEt()}
+                    className="bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 text-white font-bold rounded-xl shadow-lg shadow-indigo-900/40 transition-all active:scale-[0.98] py-4"
+                  >
+                    Kontrol Et
+                  </button>
+                  <button
+                    onClick={cevabiGoster}
+                    className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-500 hover:to-pink-500 text-white font-bold rounded-xl shadow-lg shadow-purple-900/40 transition-all active:scale-[0.98] py-4 flex items-center justify-center gap-2"
+                  >
+                    <Eye size={18} /> Cevabı Göster
+                  </button>
+                </div>
+              ) : (
+                <button
+                  onClick={() => cevabiKontrolEt()}
+                  className="flex-1 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 text-white font-bold rounded-xl shadow-lg shadow-indigo-900/40 transition-all active:scale-[0.98] py-4"
+                >
+                  Kontrol Et
+                </button>
+              )
             ) : (
-              <div className={`flex-1 flex items-center gap-3 px-6 rounded-xl font-bold ${cevapSonucu.dogru ? 'bg-green-500/20 text-green-400' : 'bg-red-500/20 text-red-400'}`}>
-                {cevapSonucu.dogru ? <CheckCircle /> : <XCircle />}
-                <span>{cevapSonucu.dogru ? 'Doğru Bildin!' : 'Yanlış Cevap'}</span>
+              <div className={`flex-1 flex items-center gap-3 px-6 rounded-xl font-bold ${cevapSonucu.dogru ? 'bg-green-500/20 text-green-400' : cevapGosterildi && isKlasik ? 'bg-orange-500/20 text-orange-400' : 'bg-red-500/20 text-red-400'}`}>
+                {cevapGosterildi && isKlasik ? <Eye /> : (cevapSonucu.dogru ? <CheckCircle /> : <XCircle />)}
+                <span>{cevapGosterildi && isKlasik ? 'Cevabı İncele' : (cevapSonucu.dogru ? 'Doğru Bildin!' : 'Yanlış Cevap')}</span>
               </div>
             )}
 
