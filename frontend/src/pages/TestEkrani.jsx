@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { useNavigate, useLocation } from 'react-router-dom'
 import { ArrowLeft, CheckCircle, XCircle, ChevronRight, ChevronLeft, Eye, AlertTriangle, LogOut, CheckSquare } from 'lucide-react'
 import axios from 'axios'
+import { API } from '../config'
 
 function TestEkrani() {
   const navigate = useNavigate()
