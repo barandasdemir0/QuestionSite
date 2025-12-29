@@ -1,4 +1,5 @@
-import { Routes, Route, useEffect } from 'react-router-dom'
+import { Routes, Route } from 'react-router-dom'
+import { useEffect } from 'react'
 import axios from 'axios'
 import DersSecimi from './pages/DersSecimi'
 import SinavSecimi from './pages/SinavSecimi'
