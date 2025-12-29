@@ -21,6 +21,7 @@
     "concurrently": "^8.2.2"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "multer": "^2.0.2"
   }
 }
