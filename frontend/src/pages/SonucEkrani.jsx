@@ -86,13 +86,33 @@ function SonucEkrani() {
               Hatalı ve Boş Sorular
             </h3>
             <div className="space-y-4">
-              {[...yanlisSorular, ...bosSorular].map((soru, index) => (
+              {[...yanlisSorular, ...bosSorular].map((soru, index) => {
+                // Çoktan seçmeli soruların doğru şık metnini bul
+                let dogruCevapMetni = soru.dogruCevap
+                if (soru.tip === 'coktan-secmeli' && soru.siklar) {
+                  const dogruSik = soru.siklar.find(s => s.harf === soru.dogruCevap)
+                  if (dogruSik) {
+                    dogruCevapMetni = dogruSik.metin
+                  }
+                }
+                
+                // Verilen cevabın metnini göster (çoktan seçmeli için)
+                let verilenCevapMetni = soru.verilenCevap
+                if (soru.durum === 'yanlis' && soru.tip === 'coktan-secmeli' && soru.siklar && soru.verilenCevap.length === 1) {
+                  // Harf ise metne çevir
+                  const verilenSik = soru.siklar.find(s => s.harf === soru.verilenCevap)
+                  if (verilenSik) {
+                    verilenCevapMetni = verilenSik.metin
+                  }
+                }
+                
+                return (
                 <div key={index} className="bg-black/20 rounded-2xl p-6 border border-white/5 hover:border-white/10 transition-colors">
                   <p className="text-lg font-medium mb-4">{soru.soruMetni}</p>
                   <div className="flex flex-wrap gap-4 text-sm">
                     {soru.durum === 'yanlis' && (
                       <div className="px-3 py-1.5 rounded-lg bg-red-500/20 text-red-300 border border-red-500/30">
-                        Sizin Cevabınız: <span className="font-bold text-white">{soru.verilenCevap}</span>
+                        Sizin Cevabınız: <span className="font-bold text-white">{verilenCevapMetni}</span>
                       </div>
                     )}
                     {soru.durum === 'bos' && (
@@ -101,11 +121,12 @@ function SonucEkrani() {
                       </div>
                     )}
                     <div className="px-3 py-1.5 rounded-lg bg-green-500/20 text-green-300 border border-green-500/30">
-                      Doğru Cevap: <span className="font-bold text-white">{soru.dogruCevap}</span>
+                      Doğru Cevap: <span className="font-bold text-white">{dogruCevapMetni}</span>
                     </div>
                   </div>
                 </div>
-              ))}
+                )
+              })}
             </div>
           </div>
         )}
