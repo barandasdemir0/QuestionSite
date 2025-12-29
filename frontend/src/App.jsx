@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom'
+import { Routes, Route, BrowserRouter } from 'react-router-dom'
 import { useEffect } from 'react'
 import axios from 'axios'
 import DersSecimi from './pages/DersSecimi'
@@ -20,7 +20,8 @@ function App() {
   }, []);
 
   return (
-    <Routes>
+    <BrowserRouter basename="/QuestionSite">
+      <Routes>
       {/* 1. Ders Seçimi (Ana Giriş) */}
       <Route path="/" element={<DersSecimi />} />
 
@@ -39,6 +40,7 @@ function App() {
       {/* 5. Sonuçlar */}
       <Route path="/sonuc" element={<SonucEkrani />} />
     </Routes>
+    </BrowserRouter>
   )
 }
 
